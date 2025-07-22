@@ -1,0 +1,14 @@
+dash
+dash-bootstrap-components
+pandas
+numpy
+plotly
+sqlalchemy
+pyodbc
+scikit-learn
+statsmodels
+prophet
+openpyxl
+python-dotenv
+seaborn
+matplotlib

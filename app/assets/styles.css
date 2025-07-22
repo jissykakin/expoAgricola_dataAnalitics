@@ -1,0 +1,40 @@
+/* Importa Tailwind (CDN) */
+@import url("https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css");
+
+
+body {
+    padding-top: 56px;  
+}
+
+
+/* Asegurar que todos los textos sean blancos */
+#sidebar, 
+#sidebar .nav-link, 
+#sidebar .nav-link span, 
+#sidebar h5, 
+#sidebar h6 {
+    color: white !important;
+}
+
+/* Iconos en estado activo */
+.nav-link.active i {
+    color: white !important;
+}
+
+/* Responsive - ocultar sidebar en móviles por defecto */
+@media (max-width: 767.98px) {
+    #sidebar {
+        left: -250px !important;
+    }
+}
+
+/* Para móviles */
+@media (max-width: 992px) {
+    .sidebar {
+        width: 0;
+        overflow: hidden;
+    }
+    .main-content {
+        margin-left: 0 !important;
+    }
+}

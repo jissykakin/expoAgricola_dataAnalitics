@@ -1,0 +1,2636 @@
+CodDpto,Departamento,CodMunicipio,Municipio,Cultivo,Periodo,Area_Sembrada_ha,Area_Cosechada_ha,Produccion_t,Rendimiento_t_ha
+13,Bolívar,13006,Achí,Aguacate,2016,80,80,960,12
+13,Bolívar,13006,Achí,AHUYAMA,2016,15,15,225,15
+13,Bolívar,13006,Achí,AHUYAMA,2016,50,25,300,12
+13,Bolívar,13006,Achí,Arroz Riego,2016,861,600,2700,4.5
+13,Bolívar,13006,Achí,Arroz Riego,2016,600,600,3000,5
+13,Bolívar,13006,Achí,Arroz Secano Manual,2016,1200,900,2250,2.5
+13,Bolívar,13006,Achí,Arroz Secano Manual,2016,1200,900,1800,2
+13,Bolívar,13006,Achí,Arroz Secano Mecanizado,2016,7000,3100,12090,3.9
+13,Bolívar,13006,Achí,Arroz Secano Mecanizado,2016,3500,1700,5950,3.5
+13,Bolívar,13006,Achí,Cacao,2016,35,35,18,0.5
+13,Bolívar,13006,Achí,Caña Panelera,2016,30,30,300,10
+13,Bolívar,13006,Achí,Maíz Tradicional,2016,2000,1800,4500,2.5
+13,Bolívar,13006,Achí,Maíz Tradicional,2016,1500,1300,2600,2
+13,Bolívar,13006,Achí,Patilla,2016,30,20,300,15
+13,Bolívar,13006,Achí,Patilla,2016,50,25,350,14
+13,Bolívar,13006,Achí,Plátano,2016,400,400,1600,4
+13,Bolívar,13006,Achí,Yuca,2016,300,250,3000,12
+13,Bolívar,13006,Achí,Zapote,2016,50,50,500,10
+13,Bolívar,13030,Altos Del Rosario,Arroz Secano Manual,2016,120,90,135,1.5
+13,Bolívar,13030,Altos Del Rosario,Arroz Secano Manual,2016,160,140,210,1.5
+13,Bolívar,13030,Altos Del Rosario,Cacao,2016,20,0,0,0
+13,Bolívar,13030,Altos Del Rosario,Maíz Tradicional,2016,150,120,180,1.5
+13,Bolívar,13030,Altos Del Rosario,Maíz Tradicional,2016,120,100,150,1.5
+13,Bolívar,13030,Altos Del Rosario,Plátano,2016,100,100,550,5.5
+13,Bolívar,13030,Altos Del Rosario,Yuca,2016,150,140,1400,10
+13,Bolívar,13042,Arenal,Arroz Secano Manual,2016,12,4,6,1.5
+13,Bolívar,13042,Arenal,Arroz Secano Manual,2016,12,12,18,1.5
+13,Bolívar,13042,Arenal,Cacao,2016,120,120,180,1.5
+13,Bolívar,13042,Arenal,Maíz Tradicional,2016,2250,1200,1800,1.5
+13,Bolívar,13042,Arenal,Maíz Tradicional,2016,1250,700,1050,1.5
+13,Bolívar,13042,Arenal,Plátano,2016,250,250,1000,4
+13,Bolívar,13042,Arenal,Yuca,2016,900,900,9000,10
+13,Bolívar,13052,Arjona,Piña,2016,3,3,120,40
+13,Bolívar,13074,Barranco De Loba,Aguacate,2016,15,10,100,10
+13,Bolívar,13074,Barranco De Loba,Cacao,2016,46,1,1,1.2
+13,Bolívar,13074,Barranco De Loba,Maíz Tradicional,2016,550,400,600,1.5
+13,Bolívar,13074,Barranco De Loba,Maíz Tradicional,2016,400,300,450,1.5
+13,Bolívar,13074,Barranco De Loba,Mango,2016,15,12,144,12
+13,Bolívar,13074,Barranco De Loba,Plátano,2016,29,15,60,4
+13,Bolívar,13074,Barranco De Loba,Yuca,2016,450,430,3440,8
+13,Bolívar,13140,Calamar,Ají Dulce,2016,5,5,30,6
+13,Bolívar,13140,Calamar,Guayaba,2016,5,5,30,6
+13,Bolívar,13140,Calamar,Maíz Tradicional,2016,500,250,375,1.5
+13,Bolívar,13140,Calamar,Maíz Tradicional,2016,500,250,250,1
+13,Bolívar,13140,Calamar,Maíz Tradicional,2016,500,400,600,1.5
+13,Bolívar,13140,Calamar,Maíz Tradicional,2016,500,400,400,1
+13,Bolívar,13140,Calamar,Mango,2016,27,22,330,15
+13,Bolívar,13140,Calamar,Ñame Diamante,2016,20,8,56,7
+13,Bolívar,13140,Calamar,Plátano,2016,5,5,30,6
+13,Bolívar,13140,Calamar,Yuca,2016,500,450,3150,7
+13,Bolívar,13001,Cartagena De Indias,Ají Dulce,2016,3,3,6,2
+13,Bolívar,13001,Cartagena De Indias,Arroz Secano Manual,2016,4,0,0,0
+13,Bolívar,13001,Cartagena De Indias,Arroz Secano Mecanizado,2016,60,58,290,5
+13,Bolívar,13001,Cartagena De Indias,Berenjena,2016,4,3,9,3
+13,Bolívar,13001,Cartagena De Indias,Berenjena,2016,6,5,30,6
+13,Bolívar,13001,Cartagena De Indias,Cilantro,2016,6,6,12,2
+13,Bolívar,13001,Cartagena De Indias,Ciruela,2016,35,35,70,2
+13,Bolívar,13001,Cartagena De Indias,Coco,2016,220,220,1760,8
+13,Bolívar,13001,Cartagena De Indias,Frijol,2016,13,10,10,1
+13,Bolívar,13001,Cartagena De Indias,Guanábana,2016,9,9,45,5
+13,Bolívar,13001,Cartagena De Indias,Maíz Tradicional,2016,10,2,2,1
+13,Bolívar,13001,Cartagena De Indias,Maíz Tradicional,2016,30,20,20,1
+13,Bolívar,13001,Cartagena De Indias,Mango,2016,17,17,119,7
+13,Bolívar,13001,Cartagena De Indias,Melón,2016,16,5,15,3
+13,Bolívar,13001,Cartagena De Indias,Melón,2016,50,48,576,12
+13,Bolívar,13001,Cartagena De Indias,Millo,2016,3,0,0,0
+13,Bolívar,13001,Cartagena De Indias,Ñame Diamante,2016,40,40,480,12
+13,Bolívar,13001,Cartagena De Indias,Patilla,2016,3,2,8,4
+13,Bolívar,13001,Cartagena De Indias,Pepino Cohombro,2016,5,5,40,8
+13,Bolívar,13001,Cartagena De Indias,Pepino Cohombro,2016,4,4,32,8
+13,Bolívar,13001,Cartagena De Indias,Pimentón,2016,5,3,15,5
+13,Bolívar,13001,Cartagena De Indias,Plátano,2016,30,30,270,9
+13,Bolívar,13001,Cartagena De Indias,Tomate,2016,2,1,2,2
+13,Bolívar,13001,Cartagena De Indias,Yuca,2016,560,540,5400,10
+13,Bolívar,13188,Cicuco,Maíz Tradicional,2016,280,260,390,1.5
+13,Bolívar,13188,Cicuco,Maíz Tradicional,2016,280,260,390,1.5
+13,Bolívar,13188,Cicuco,Maíz Tradicional,2016,250,0,0,0
+13,Bolívar,13188,Cicuco,Mango,2016,9,9,72,8
+13,Bolívar,13188,Cicuco,Plátano,2016,80,78,468,6
+13,Bolívar,13188,Cicuco,Yuca,2016,100,100,540,5.4
+13,Bolívar,13213,Clemencia,Frijol,2016,15,13,13,1
+13,Bolívar,13213,Clemencia,Limón,2016,15,15,180,12
+13,Bolívar,13213,Clemencia,Maíz Tradicional,2016,150,75,75,1
+13,Bolívar,13213,Clemencia,Maíz Tradicional,2016,140,30,36,1.2
+13,Bolívar,13213,Clemencia,Maíz Tradicional,2016,210,45,45,1
+13,Bolívar,13213,Clemencia,Mango,2016,297,217,1736,8
+13,Bolívar,13213,Clemencia,Millo,2016,100,20,24,1.2
+13,Bolívar,13213,Clemencia,Millo,2016,350,70,70,1
+13,Bolívar,13213,Clemencia,Ñame Espino,2016,90,45,360,8
+13,Bolívar,13213,Clemencia,Plátano,2016,100,100,700,7
+13,Bolívar,13213,Clemencia,Yuca,2016,800,100,800,8
+13,Bolívar,13204,Córdoba,Ajonjolí,2016,1200,1200,840,0.7
+13,Bolívar,13204,Córdoba,Arroz Riego,2016,850,850,5950,7
+13,Bolívar,13204,Córdoba,Frijol,2016,18,18,22,1.2
+13,Bolívar,13204,Córdoba,Maíz Tradicional,2016,400,400,320,0.8
+13,Bolívar,13204,Córdoba,Ñame,2016,8,8,64,8
+13,Bolívar,13204,Córdoba,Tabaco Negro,2016,4,4,7,1.8
+13,Bolívar,13204,Córdoba,Yuca,2016,500,500,4000,8
+13,Bolívar,13244,El Carmen De Bolívar,Aguacate,2016,1880,1650,14850,9
+13,Bolívar,13244,El Carmen De Bolívar,Ají Dulce,2016,40,35,280,8
+13,Bolívar,13244,El Carmen De Bolívar,Ají Tabasco,2016,15,13,104,8
+13,Bolívar,13244,El Carmen De Bolívar,Ajonjolí,2016,70,70,84,1.2
+13,Bolívar,13244,El Carmen De Bolívar,Ajonjolí,2016,100,80,80,1
+13,Bolívar,13244,El Carmen De Bolívar,Arroz Secano Manual,2016,200,200,400,2
+13,Bolívar,13244,El Carmen De Bolívar,Cacao,2016,470,194,78,0.4
+13,Bolívar,13244,El Carmen De Bolívar,Frijol,2016,50,50,50,1
+13,Bolívar,13244,El Carmen De Bolívar,Frijol,2016,100,80,80,1
+13,Bolívar,13244,El Carmen De Bolívar,Maíz Tradicional,2016,350,300,450,1.5
+13,Bolívar,13244,El Carmen De Bolívar,Maíz Tradicional,2016,300,280,364,1.3
+13,Bolívar,13244,El Carmen De Bolívar,Maíz Tradicional,2016,500,450,675,1.5
+13,Bolívar,13244,El Carmen De Bolívar,Maíz Tradicional,2016,500,450,675,1.5
+13,Bolívar,13244,El Carmen De Bolívar,Ñame,2016,3000,3000,36000,12
+13,Bolívar,13244,El Carmen De Bolívar,Ñame,2016,1000,1000,12000,12
+13,Bolívar,13244,El Carmen De Bolívar,Plátano,2016,1400,800,8000,10
+13,Bolívar,13244,El Carmen De Bolívar,Tabaco Negro,2016,300,250,500,2
+13,Bolívar,13244,El Carmen De Bolívar,Tabaco Rubio,2016,800,750,1125,1.5
+13,Bolívar,13244,El Carmen De Bolívar,Yuca,2016,5000,5000,50000,10
+13,Bolívar,13248,El Guamo,Frijol,2016,500,400,600,1.5
+13,Bolívar,13248,El Guamo,Maíz Tradicional,2016,900,600,900,1.5
+13,Bolívar,13248,El Guamo,Maíz Tradicional,2016,400,250,375,1.5
+13,Bolívar,13248,El Guamo,Maíz Tradicional,2016,1500,800,1200,1.5
+13,Bolívar,13248,El Guamo,Maíz Tradicional,2016,800,600,900,1.5
+13,Bolívar,13248,El Guamo,Mango,2016,15,15,195,13
+13,Bolívar,13248,El Guamo,Naranja,2016,13,13,169,13
+13,Bolívar,13248,El Guamo,Ñame,2016,200,180,1800,10
+13,Bolívar,13248,El Guamo,Plátano,2016,30,24,168,7
+13,Bolívar,13248,El Guamo,Tabaco Negro,2016,5,4,12,3
+13,Bolívar,13248,El Guamo,Yuca,2016,1000,800,6400,8
+13,Bolívar,13268,El Peñón,Aguacate,2016,9,8,96,12
+13,Bolívar,13268,El Peñón,Ahuyama,2016,43,40,480,12
+13,Bolívar,13268,El Peñón,Ahuyama,2016,20,20,240,12
+13,Bolívar,13268,El Peñón,Arroz Secano Manual,2016,10,10,15,1.5
+13,Bolívar,13268,El Peñón,Frijol,2016,10,10,8,0.8
+13,Bolívar,13268,El Peñón,Maíz Tradicional,2016,153,80,120,1.5
+13,Bolívar,13268,El Peñón,Maíz Tradicional,2016,60,60,90,1.5
+13,Bolívar,13268,El Peñón,Mango,2016,40,30,390,13
+13,Bolívar,13268,El Peñón,Palma De Aceite,2016,80,80,360,4.5
+13,Bolívar,13268,El Peñón,Piña,2016,278,198,2376,12
+13,Bolívar,13268,El Peñón,Plátano,2016,158,120,480,4
+13,Bolívar,13268,El Peñón,Yuca,2016,204,180,1800,10
+13,Bolívar,13300,Hatillo De Loba,Ahuyama,2016,30,25,300,12
+13,Bolívar,13300,Hatillo De Loba,Ahuyama,2016,15,10,12,1.2
+13,Bolívar,13300,Hatillo De Loba,Maíz Tradicional,2016,100,80,120,1.5
+13,Bolívar,13300,Hatillo De Loba,Maíz Tradicional,2016,100,80,120,1.5
+13,Bolívar,13300,Hatillo De Loba,Plátano,2016,100,80,320,4
+13,Bolívar,13300,Hatillo De Loba,Yuca,2016,60,50,400,8
+13,Bolívar,13417,Magangué,Ahuyama,2016,400,350,2975,8.5
+13,Bolívar,13417,Magangué,Ahuyama,2016,200,200,1800,9
+13,Bolívar,13417,Magangué,Ajonjolí,2016,600,600,480,0.8
+13,Bolívar,13417,Magangué,Arroz Riego,2016,600,600,3600,6
+13,Bolívar,13417,Magangué,Arroz Riego,2016,130,130,780,6
+13,Bolívar,13417,Magangué,Arroz Secano Mecanizado,2016,500,450,1575,3.5
+13,Bolívar,13417,Magangué,Arroz Secano Mecanizado,2016,500,500,1750,3.5
+13,Bolívar,13417,Magangué,Maíz Tradicional,2016,1850,1750,3500,2
+13,Bolívar,13417,Magangué,Maíz Tradicional,2016,1500,1300,1950,1.5
+13,Bolívar,13417,Magangué,Mango,2016,126,42,756,18
+13,Bolívar,13417,Magangué,Plátano,2016,724,72,288,4
+13,Bolívar,13417,Magangué,Yuca,2016,900,750,6750,9
+13,Bolívar,13433,Mahates,Ají Dulce,2016,150,150,1200,8
+13,Bolívar,13433,Mahates,Ají Dulce,2016,200,200,1400,7
+13,Bolívar,13433,Mahates,Ají Dulce,2016,100,90,720,8
+13,Bolívar,13433,Mahates,Ají Dulce,2016,120,100,700,7
+13,Bolívar,13433,Mahates,Arroz Riego,2016,90,90,414,4.6
+13,Bolívar,13433,Mahates,Arroz Riego,2016,70,70,322,4.6
+13,Bolívar,13433,Mahates,Caña Panelera,2016,500,500,5000,10
+13,Bolívar,13433,Mahates,Cítricos,2016,200,130,1950,15
+13,Bolívar,13433,Mahates,Coco,2016,40,40,320,8
+13,Bolívar,13433,Mahates,Jatropha Curcas,2016,60,0,0,0
+13,Bolívar,13433,Mahates,Maíz Tradicional,2016,3000,3000,4500,1.5
+13,Bolívar,13433,Mahates,Maíz Tradicional,2016,2000,800,960,1.2
+13,Bolívar,13433,Mahates,Maíz Tradicional,2016,1500,1000,1500,1.5
+13,Bolívar,13433,Mahates,Maíz Tradicional,2016,2000,2000,2400,1.2
+13,Bolívar,13433,Mahates,Mango,2016,350,150,2250,15
+13,Bolívar,13433,Mahates,Melón,2016,400,320,2240,7
+13,Bolívar,13433,Mahates,Melón,2016,400,320,1920,6
+13,Bolívar,13433,Mahates,Melón,2016,150,100,700,7
+13,Bolívar,13433,Mahates,Melón,2016,150,100,600,6
+13,Bolívar,13433,Mahates,Ñame,2016,800,500,5000,10
+13,Bolívar,13433,Mahates,Ñame,2016,300,250,2500,10
+13,Bolívar,13433,Mahates,Palma De Aceite,2016,2000,1200,24000,20
+13,Bolívar,13433,Mahates,Plátano,2016,600,600,7200,12
+13,Bolívar,13433,Mahates,Yuca,2016,4500,2800,33600,12
+13,Bolívar,13433,Mahates,Yuca,2016,3500,3000,27000,9
+13,Bolívar,13433,Mahates,Yuca,2016,160,0,0,0
+13,Bolívar,13440,Margarita,Caña Panelera,2016,32,20,20,1
+13,Bolívar,13440,Margarita,Maíz Tradicional,2016,146,145,479,3.3
+13,Bolívar,13440,Margarita,Maíz Tradicional,2016,140,140,462,3.3
+13,Bolívar,13440,Margarita,Naranja,2016,53,25,375,15
+13,Bolívar,13440,Margarita,Plátano,2016,65,55,440,8
+13,Bolívar,13440,Margarita,Yuca,2016,163,160,4480,28
+13,Bolívar,13442,María La Baja,Ají Dulce,2016,40,40,600,15
+13,Bolívar,13442,María La Baja,Arroz Riego,2016,400,400,1600,4
+13,Bolívar,13442,María La Baja,Arroz Secano Manual,2016,2200,1000,3000,3
+13,Bolívar,13442,María La Baja,Cacao,2016,73,58,12,0.2
+13,Bolívar,13442,María La Baja,Maíz Tecnificado,2016,2200,2200,8800,4
+13,Bolívar,13442,María La Baja,Maíz Tradicional,2016,1000,1000,1500,1.5
+13,Bolívar,13442,María La Baja,Maíz Tradicional,2016,2000,2000,8000,4
+13,Bolívar,13442,María La Baja,Maíz Tradicional,2016,1000,1000,1500,1.5
+13,Bolívar,13442,María La Baja,Ñame,2016,700,700,8400,12
+13,Bolívar,13442,María La Baja,Palma De Aceite,2016,11107,9996,279888,28
+13,Bolívar,13442,María La Baja,Plátano,2016,805,705,5640,8
+13,Bolívar,13442,María La Baja,Yuca,2016,700,700,5600,8
+13,Bolívar,13442,María La Baja,Yuca Industrial,2016,30,25,375,15
+13,Bolívar,13458,Montecristo,Arroz Secano Manual,2016,1300,900,1800,2
+13,Bolívar,13458,Montecristo,Arroz Secano Manual,2016,1200,1000,2500,2.5
+13,Bolívar,13458,Montecristo,Arroz Secano Mecanizado,2016,500,45,180,4
+13,Bolívar,13458,Montecristo,Arroz Secano Mecanizado,2016,200,150,630,4.2
+13,Bolívar,13458,Montecristo,Cacao,2016,20,20,10,0.5
+13,Bolívar,13458,Montecristo,Maíz Tradicional,2016,1800,1200,1800,1.5
+13,Bolívar,13458,Montecristo,Maíz Tradicional,2016,1200,800,1600,2
+13,Bolívar,13458,Montecristo,Plátano,2016,220,220,990,4.5
+13,Bolívar,13458,Montecristo,Yuca,2016,750,700,7000,10
+13,Bolívar,13490,Norosi,Arroz Secano Manual,2016,170,170,255,1.5
+13,Bolívar,13490,Norosi,Arroz Secano Manual,2016,170,170,255,1.5
+13,Bolívar,13490,Norosi,Cacao,2016,40,32,48,1.5
+13,Bolívar,13490,Norosi,Maíz Tradicional,2016,125,90,135,1.5
+13,Bolívar,13490,Norosi,Maíz Tradicional,2016,125,90,135,1.5
+13,Bolívar,13490,Norosi,Maíz Tradicional,2016,150,140,210,1.5
+13,Bolívar,13490,Norosi,Maíz Tradicional,2016,150,140,210,1.5
+13,Bolívar,13490,Norosi,Palma De Aceite,2016,260,250,1000,4
+13,Bolívar,13490,Norosi,Yuca,2016,220,215,2150,10
+13,Bolívar,13549,Pinillos,Ahuyama,2016,700,580,8700,15
+13,Bolívar,13549,Pinillos,Ahuyama,2016,150,100,1500,15
+13,Bolívar,13549,Pinillos,Arroz Secano Manual,2016,300,150,225,1.5
+13,Bolívar,13549,Pinillos,Arroz Secano Manual,2016,350,200,400,2
+13,Bolívar,13549,Pinillos,Arroz Secano Mecanizado,2016,450,330,1155,3.5
+13,Bolívar,13549,Pinillos,Arroz Secano Mecanizado,2016,350,300,1050,3.5
+13,Bolívar,13549,Pinillos,Maíz Tradicional,2016,1200,1000,2000,2
+13,Bolívar,13549,Pinillos,Maíz Tradicional,2016,1350,1100,1650,1.5
+13,Bolívar,13580,Regidor,Arroz Secano Mecanizado,2016,263,263,526,2
+13,Bolívar,13580,Regidor,Maíz Tradicional,2016,350,250,375,1.5
+13,Bolívar,13580,Regidor,Maíz Tradicional,2016,500,450,675,1.5
+13,Bolívar,13580,Regidor,Palma De Aceite,2016,6000,6000,27000,4.5
+13,Bolívar,13580,Regidor,Plátano,2016,100,75,300,4
+13,Bolívar,13580,Regidor,Yuca,2016,400,360,3600,10
+13,Bolívar,13600,Rio Viejo,Maíz Tradicional,2016,400,350,875,2.5
+13,Bolívar,13600,Rio Viejo,Maíz Tradicional,2016,800,750,1875,2.5
+13,Bolívar,13600,Rio Viejo,Palma De Aceite,2016,2950,2950,23600,8
+13,Bolívar,13600,Rio Viejo,Patilla,2016,15,13,13,1
+13,Bolívar,13600,Rio Viejo,Patilla,2016,15,14,14,1
+13,Bolívar,13600,Rio Viejo,Yuca,2016,350,300,2100,7
+13,Bolívar,13647,San Cristóbal,Frijol,2016,29,27,27,1
+13,Bolívar,13647,San Cristóbal,Maíz Tradicional,2016,350,280,420,1.5
+13,Bolívar,13647,San Cristóbal,Maíz Tradicional,2016,350,70,105,1.5
+13,Bolívar,13647,San Cristóbal,Mango,2016,16,10,60,6
+13,Bolívar,13647,San Cristóbal,Yuca,2016,350,70,490,7
+13,Bolívar,13647,San Estanislao,Ahuyama,2016,50,40,400,10
+13,Bolívar,13647,San Estanislao,Frijol,2016,60,54,54,1
+13,Bolívar,13647,San Estanislao,Frijol,2016,70,35,35,1
+13,Bolívar,13647,San Estanislao,Maíz Tradicional,2016,1000,200,200,1
+13,Bolívar,13647,San Estanislao,Maíz Tradicional,2016,1100,550,550,1
+13,Bolívar,13647,San Estanislao,Melón,2016,26,26,884,34
+13,Bolívar,13647,San Estanislao,Melón,2016,15,6,204,34
+13,Bolívar,13647,San Estanislao,Ñame Diamante,2016,100,50,400,8
+13,Bolívar,13647,San Estanislao,Plátano,2016,25,15,90,6
+13,Bolívar,13647,San Estanislao,Yuca,2016,1200,1080,7560,7
+13,Bolívar,13650,San Fernando,Maíz Tradicional,2016,80,60,90,1.5
+13,Bolívar,13650,San Fernando,Maíz Tradicional,2016,90,70,105,1.5
+13,Bolívar,13650,San Fernando,Mango,2016,9,9,72,8
+13,Bolívar,13650,San Fernando,Naranja,2016,35,10,150,15
+13,Bolívar,13650,San Fernando,Plátano,2016,46,46,184,4
+13,Bolívar,13650,San Fernando,Yuca,2016,75,60,600,10
+13,Bolívar,13654,San Jacinto,Aguacate,2016,510,300,4500,15
+13,Bolívar,13654,San Jacinto,Ají Dulce,2016,5,5,20,4
+13,Bolívar,13654,San Jacinto,Ají Tabasco,2016,90,90,540,6
+13,Bolívar,13654,San Jacinto,Ají Tabasco,2016,15,15,60,4
+13,Bolívar,13654,San Jacinto,Ajonjolí,2016,20,20,20,1
+13,Bolívar,13654,San Jacinto,Ajonjolí,2016,60,60,60,1
+13,Bolívar,13654,San Jacinto,Arroz Secano Manual,2016,25,20,20,1
+13,Bolívar,13654,San Jacinto,Arroz Secano Manual,2016,100,100,100,1
+13,Bolívar,13654,San Jacinto,Cacao,2016,190,130,13,0.1
+13,Bolívar,13654,San Jacinto,Frijol,2016,20,20,10,0.5
+13,Bolívar,13654,San Jacinto,Frijol,2016,60,60,30,0.5
+13,Bolívar,13654,San Jacinto,Frijol,2016,25,25,13,0.5
+13,Bolívar,13654,San Jacinto,Maíz Forrajero,2016,70,60,180,3
+13,Bolívar,13654,San Jacinto,Maíz Forrajero,2016,90,80,80,1
+13,Bolívar,13654,San Jacinto,Maíz Forrajero,2016,1600,1600,2400,1.5
+13,Bolívar,13654,San Jacinto,Maíz Forrajero,2016,300,300,300,1
+13,Bolívar,13654,San Jacinto,Maíz Tradicional,2016,600,500,500,1
+13,Bolívar,13654,San Jacinto,Maíz Tradicional,2016,120,100,100,1
+13,Bolívar,13654,San Jacinto,Maíz Tradicional,2016,300,300,900,3
+13,Bolívar,13654,San Jacinto,Maíz Tradicional,2016,200,200,200,1
+13,Bolívar,13654,San Jacinto,Ñame,2016,1600,1500,18000,12
+13,Bolívar,13654,San Jacinto,Ñame,2016,800,800,8000,10
+13,Bolívar,13654,San Jacinto,Piña,2016,50,30,1500,50
+13,Bolívar,13654,San Jacinto,Tabaco Negro,2016,30,30,30,1
+13,Bolívar,13654,San Jacinto,Yuca,2016,1200,1000,12000,12
+13,Bolívar,13654,San Jacinto,Yuca,2016,400,400,4000,10
+13,Bolívar,13655,San Jacinto Del Cauca,Arroz Secano Manual,2016,500,400,920,2.3
+13,Bolívar,13655,San Jacinto Del Cauca,Arroz Secano Manual,2016,200,150,270,1.8
+13,Bolívar,13655,San Jacinto Del Cauca,Arroz Secano Mecanizado,2016,12000,8000,36000,4.5
+13,Bolívar,13655,San Jacinto Del Cauca,Arroz Secano Mecanizado,2016,10000,9000,36000,4
+13,Bolívar,13655,San Jacinto Del Cauca,Cacao,2016,15,15,8,0.5
+13,Bolívar,13655,San Jacinto Del Cauca,Maíz Tradicional,2016,800,700,1960,2.8
+13,Bolívar,13655,San Jacinto Del Cauca,Maíz Tradicional,2016,600,550,1375,2.5
+13,Bolívar,13655,San Jacinto Del Cauca,Plátano,2016,60,40,160,4
+13,Bolívar,13655,San Jacinto Del Cauca,Yuca,2016,250,200,1400,7
+13,Bolívar,13657,San Juan Nepomuceno,Cacao,2016,88,18,18,1.03
+13,Bolívar,13657,San Juan Nepomuceno,Frijol,2016,5,5,5,1
+13,Bolívar,13657,San Juan Nepomuceno,Frijol,2016,8,7,7,1
+13,Bolívar,13657,San Juan Nepomuceno,Maíz Tradicional,2016,700,650,1300,2
+13,Bolívar,13657,San Juan Nepomuceno,Maíz Tradicional,2016,500,450,675,1.5
+13,Bolívar,13657,San Juan Nepomuceno,Maíz Tradicional,2016,600,550,825,1.5
+13,Bolívar,13657,San Juan Nepomuceno,Maíz Tradicional,2016,400,350,525,1.5
+13,Bolívar,13657,San Juan Nepomuceno,Maíz Tradicional,2016,2000,1900,4180,2.2
+13,Bolívar,13657,San Juan Nepomuceno,Maíz Tradicional,2016,1200,1100,1650,1.5
+13,Bolívar,13657,San Juan Nepomuceno,Maíz Tradicional,2016,900,800,1600,2
+13,Bolívar,13657,San Juan Nepomuceno,Maíz Tradicional,2016,500,450,810,1.8
+13,Bolívar,13657,San Juan Nepomuceno,Naranja,2016,4,1,0,0.6
+13,Bolívar,13657,San Juan Nepomuceno,Ñame,2016,2200,2100,31500,15
+13,Bolívar,13657,San Juan Nepomuceno,Ñame,2016,1500,1400,16800,12
+13,Bolívar,13657,San Juan Nepomuceno,Yuca,2016,2000,1900,22800,12
+13,Bolívar,13657,San Juan Nepomuceno,Yuca,2016,800,750,7500,10
+13,Bolívar,13667,San Martin De Loba,Aguacate,2016,30,20,140,7
+13,Bolívar,13667,San Martin De Loba,Arroz Secano Manual,2016,50,4,6,1.5
+13,Bolívar,13667,San Martin De Loba,Arroz Secano Manual,2016,30,30,45,1.5
+13,Bolívar,13667,San Martin De Loba,Maíz Tradicional,2016,400,250,375,1.5
+13,Bolívar,13667,San Martin De Loba,Maíz Tradicional,2016,200,150,225,1.5
+13,Bolívar,13667,San Martin De Loba,Plátano,2016,400,300,1200,4
+13,Bolívar,13667,San Martin De Loba,Yuca,2016,300,200,1800,9
+13,Bolívar,13670,San Pablo,Arroz Riego,2016,600,600,1620,2.7
+13,Bolívar,13670,San Pablo,Arroz Riego,2016,550,550,1375,2.5
+13,Bolívar,13670,San Pablo,Arroz Secano Mecanizado,2016,200,200,940,4.7
+13,Bolívar,13670,San Pablo,Arroz Secano Mecanizado,2016,180,180,846,4.7
+13,Bolívar,13670,San Pablo,Cacao,2016,350,350,123,0.35
+13,Bolívar,13670,San Pablo,Caucho,2016,370,170,340,2
+13,Bolívar,13670,San Pablo,Maíz Tecnificado,2016,800,800,1200,1.5
+13,Bolívar,13670,San Pablo,Maíz Tradicional,2016,850,850,1275,1.5
+13,Bolívar,13670,San Pablo,Palma De Aceite,2016,11950,0,0,0
+13,Bolívar,13670,San Pablo,Patilla,2016,10,10,150,15
+13,Bolívar,13670,San Pablo,Patilla,2016,25,25,38,1.5
+13,Bolívar,13670,San Pablo,Plátano,2016,950,950,11400,12
+13,Bolívar,13670,San Pablo,Yuca,2016,850,850,12750,15
+13,Bolívar,13673,Santa Catalina,Aguacate,2016,5,1,6,6
+13,Bolívar,13673,Santa Catalina,Ahuyama,2016,8,8,80,10
+13,Bolívar,13673,Santa Catalina,Coco,2016,7,7,21,3
+13,Bolívar,13673,Santa Catalina,Frijol,2016,10,2,2,1
+13,Bolívar,13673,Santa Catalina,Frijol,2016,7,4,4,1
+13,Bolívar,13673,Santa Catalina,Guanábana,2016,15,12,120,10
+13,Bolívar,13673,Santa Catalina,Limón,2016,10,2,21,14
+13,Bolívar,13673,Santa Catalina,Maíz Tradicional,2016,300,60,72,1.2
+13,Bolívar,13673,Santa Catalina,Maíz Tradicional,2016,400,40,60,1.5
+13,Bolívar,13673,Santa Catalina,Mango,2016,253,113,2034,18
+13,Bolívar,13673,Santa Catalina,Melón,2016,12,3,75,25
+13,Bolívar,13673,Santa Catalina,Melón,2016,17,3,75,25
+13,Bolívar,13673,Santa Catalina,Millo,2016,10,2,3,1.5
+13,Bolívar,13673,Santa Catalina,Ñame Espino,2016,20,8,72,9
+13,Bolívar,13673,Santa Catalina,Palma De Aceite,2016,120,0,0,0
+13,Bolívar,13673,Santa Catalina,Piña,2016,3,3,60,20
+13,Bolívar,13673,Santa Catalina,Plátano,2016,5,5,50,10
+13,Bolívar,13673,Santa Catalina,Yuca,2016,150,30,285,9.5
+13,Bolívar,13683,Santa Rosa,Berenjena,2016,30,15,90,6
+13,Bolívar,13683,Santa Rosa,Berenjena,2016,10,2,14,7
+13,Bolívar,13683,Santa Rosa,Guayaba,2016,6,2,4,2
+13,Bolívar,13683,Santa Rosa,Limón,2016,20,15,90,6
+13,Bolívar,13683,Santa Rosa,Maíz Tradicional,2016,280,80,80,1
+13,Bolívar,13683,Santa Rosa,Maíz Tradicional,2016,100,40,40,1
+13,Bolívar,13683,Santa Rosa,Mango,2016,110,100,1400,14
+13,Bolívar,13683,Santa Rosa,Melón,2016,10,1,5,5
+13,Bolívar,13683,Santa Rosa,Melón,2016,20,10,80,8
+13,Bolívar,13683,Santa Rosa,Plátano,2016,22,15,75,5
+13,Bolívar,13683,Santa Rosa,Yuca,2016,240,120,960,8
+13,Bolívar,13688,Santa Rosa Del Sur,Aguacate,2016,123,43,344,8
+13,Bolívar,13688,Santa Rosa Del Sur,Cacao,2016,3490,3180,1908,0.6
+13,Bolívar,13688,Santa Rosa Del Sur,Café,2016,1600,1350,945,0.7
+13,Bolívar,13688,Santa Rosa Del Sur,Caña Panelera,2016,585,565,4520,8
+13,Bolívar,13688,Santa Rosa Del Sur,Frijol,2016,150,140,84,0.6
+13,Bolívar,13688,Santa Rosa Del Sur,Frijol,2016,120,100,70,0.7
+13,Bolívar,13688,Santa Rosa Del Sur,Maíz Tecnificado,2016,700,500,1000,2
+13,Bolívar,13688,Santa Rosa Del Sur,Maíz Tradicional,2016,1000,800,1600,2
+13,Bolívar,13688,Santa Rosa Del Sur,Pitahaya,2016,25,25,75,3
+13,Bolívar,13688,Santa Rosa Del Sur,Plátano,2016,810,710,4615,6.5
+13,Bolívar,13688,Santa Rosa Del Sur,Yuca,2016,1000,750,6000,8
+13,Bolívar,13744,Simití,Arroz Secano Manual,2016,480,400,1200,3
+13,Bolívar,13744,Simití,Arroz Secano Manual,2016,380,300,900,3
+13,Bolívar,13744,Simití,Cacao,2016,1005,655,262,0.4
+13,Bolívar,13744,Simití,Caucho,2016,220,0,0,0
+13,Bolívar,13744,Simití,Frijol,2016,100,70,49,0.7
+13,Bolívar,13744,Simití,Frijol,2016,180,130,65,0.5
+13,Bolívar,13744,Simití,Maíz Tradicional,2016,1800,1500,2700,1.8
+13,Bolívar,13744,Simití,Maíz Tradicional,2016,1800,1000,2000,2
+13,Bolívar,13744,Simití,Palma De Aceite,2016,6100,5100,25500,5
+13,Bolívar,13744,Simití,Yuca,2016,580,500,3500,7
+13,Bolívar,13760,Soplaviento,Frijol,2016,10,2,2,1
+13,Bolívar,13760,Soplaviento,Frijol,2016,10,5,5,1
+13,Bolívar,13760,Soplaviento,Guayaba,2016,3,3,30,10
+13,Bolívar,13760,Soplaviento,Maíz Tecnificado,2016,200,20,20,1
+13,Bolívar,13760,Soplaviento,Maíz Tecnificado,2016,200,60,60,1
+13,Bolívar,13760,Soplaviento,Mango,2016,19,15,120,8
+13,Bolívar,13760,Soplaviento,Plátano,2016,10,0,0,0
+13,Bolívar,13760,Soplaviento,Yuca,2016,250,75,600,8
+13,Bolívar,13780,Talaigua Nuevo,Coco,2016,35,35,105,3
+13,Bolívar,13780,Talaigua Nuevo,Hortalizas Varias,2016,8,8,64,8
+13,Bolívar,13780,Talaigua Nuevo,Hortalizas Varias,2016,8,8,24,3
+13,Bolívar,13780,Talaigua Nuevo,Maíz Tradicional,2016,190,180,306,1.7
+13,Bolívar,13780,Talaigua Nuevo,Maíz Tradicional,2016,45,43,65,1.5
+13,Bolívar,13780,Talaigua Nuevo,Maíz Tradicional,2016,190,180,306,1.7
+13,Bolívar,13780,Talaigua Nuevo,Maíz Tradicional,2016,45,43,65,1.5
+13,Bolívar,13780,Talaigua Nuevo,Mango,2016,25,25,375,15
+13,Bolívar,13780,Talaigua Nuevo,Naranja,2016,55,55,550,10
+13,Bolívar,13780,Talaigua Nuevo,Patilla,2016,29,26,234,9
+13,Bolívar,13780,Talaigua Nuevo,Patilla,2016,5,5,40,8
+13,Bolívar,13780,Talaigua Nuevo,Patilla,2016,29,26,234,9
+13,Bolívar,13780,Talaigua Nuevo,Patilla,2016,5,5,40,8
+13,Bolívar,13780,Talaigua Nuevo,Plátano,2016,100,70,350,5
+13,Bolívar,13780,Talaigua Nuevo,Tabaco Negro,2016,23,23,35,1.5
+13,Bolívar,13780,Talaigua Nuevo,Yuca,2016,180,140,1050,7.5
+13,Bolívar,13780,Talaigua Nuevo,Yuca,2016,100,80,520,6.5
+13,Bolívar,13810,Tiquisio,Arroz Secano Manual,2016,300,250,375,1.5
+13,Bolívar,13810,Tiquisio,Arroz Secano Manual,2016,200,180,360,2
+13,Bolívar,13810,Tiquisio,Arroz Secano Mecanizado,2016,350,200,600,3
+13,Bolívar,13810,Tiquisio,Arroz Secano Mecanizado,2016,200,150,525,3.5
+13,Bolívar,13810,Tiquisio,Cacao,2016,87,80,40,0.5
+13,Bolívar,13810,Tiquisio,Caña Panelera,2016,45,40,200,5
+13,Bolívar,13810,Tiquisio,Maíz Tradicional,2016,400,350,700,2
+13,Bolívar,13810,Tiquisio,Maíz Tradicional,2016,250,200,400,2
+13,Bolívar,13810,Tiquisio,Ñame,2016,100,80,720,9
+13,Bolívar,13810,Tiquisio,Plátano,2016,157,157,628,4
+13,Bolívar,13810,Tiquisio,Yuca,2016,400,300,2700,9
+13,Bolívar,13836,Turbaco,Caña Panelera,2016,30,30,390,13
+13,Bolívar,13836,Turbaco,Guanábana,2016,9,9,117,13
+13,Bolívar,13836,Turbaco,Jatropha Curcas,2016,48,0,0,0
+13,Bolívar,13836,Turbaco,Maíz Tradicional,2016,400,80,104,1.3
+13,Bolívar,13836,Turbaco,Maíz Tradicional,2016,400,120,180,1.5
+13,Bolívar,13836,Turbaco,Mango,2016,40,40,400,10
+13,Bolívar,13836,Turbaco,Naranja,2016,20,20,260,13
+13,Bolívar,13836,Turbaco,Piña,2016,3,3,60,20
+13,Bolívar,13836,Turbaco,Yuca,2016,600,500,4000,8
+13,Bolívar,13838,Turbana,Limón,2016,18,13,130,10
+13,Bolívar,13838,Turbana,Limón,2016,4,2,16,8
+13,Bolívar,13838,Turbana,Maíz Tecnificado,2016,100,15,30,2
+13,Bolívar,13838,Turbana,Maíz Tecnificado,2016,70,50,100,2
+13,Bolívar,13838,Turbana,Maíz Tradicional,2016,140,25,25,1
+13,Bolívar,13838,Turbana,Maíz Tradicional,2016,120,80,80,1
+13,Bolívar,13838,Turbana,Mango,2016,96,58,348,6
+13,Bolívar,13838,Turbana,Mango,2016,82,69,276,4
+13,Bolívar,13838,Turbana,Millo,2016,60,5,10,2
+13,Bolívar,13838,Turbana,Millo,2016,70,0,0,0
+13,Bolívar,13838,Turbana,Níspero,2016,14,14,70,5
+13,Bolívar,13838,Turbana,Yuca,2016,180,150,1350,9
+13,Bolívar,13838,Turbana,Yuca,2016,400,350,2450,7
+13,Bolívar,13873,Villanueva,Caña Panelera,2016,21,19,342,18
+13,Bolívar,13873,Villanueva,Frijol,2016,90,70,84,1.2
+13,Bolívar,13873,Villanueva,Guayaba,2016,4,3,36,12
+13,Bolívar,13873,Villanueva,Maíz Tradicional,2016,2300,1800,2160,1.2
+13,Bolívar,13873,Villanueva,Maíz Tradicional,2016,750,700,840,1.2
+13,Bolívar,13873,Villanueva,Mango,2016,381,377,6786,18
+13,Bolívar,13873,Villanueva,Ñame Diamante,2016,600,500,7000,14
+13,Bolívar,13873,Villanueva,Ñame Espino,2016,600,550,7700,14
+13,Bolívar,13873,Villanueva,Piña,2016,2,2,60,30
+13,Bolívar,13873,Villanueva,Plátano,2016,101,96,1056,11
+13,Bolívar,13873,Villanueva,Yuca,2016,2000,1500,19500,13
+13,Bolívar,13894,Zambrano,Ajonjolí,2016,160,160,160,1
+13,Bolívar,13894,Zambrano,Frijol,2016,150,150,150,1
+13,Bolívar,13894,Zambrano,Frijol,2016,150,150,150,1
+13,Bolívar,13894,Zambrano,Frijol,2016,180,160,160,1
+13,Bolívar,13894,Zambrano,Maíz Tradicional,2016,320,320,320,1
+13,Bolívar,13894,Zambrano,Maíz Tradicional,2016,140,140,140,1
+13,Bolívar,13894,Zambrano,Maíz Tradicional,2016,320,320,320,1
+13,Bolívar,13894,Zambrano,Maíz Tradicional,2016,180,180,180,1
+13,Bolívar,13894,Zambrano,Palma De Aceite,2016,550,0,0,0
+13,Bolívar,13894,Zambrano,Yuca,2016,2800,2500,20000,8
+13,Bolívar,13006,Achí,Ahuyama,2017,20,20,320,16
+13,Bolívar,13006,Achí,Ahuyama,2017,50,48,576,12
+13,Bolívar,13006,Achí,Arroz Riego,2017,900,890,4,5
+13,Bolívar,13006,Achí,Arroz Riego,2017,600,520,2,5
+13,Bolívar,13006,Achí,Arroz Secano Manual,2017,1,1,3,2
+13,Bolívar,13006,Achí,Arroz Secano Manual,2017,1,1,2,2
+13,Bolívar,13006,Achí,Arroz Secano Mecanizado,2017,7,6,25,4
+13,Bolívar,13006,Achí,Arroz Secano Mecanizado,2017,4,4,15,4
+13,Bolívar,13006,Achí,Maiz Tradicional,2017,3,2,5,2
+13,Bolívar,13006,Achí,Maiz Tradicional,2017,3,2,5,2
+13,Bolívar,13006,Achí,Patilla,2017,40,40,600,15
+13,Bolívar,13006,Achí,Patilla,2017,50,50,700,14
+13,Bolívar,13006,Achí,Yuca,2017,300,200,2,10
+13,Bolívar,13006,Achí,Aguacate,2017,80,80,1,15
+13,Bolívar,13006,Achí,Cacao,2017,150,20,12,1
+13,Bolívar,13006,Achí,Caña Panelera,2017,30,20,160,8
+13,Bolívar,13006,Achí,Platano,2017,400,200,1,5
+13,Bolívar,13006,Achí,Zapote,2017,50,50,600,12
+13,Bolívar,13030,Altos Del Rosario,Arroz Secano Manual,2017,150,60,90,2
+13,Bolívar,13030,Altos Del Rosario,Arroz Secano Manual,2017,160,150,225,2
+13,Bolívar,13030,Altos Del Rosario,Maiz Tradicional,2017,120,48,72,2
+13,Bolívar,13030,Altos Del Rosario,Maiz Tradicional,2017,120,80,120,2
+13,Bolívar,13030,Altos Del Rosario,Yuca,2017,80,40,400,10
+13,Bolívar,13030,Altos Del Rosario,Cacao,2017,20,,,0
+13,Bolívar,13030,Altos Del Rosario,Platano,2017,100,100,550,6
+13,Bolívar,13042,Arenal,Arroz Secano Manual,2017,25,20,30,2
+13,Bolívar,13042,Arenal,Arroz Secano Manual,2017,25,10,15,2
+13,Bolívar,13042,Arenal,Maiz Tradicional,2017,600,600,900,2
+13,Bolívar,13042,Arenal,Maiz Tradicional,2017,400,150,225,2
+13,Bolívar,13042,Arenal,Yuca,2017,30,30,300,10
+13,Bolívar,13042,Arenal,Cacao,2017,60,60,90,2
+13,Bolívar,13042,Arenal,Platano,2017,300,300,1,4
+13,Bolívar,13052,Arjona,Maiz Tradicional,2017,560,170,204,1
+13,Bolívar,13052,Arjona,Maiz Tradicional,2017,140,98,98,1
+13,Bolívar,13052,Arjona,Maiz Tradicional,2017,1,1,1,1
+13,Bolívar,13052,Arjona,Maiz Tradicional,2017,1,800,800,1
+13,Bolívar,13052,Arjona,Yuca,2017,400,390,4,10
+13,Bolívar,13052,Arjona,Yuca,2017,50,45,360,8
+13,Bolívar,13052,Arjona,Mango,2017,30,30,600,20
+13,Bolívar,13052,Arjona,Palma De Aceite,2017,399,324,3,10
+13,Bolívar,13052,Arjona,Piña,2017,9,4,120,30
+13,Bolívar,13052,Arjona,Platano,2017,200,80,2,22
+13,Bolívar,13062,Arroyohondo,Maiz Tradicional,2017,340,320,320,1
+13,Bolívar,13062,Arroyohondo,Maiz Tradicional,2017,185,175,175,1
+13,Bolívar,13062,Arroyohondo,Maiz Tradicional,2017,275,220,220,1
+13,Bolívar,13062,Arroyohondo,Maiz Tradicional,2017,165,130,130,1
+13,Bolívar,13062,Arroyohondo,Ñame,2017,65,58,580,10
+13,Bolívar,13062,Arroyohondo,Yuca,2017,340,340,2,6
+13,Bolívar,13062,Arroyohondo,Yuca,2017,32,,,0
+13,Bolívar,13074,Barranco De Loba,Maiz Tradicional,2017,400,350,385,1
+13,Bolívar,13074,Barranco De Loba,Maiz Tradicional,2017,350,130,351,3
+13,Bolívar,13074,Barranco De Loba,Yuca,2017,380,350,3,8
+13,Bolívar,13074,Barranco De Loba,Aguacate,2017,15,15,150,10
+13,Bolívar,13074,Barranco De Loba,Cacao,2017,46,46,46,1
+13,Bolívar,13074,Barranco De Loba,Mango,2017,15,15,195,13
+13,Bolívar,13074,Barranco De Loba,Platano,2017,29,29,116,4
+13,Bolívar,13140,Calamar,Maiz Tradicional,2017,400,380,380,1
+13,Bolívar,13140,Calamar,Aji,2017,5,5,30,6
+13,Bolívar,13140,Calamar,Ñame,2017,20,18,126,7
+13,Bolívar,13140,Calamar,Yuca,2017,600,540,4,7
+13,Bolívar,13140,Calamar,Yuca,2017,100,,,0
+13,Bolívar,13140,Calamar,Guayaba,2017,5,5,30,6
+13,Bolívar,13140,Calamar,Mango,2017,32,22,484,22
+13,Bolívar,13140,Calamar,Platano,2017,5,5,30,6
+13,Bolívar,13160,Cantagallo,Maiz Tradicional,2017,400,350,700,2
+13,Bolívar,13160,Cantagallo,Maiz Tradicional,2017,350,350,543,2
+13,Bolívar,13160,Cantagallo,Yuca,2017,650,600,6,10
+13,Bolívar,13160,Cantagallo,Cacao,2017,800,500,300,1
+13,Bolívar,13160,Cantagallo,400,2017,4,,,
+13,Bolívar,13001,Cartagena De Indias,Aji Dulce,2017,4,4,8,2
+13,Bolívar,13001,Cartagena De Indias,Arroz Secano Manual,2017,5,4,8,2
+13,Bolívar,13001,Cartagena De Indias,Arroz Secano Manual,2017,75,73,365,5
+13,Bolívar,13001,Cartagena De Indias,Berenjena,2017,4,4,10,3
+13,Bolívar,13001,Cartagena De Indias,Berenjena,2017,6,5,30,6
+13,Bolívar,13001,Cartagena De Indias,Cilantro,2017,6,6,11,2
+13,Bolívar,13001,Cartagena De Indias,Frijol,2017,12,10,10,1
+13,Bolívar,13001,Cartagena De Indias,Maiz Tradicional,2017,20,18,20,1
+13,Bolívar,13001,Cartagena De Indias,Maiz Tradicional,2017,50,50,60,1
+13,Bolívar,13001,Cartagena De Indias,Melon,2017,20,17,68,4
+13,Bolívar,13001,Cartagena De Indias,Melon,2017,60,58,696,12
+13,Bolívar,13001,Cartagena De Indias,Millo,2017,10,8,12,2
+13,Bolívar,13001,Cartagena De Indias,Patilla,2017,5,4,16,4
+13,Bolívar,13001,Cartagena De Indias,Patilla,2017,8,7,21,3
+13,Bolívar,13001,Cartagena De Indias,Pepino,2017,5,5,35,7
+13,Bolívar,13001,Cartagena De Indias,Pepino Cohombro,2017,2,2,16,8
+13,Bolívar,13001,Cartagena De Indias,Pimenton,2017,5,5,25,5
+13,Bolívar,13001,Cartagena De Indias,Ñame,2017,50,50,700,14
+13,Bolívar,13001,Cartagena De Indias,Yuca,2017,600,550,6,11
+13,Bolívar,13001,Cartagena De Indias,Ciruela,2017,35,35,70,2
+13,Bolívar,13001,Cartagena De Indias,Coco,2017,210,210,2,8
+13,Bolívar,13001,Cartagena De Indias,Guanabana,2017,9,9,45,5
+13,Bolívar,13001,Cartagena De Indias,Mango,2017,17,17,119,7
+13,Bolívar,13001,Cartagena De Indias,Platano,2017,30,30,270,9
+13,Bolívar,13188,Cicuco,Maiz Tradicional,2017,290,260,442,2
+13,Bolívar,13188,Cicuco,Maiz Tradicional,2017,280,260,403,2
+13,Bolívar,13188,Cicuco,Maiz Tradicional,2017,250,200,240,1
+13,Bolívar,13188,Cicuco,Yuca,2017,95,90,540,6
+13,Bolívar,13188,Cicuco,Yuca,2017,5,5,25,5
+13,Bolívar,13188,Cicuco,Mango,2017,9,9,90,10
+13,Bolívar,13188,Cicuco,Platano,2017,70,70,350,5
+13,Bolívar,13213,Clemencia,Frijol,2017,20,16,16,1
+13,Bolívar,13213,Clemencia,Maiz Tradicional,2017,250,200,2,10
+13,Bolívar,13213,Clemencia,Maiz Tradicional,2017,120,108,130,1
+13,Bolívar,13213,Clemencia,Maiz Tradicional,2017,210,189,189,1
+13,Bolívar,13213,Clemencia,Millo,2017,210,189,189,1
+13,Bolívar,13213,Clemencia,Ñame,2017,90,72,576,8
+13,Bolívar,13213,Clemencia,Yuca,2017,900,810,6,8
+13,Bolívar,13213,Clemencia,Citricos,2017,20,15,180,12
+13,Bolívar,13213,Clemencia,Mango,2017,297,217,2,8
+13,Bolívar,13213,Clemencia,Platano,2017,120,100,700,7
+13,Bolívar,13204,Cordoba,Ajonjoli,2017,1,1,800,1
+13,Bolívar,13204,Cordoba,Arroz Riego,2017,900,900,6,7
+13,Bolívar,13204,Cordoba,Frijol,2017,30,30,36,1
+13,Bolívar,13204,Cordoba,Maiz Tradicional,2017,400,400,400,1
+13,Bolívar,13204,Cordoba,Ñame,2017,8,8,64,8
+13,Bolívar,13204,Cordoba,Tabaco Negro,2017,4,4,7,2
+13,Bolívar,13204,Cordoba,Yuca,2017,500,500,4,8
+13,Bolívar,13244,El Carmen De Bolivar,Ajonjoli,2017,110,110,88,1
+13,Bolívar,13244,El Carmen De Bolivar,Arroz Secano Manual,2017,120,100,200,2
+13,Bolívar,13244,El Carmen De Bolivar,Arroz Secano Manual,2017,140,120,240,2
+13,Bolívar,13244,El Carmen De Bolivar,Frijol,2017,110,100,100,1
+13,Bolívar,13244,El Carmen De Bolivar,Maiz Tecnificado,2017,220,200,320,2
+13,Bolívar,13244,El Carmen De Bolivar,Maiz Tecnificado,2017,330,300,390,1
+13,Bolívar,13244,El Carmen De Bolivar,Maiz Tradicional,2017,330,300,360,1
+13,Bolívar,13244,El Carmen De Bolivar,Maiz Tradicional,2017,220,200,260,1
+13,Bolívar,13244,El Carmen De Bolivar,Aji Dulce,2017,42,38,304,8
+13,Bolívar,13244,El Carmen De Bolivar,Aji Tabasco,2017,14,12,96,8
+13,Bolívar,13244,El Carmen De Bolivar,Ñame Diamante,2017,2,2,26,12
+13,Bolívar,13244,El Carmen De Bolivar,Ñame Espino,2017,960,800,10,12
+13,Bolívar,13244,El Carmen De Bolivar,Tabaco Negro,2017,240,210,420,2
+13,Bolívar,13244,El Carmen De Bolivar,Tabaco Rubio,2017,300,300,450,2
+13,Bolívar,13244,El Carmen De Bolivar,Yuca,2017,5,5,45,10
+13,Bolívar,13244,El Carmen De Bolivar,Aguacate,2017,2,2,17,10
+13,Bolívar,13244,El Carmen De Bolivar,Cacao,2017,279,138,21,0
+13,Bolívar,13244,El Carmen De Bolivar,Platano,2017,1,840,10,12
+13,Bolívar,13248,El Guamo,Frijol,2017,500,400,600,2
+13,Bolívar,13248,El Guamo,Maiz Tradicional,2017,1,800,1,2
+13,Bolívar,13248,El Guamo,Maiz Tradicional,2017,500,400,600,2
+13,Bolívar,13248,El Guamo,Maiz Tradicional,2017,800,600,900,2
+13,Bolívar,13248,El Guamo,Maiz Tradicional,2017,2,1,2,2
+13,Bolívar,13248,El Guamo,Ñame,2017,200,180,2,10
+13,Bolívar,13248,El Guamo,Yuca,2017,1,800,6,8
+13,Bolívar,13248,El Guamo,Mango,2017,15,15,195,13
+13,Bolívar,13248,El Guamo,Naranja Valencia,2017,13,13,169,13
+13,Bolívar,13248,El Guamo,Platano,2017,40,36,288,8
+13,Bolívar,13268,El Peñon,Ahuyama,2017,50,25,300,12
+13,Bolívar,13268,El Peñon,Ahuyama,2017,15,15,180,12
+13,Bolívar,13268,El Peñon,Frijol,2017,10,10,8,1
+13,Bolívar,13268,El Peñon,Maiz Tradicional,2017,140,70,105,2
+13,Bolívar,13268,El Peñon,Maiz Tradicional,2017,30,30,45,2
+13,Bolívar,13268,El Peñon,Yuca,2017,220,150,2,10
+13,Bolívar,13268,El Peñon,Aguacate,2017,9,9,108,12
+13,Bolívar,13268,El Peñon,Mango,2017,42,35,455,13
+13,Bolívar,13268,El Peñon,Palma De Aceite,2017,80,80,360,5
+13,Bolívar,13268,El Peñon,Piña,2017,278,278,3,12
+13,Bolívar,13268,El Peñon,Platano,2017,158,158,632,4
+13,Bolívar,13300,Hatillo De Loba,Ahuyama,2017,48,40,480,12
+13,Bolívar,13300,Hatillo De Loba,Maiz Tradicional,2017,225,150,225,2
+13,Bolívar,13300,Hatillo De Loba,Maiz Tradicional,2017,200,100,150,2
+13,Bolívar,13300,Hatillo De Loba,Yuca,2017,200,150,1,8
+13,Bolívar,13300,Hatillo De Loba,Platano,2017,93,93,372,4
+13,Bolívar,13417,Magangue,Ahuyama,2017,400,400,6,15
+13,Bolívar,13417,Magangue,Algodon,2017,12,12,24,2
+13,Bolívar,13417,Magangue,Arroz Secano Manual,2017,600,600,2,3
+13,Bolívar,13417,Magangue,Arroz Secano Manual,2017,100,100,200,2
+13,Bolívar,13417,Magangue,Arroz Secano Mecanizado,2017,500,450,2,4
+13,Bolívar,13417,Magangue,Arroz Secano Mecanizado,2017,150,150,450,3
+13,Bolívar,13417,Magangue,Frijol,2017,40,40,36,1
+13,Bolívar,13417,Magangue,Maiz Tradicional,2017,1,890,1,1
+13,Bolívar,13417,Magangue,Maiz Tradicional,2017,1,100,150,2
+13,Bolívar,13417,Magangue,Patilla,2017,100,85,1,15
+13,Bolívar,13417,Magangue,Yuca,2017,800,750,8,10
+13,Bolívar,13417,Magangue,Mango,2017,126,42,756,18
+13,Bolívar,13417,Magangue,Platano,2017,124,124,620,5
+13,Bolívar,13433,Mahates,Aji Dulce,2017,50,50,400,8
+13,Bolívar,13433,Mahates,Aji Dulce,2017,100,100,700,7
+13,Bolívar,13433,Mahates,Aji Dulce,2017,30,30,240,8
+13,Bolívar,13433,Mahates,Aji Dulce,2017,70,70,490,7
+13,Bolívar,13433,Mahates,Arroz Riego,2017,50,50,230,5
+13,Bolívar,13433,Mahates,Arroz Riego,2017,50,50,250,5
+13,Bolívar,13433,Mahates,Maiz Tradicional,2017,2,2,2,2
+13,Bolívar,13433,Mahates,Maiz Tradicional,2017,1,1,1,1
+13,Bolívar,13433,Mahates,Maiz Tradicional,2017,1,1,2,2
+13,Bolívar,13433,Mahates,Maiz Tradicional,2017,800,800,960,1
+13,Bolívar,13433,Mahates,Melon,2017,100,100,700,7
+13,Bolívar,13433,Mahates,Melon,2017,100,100,600,6
+13,Bolívar,13433,Mahates,Melon,2017,80,80,640,8
+13,Bolívar,13433,Mahates,Melon,2017,80,80,480,6
+13,Bolívar,13433,Mahates,Ñame,2017,300,300,3,10
+13,Bolívar,13433,Mahates,Ñame,2017,500,500,6,12
+13,Bolívar,13433,Mahates,Yuca,2017,2,700,8,12
+13,Bolívar,13433,Mahates,Yuca,2017,2,700,6,9
+13,Bolívar,13433,Mahates,Yuca,2017,160,,,0
+13,Bolívar,13433,Mahates,Caña Panelera,2017,300,300,3,10
+13,Bolívar,13433,Mahates,Citricos,2017,200,130,2,15
+13,Bolívar,13433,Mahates,Coco,2017,40,40,320,8
+13,Bolívar,13433,Mahates,Jatropha,2017,60,60,120,2
+13,Bolívar,13433,Mahates,Mango,2017,350,150,2,15
+13,Bolívar,13433,Mahates,Palma De Aceite,2017,2,1,24,20
+13,Bolívar,13433,Mahates,Platano,2017,500,500,6,12
+13,Bolívar,13440,Margarita,Maiz Tradicional,2017,253,250,850,3
+13,Bolívar,13440,Margarita,Maiz Tradicional,2017,253,253,860,3
+13,Bolívar,13440,Margarita,Yuca,2017,247,247,6,25
+13,Bolívar,13440,Margarita,Caña Panelera,2017,40,38,72,2
+13,Bolívar,13440,Margarita,Naranja,2017,76,64,960,15
+13,Bolívar,13440,Margarita,Platano,2017,116,96,768,8
+13,Bolívar,13442,Maria La Baja,Arroz Riego,2017,2,2,9,5
+13,Bolívar,13442,Maria La Baja,Arroz Riego,2017,400,400,2,4
+13,Bolívar,13442,Maria La Baja,Arroz Secano Manual,2017,50,50,50,1
+13,Bolívar,13442,Maria La Baja,Arroz Secano Manual,2017,500,280,560,2
+13,Bolívar,13442,Maria La Baja,Frijol,2017,40,40,80,2
+13,Bolívar,13442,Maria La Baja,Frijol,2017,20,20,40,2
+13,Bolívar,13442,Maria La Baja,Frijol,2017,60,60,120,2
+13,Bolívar,13442,Maria La Baja,Frijol,2017,30,30,60,2
+13,Bolívar,13442,Maria La Baja,Maiz Tecnificado,2017,3,3,10,4
+13,Bolívar,13442,Maria La Baja,Maiz Tecnificado,2017,2,1,4,4
+13,Bolívar,13442,Maria La Baja,Maiz Tradicional,2017,950,950,2,2
+13,Bolívar,13442,Maria La Baja,Maiz Tradicional,2017,1,650,1,2
+13,Bolívar,13442,Maria La Baja,Aji Dulce,2017,70,50,600,12
+13,Bolívar,13442,Maria La Baja,Aji Dulce,2017,10,5,60,12
+13,Bolívar,13442,Maria La Baja,Ñame Espino,2017,400,400,5,12
+13,Bolívar,13442,Maria La Baja,Ñame Espino,2017,200,200,2,12
+13,Bolívar,13442,Maria La Baja,Yuca,2017,400,400,3,8
+13,Bolívar,13442,Maria La Baja,Yuca,2017,100,100,800,8
+13,Bolívar,13442,Maria La Baja,Cacao,2017,73,58,9,0
+13,Bolívar,13442,Maria La Baja,Platano,2017,1,1,10,8
+13,Bolívar,13468,Mompos,Ahuyama,2017,150,150,3,20
+13,Bolívar,13468,Mompos,Ahuyama,2017,200,150,3,20
+13,Bolívar,13468,Mompos,Maiz Tradicional,2017,425,390,585,2
+13,Bolívar,13468,Mompos,Maiz Tradicional,2017,400,300,450,2
+13,Bolívar,13468,Mompos,Yuca,2017,500,450,4,8
+13,Bolívar,13468,Mompos,Coco,2017,10,10,40,4
+13,Bolívar,13468,Mompos,Mango,2017,30,30,300,10
+13,Bolívar,13468,Mompos,Platano,2017,110,110,440,4
+13,Bolívar,13458,Montecristo,Aji,2017,40,35,245,7
+13,Bolívar,13458,Montecristo,Aji,2017,23,23,191,8
+13,Bolívar,13458,Montecristo,Arroz Secano Manual,2017,2,2,3,2
+13,Bolívar,13458,Montecristo,Arroz Secano Manual,2017,2,769,3,4
+13,Bolívar,13458,Montecristo,Arroz Secano Mecanizado,2017,600,350,1,4
+13,Bolívar,13458,Montecristo,Arroz Secano Mecanizado,2017,761,112,515,5
+13,Bolívar,13458,Montecristo,Frijol Arbustivo,2017,30,30,30,1
+13,Bolívar,13458,Montecristo,Frijol Arbustivo,2017,18,18,23,1
+13,Bolívar,13458,Montecristo,Maiz Tradicional,2017,2,2,3,2
+13,Bolívar,13458,Montecristo,Maiz Tradicional,2017,1,560,1,2
+13,Bolívar,13458,Montecristo,Patilla,2017,50,45,630,14
+13,Bolívar,13458,Montecristo,Patilla,2017,35,4,48,12
+13,Bolívar,13458,Montecristo,Yuca,2017,800,750,9,12
+13,Bolívar,13458,Montecristo,Cacao,2017,12,12,16,1
+13,Bolívar,13458,Montecristo,Caucho,2017,10,8,14,2
+13,Bolívar,13458,Montecristo,Platano,2017,20,15,120,8
+13,Bolívar,13473,Morales,Algodon,2017,38,38,95,3
+13,Bolívar,13473,Morales,Arroz Riego,2017,250,200,1,5
+13,Bolívar,13473,Morales,Arroz Riego,2017,250,250,1,5
+13,Bolívar,13473,Morales,Frijol,2017,300,300,180,1
+13,Bolívar,13473,Morales,Frijol,2017,300,300,210,1
+13,Bolívar,13473,Morales,Maiz Tradicional,2017,1,1,2,2
+13,Bolívar,13473,Morales,Maiz Tradicional,2017,1,1,3,3
+13,Bolívar,13473,Morales,Yuca,2017,950,900,11,12
+13,Bolívar,13473,Morales,Cacao,2017,137,77,54,1
+13,Bolívar,13473,Morales,Cafe,2017,20,20,14,1
+13,Bolívar,13473,Morales,Caña Panelera,2017,8,8,40,5
+13,Bolívar,13473,Morales,Palma De Aceite,2017,979,599,7,12
+13,Bolívar,13473,Morales,Platano,2017,200,200,1,5
+13,Bolívar,13490,Norosi,Arroz Secano Manual,2017,180,180,270,2
+13,Bolívar,13490,Norosi,Arroz Secano Manual,2017,170,120,180,2
+13,Bolívar,13490,Norosi,Maiz Tradicional,2017,80,80,120,2
+13,Bolívar,13490,Norosi,Maiz Tradicional,2017,130,60,90,2
+13,Bolívar,13490,Norosi,Yuca,2017,250,230,2,10
+13,Bolívar,13490,Norosi,Cacao,2017,52,52,17,0
+13,Bolívar,13490,Norosi,Palma De Aceite,2017,320,320,1,4
+13,Bolívar,13490,Norosi,Platano,2017,52,52,416,8
+13,Bolívar,13549,Pinillos,Ahuyama,2017,600,400,6,15
+13,Bolívar,13549,Pinillos,Ahuyama,2017,200,200,3,15
+13,Bolívar,13549,Pinillos,Arroz Secano Manual,2017,250,250,500,2
+13,Bolívar,13549,Pinillos,Arroz Secano Manual,2017,250,200,400,2
+13,Bolívar,13549,Pinillos,Arroz Secano Mecanizado,2017,300,400,1,4
+13,Bolívar,13549,Pinillos,Arroz Secano Mecanizado,2017,250,250,875,4
+13,Bolívar,13549,Pinillos,Maiz Tradicional,2017,2,1,2,2
+13,Bolívar,13549,Pinillos,Maiz Tradicional,2017,1,1,2,2
+13,Bolívar,13549,Pinillos,Yuca,2017,700,550,7,12
+13,Bolívar,13549,Pinillos,Cacao,2017,397,297,178,1
+13,Bolívar,13549,Pinillos,Coco,2017,3,3,12,4
+13,Bolívar,13549,Pinillos,Mango,2017,20,20,360,18
+13,Bolívar,13549,Pinillos,Platano,2017,1,1,5,5
+13,Bolívar,13580,Regidor,Arroz Secano Mecanizado,2017,263,263,526,2
+13,Bolívar,13580,Regidor,Arroz Secano Mecanizado,2017,263,263,526,2
+13,Bolívar,13580,Regidor,Maiz Tradicional,2017,250,250,375,2
+13,Bolívar,13580,Regidor,Maiz Tradicional,2017,350,350,525,2
+13,Bolívar,13580,Regidor,Maiz Tradicional,2017,250,200,300,2
+13,Bolívar,13580,Regidor,Maiz Tradicional,2017,250,200,300,2
+13,Bolívar,13580,Regidor,Yuca,2017,300,,,0
+13,Bolívar,13580,Regidor,Palma De Aceite,2017,6,6,27,5
+13,Bolívar,13580,Regidor,Platano,2017,150,150,600,4
+13,Bolívar,13600,Rio Viejo,Maiz Tradicional,2017,450,50,75,2
+13,Bolívar,13600,Rio Viejo,Maiz Tradicional,2017,850,200,300,2
+13,Bolívar,13600,Rio Viejo,Patilla,2017,15,12,12,1
+13,Bolívar,13600,Rio Viejo,Patilla,2017,20,18,18,1
+13,Bolívar,13600,Rio Viejo,Yuca,2017,200,180,1,7
+13,Bolívar,13600,Rio Viejo,Palma De Aceite,2017,3,3,24,8
+13,Bolívar,13620,San Cristobal,Maiz Tradicional,2017,70,65,98,2
+13,Bolívar,13620,San Cristobal,Yuca,2017,70,65,455,7
+13,Bolívar,13620,San Cristobal,Yuca,2017,10,,,0
+13,Bolívar,13620,San Cristobal,Mango,2017,49,10,60,6
+13,Bolívar,13647,San Estanislao,Ahuyama,2017,50,40,400,10
+13,Bolívar,13647,San Estanislao,Frijol,2017,25,13,13,1
+13,Bolívar,13647,San Estanislao,Frijol,2017,100,90,90,1
+13,Bolívar,13647,San Estanislao,Maiz Tradicional,2017,2,1,1,1
+13,Bolívar,13647,San Estanislao,Maiz Tradicional,2017,2,1,1,1
+13,Bolívar,13647,San Estanislao,Melon,2017,8,8,184,23
+13,Bolívar,13647,San Estanislao,Melon,2017,9,9,207,23
+13,Bolívar,13647,San Estanislao,Ñame,2017,140,135,1,8
+13,Bolívar,13647,San Estanislao,Yuca,2017,2,1,10,7
+13,Bolívar,13647,San Estanislao,Platano,2017,35,25,150,6
+13,Bolívar,13650,San Fernando,Maiz Tradicional,2017,140,120,216,2
+13,Bolívar,13650,San Fernando,Maiz Tradicional,2017,145,125,225,2
+13,Bolívar,13650,San Fernando,Yuca,2017,75,70,700,10
+13,Bolívar,13650,San Fernando,Mango,2017,9,9,72,8
+13,Bolívar,13650,San Fernando,Naranja,2017,40,40,600,15
+13,Bolívar,13650,San Fernando,Platano,2017,50,50,200,4
+13,Bolívar,13654,San Jacinto,Ajonjoli,2017,70,70,70,1
+13,Bolívar,13654,San Jacinto,Arroz Secano Manual,2017,50,50,50,1
+13,Bolívar,13654,San Jacinto,Arroz Secano Manual,2017,400,400,400,1
+13,Bolívar,13654,San Jacinto,Maiz Tecnificado,2017,400,400,2,4
+13,Bolívar,13654,San Jacinto,Frijol,2017,30,30,15,1
+13,Bolívar,13654,San Jacinto,Frijol,2017,70,70,49,1
+13,Bolívar,13654,San Jacinto,Frijol,2017,30,30,12,0
+13,Bolívar,13654,San Jacinto,Maiz Tecnificado,2017,100,100,300,3
+13,Bolívar,13654,San Jacinto,Maiz Tradicional,2017,700,700,700,1
+13,Bolívar,13654,San Jacinto,Maiz Tradicional,2017,150,150,150,1
+13,Bolívar,13654,San Jacinto,Maiz Tradicional,2017,2,2,3,2
+13,Bolívar,13654,San Jacinto,Maiz Tradicional,2017,1,1,600,1
+13,Bolívar,13654,San Jacinto,Aji Dulce,2017,10,10,50,5
+13,Bolívar,13654,San Jacinto,Aji Tabasco,2017,90,90,540,6
+13,Bolívar,13654,San Jacinto,Ñame,2017,2,2,19,11
+13,Bolívar,13654,San Jacinto,Ñame,2017,300,300,3,10
+13,Bolívar,13654,San Jacinto,Ñame,2017,800,800,10,12
+13,Bolívar,13654,San Jacinto,Ñame,2017,500,500,4,8
+13,Bolívar,13654,San Jacinto,Tabaco Negro,2017,30,30,30,1
+13,Bolívar,13654,San Jacinto,Yuca,2017,1,1,16,12
+13,Bolívar,13654,San Jacinto,Yuca,2017,1,1,6,6
+13,Bolívar,13654,San Jacinto,Aguacate,2017,530,430,6,15
+13,Bolívar,13654,San Jacinto,Cacao,2017,441,250,50,0
+13,Bolívar,13654,San Jacinto,Eucalipto Baby Blue,2017,5,0,0,0
+13,Bolívar,13655,San Jacinto Del Cauca,Arroz Secano Manual,2017,450,400,920,2
+13,Bolívar,13655,San Jacinto Del Cauca,Arroz Secano Manual,2017,300,280,420,2
+13,Bolívar,13655,San Jacinto Del Cauca,Arroz Secano Mecanizado,2017,6,6,20,4
+13,Bolívar,13655,San Jacinto Del Cauca,Arroz Secano Mecanizado,2017,3,3,9,3
+13,Bolívar,13655,San Jacinto Del Cauca,Maiz Tradicional,2017,500,400,800,2
+13,Bolívar,13655,San Jacinto Del Cauca,Maiz Tradicional,2017,480,400,800,2
+13,Bolívar,13655,San Jacinto Del Cauca,Yuca,2017,300,250,2,8
+13,Bolívar,13655,San Jacinto Del Cauca,Cacao,2017,10,10,6,1
+13,Bolívar,13655,San Jacinto Del Cauca,Platano,2017,60,60,300,5
+13,Bolívar,13657,San Juan Nepomuceno,Frijol,2017,5,5,5,1
+13,Bolívar,13657,San Juan Nepomuceno,Frijol,2017,8,7,7,1
+13,Bolívar,13657,San Juan Nepomuceno,Maiz Tradicional,2017,700,650,1,2
+13,Bolívar,13657,San Juan Nepomuceno,Maiz Tradicional,2017,500,450,675,2
+13,Bolívar,13657,San Juan Nepomuceno,Maiz Tradicional,2017,600,550,825,2
+13,Bolívar,13657,San Juan Nepomuceno,Maiz Tradicional,2017,400,350,525,2
+13,Bolívar,13657,San Juan Nepomuceno,Maiz Tradicional,2017,2,2,4,2
+13,Bolívar,13657,San Juan Nepomuceno,Maiz Tradicional,2017,1,1,2,2
+13,Bolívar,13657,San Juan Nepomuceno,Maiz Tradicional,2017,900,800,160,200
+13,Bolívar,13657,San Juan Nepomuceno,Maiz Tradicional,2017,500,450,810,2
+13,Bolívar,13657,San Juan Nepomuceno,Ñame,2017,2,2,32,15
+13,Bolívar,13657,San Juan Nepomuceno,Ñame,2017,2,1,17,12
+13,Bolívar,13657,San Juan Nepomuceno,Yuca,2017,2,2,23,12
+13,Bolívar,13657,San Juan Nepomuceno,Yuca,2017,800,750,8,10
+13,Bolívar,13657,San Juan Nepomuceno,Cacao,2017,88,18,2,103
+13,Bolívar,13657,San Juan Nepomuceno,Naranja,2017,4,1,1,1
+13,Bolívar,13667,San Martin De Loba,Arroz Secano Manual,2017,40,15,23,2
+13,Bolívar,13667,San Martin De Loba,Arroz Secano Manual,2017,50,20,30,2
+13,Bolívar,13667,San Martin De Loba,Maiz Tradicional,2017,600,200,300,2
+13,Bolívar,13667,San Martin De Loba,Maiz Tradicional,2017,650,300,600,2
+13,Bolívar,13667,San Martin De Loba,Yuca,2017,400,300,4,12
+13,Bolívar,13667,San Martin De Loba,Aguacate,2017,70,70,700,10
+13,Bolívar,13667,San Martin De Loba,Platano,2017,500,500,2,4
+13,Bolívar,13670,San Pablo,Arroz Secano Manual,2017,650,650,2,3
+13,Bolívar,13670,San Pablo,Arroz Secano Manual,2017,600,500,1,2
+13,Bolívar,13670,San Pablo,Arroz Secano Mecanizado,2017,250,250,1,5
+13,Bolívar,13670,San Pablo,Arroz Secano Mecanizado,2017,200,150,675,5
+13,Bolívar,13670,San Pablo,Maiz Tradicional,2017,850,750,1,2
+13,Bolívar,13670,San Pablo,Maiz Tradicional,2017,900,800,1,2
+13,Bolívar,13670,San Pablo,Patilla,2017,15,15,225,15
+13,Bolívar,13670,San Pablo,Patilla,2017,25,20,280,14
+13,Bolívar,13670,San Pablo,Yuca,2017,900,800,11,14
+13,Bolívar,13670,San Pablo,Cacao,2017,350,350,175,1
+13,Bolívar,13670,San Pablo,Caucho,2017,370,170,51,0
+13,Bolívar,13670,San Pablo,Palma De Aceite,2017,12,12,143,12
+13,Bolívar,13670,San Pablo,Platano,2017,950,950,10,10
+13,Bolívar,13673,Santa Catalina,Ahuyama,2017,8,7,65,10
+13,Bolívar,13673,Santa Catalina,Frijol,2017,10,8,8,1
+13,Bolívar,13673,Santa Catalina,Frijol,2017,10,10,10,1
+13,Bolívar,13673,Santa Catalina,Maiz Tradicional,2017,400,400,480,1
+13,Bolívar,13673,Santa Catalina,Maiz Tradicional,2017,500,500,750,2
+13,Bolívar,13673,Santa Catalina,Melon,2017,12,6,150,25
+13,Bolívar,13673,Santa Catalina,Melon,2017,17,14,350,25
+13,Bolívar,13673,Santa Catalina,Millo,2017,10,8,12,2
+13,Bolívar,13673,Santa Catalina,Ñame,2017,50,50,450,9
+13,Bolívar,13673,Santa Catalina,Yuca,2017,200,200,2,10
+13,Bolívar,13673,Santa Catalina,Aguacate,2017,5,1,6,6
+13,Bolívar,13673,Santa Catalina,Coco,2017,7,7,21,3
+13,Bolívar,13673,Santa Catalina,Guanabana,2017,15,12,120,10
+13,Bolívar,13673,Santa Catalina,Limon,2017,10,10,140,14
+13,Bolívar,13673,Santa Catalina,Mango,2017,253,113,2,18
+13,Bolívar,13673,Santa Catalina,120,2017,0,,,
+13,Bolívar,13673,Santa Catalina,Piña,2017,1,1,10,20
+13,Bolívar,13673,Santa Catalina,Platano,2017,20,5,50,10
+13,Bolívar,13683,Santa Rosa,Aji Dulce,2017,20,10,40,4
+13,Bolívar,13683,Santa Rosa,Aji Dulce,2017,20,10,20,2
+13,Bolívar,13683,Santa Rosa,Arroz Secano Mecanizado,2017,55,50,200,4
+13,Bolívar,13683,Santa Rosa,Berenjena,2017,15,10,70,7
+13,Bolívar,13683,Santa Rosa,Berenjena,2017,8,3,21,7
+13,Bolívar,13683,Santa Rosa,Maiz Tradicional,2017,290,180,180,1
+13,Bolívar,13683,Santa Rosa,Maiz Tradicional,2017,150,100,100,1
+13,Bolívar,13683,Santa Rosa,Melon,2017,12,8,64,8
+13,Bolívar,13683,Santa Rosa,Patilla,2017,2,2,10,5
+13,Bolívar,13683,Santa Rosa,Patilla,2017,6,4,32,8
+13,Bolívar,13683,Santa Rosa,Ñame,2017,120,60,360,6
+13,Bolívar,13683,Santa Rosa,Yuca,2017,250,150,1,8
+13,Bolívar,13683,Santa Rosa,Guayaba,2017,8,1,2,2
+13,Bolívar,13683,Santa Rosa,Limon,2017,25,15,90,6
+13,Bolívar,13683,Santa Rosa,Mango,2017,108,98,2,18
+13,Bolívar,13683,Santa Rosa,Platano,2017,52,12,72,6
+13,Bolívar,13688,Santa Rosa Del Sur,Frijol,2017,200,650,455,1
+13,Bolívar,13688,Santa Rosa Del Sur,Frijol,2017,200,150,105,1
+13,Bolívar,13688,Santa Rosa Del Sur,Maiz Tradicional,2017,900,850,2,2
+13,Bolívar,13688,Santa Rosa Del Sur,Maiz Tradicional,2017,650,650,1,2
+13,Bolívar,13688,Santa Rosa Del Sur,Yuca,2017,1,900,8,9
+13,Bolívar,13688,Santa Rosa Del Sur,Aguacate,2017,123,123,1,10
+13,Bolívar,13688,Santa Rosa Del Sur,Cacao,2017,3,3,2,1
+13,Bolívar,13688,Santa Rosa Del Sur,Cafe,2017,2,2,1,1
+13,Bolívar,13688,Santa Rosa Del Sur,Caña Panelera,2017,585,585,5,8
+13,Bolívar,13688,Santa Rosa Del Sur,Pitahaya,2017,25,25,75,3
+13,Bolívar,13688,Santa Rosa Del Sur,Platano,2017,810,810,6,7
+13,Bolívar,13744,Simití,Arroz Secano Manual,2017,600,600,2,3
+13,Bolívar,13744,Simití,Arroz Secano Manual,2017,380,380,1,3
+13,Bolívar,13744,Simití,Frijol,2017,150,150,120,1
+13,Bolívar,13744,Simití,Frijol,2017,180,180,90,1
+13,Bolívar,13744,Simití,Maiz Tradicional,2017,2,1,108,108
+13,Bolívar,13744,Simití,Maiz Tradicional,2017,2,2,3,2
+13,Bolívar,13744,Simití,Yuca,2017,600,550,4,8
+13,Bolívar,13744,Simití,Cacao,2017,1,755,378,1
+13,Bolívar,13744,Simití,Caucho,2017,220,0,0,0
+13,Bolívar,13744,Simití,Palma De Aceite,2017,6,6,37,7
+13,Bolívar,13760,Soplaviento,Frijol,2017,5,2,2,1
+13,Bolívar,13760,Soplaviento,Frijol,2017,5,3,3,1
+13,Bolívar,13760,Soplaviento,Maiz Tradicional,2017,60,15,15,1
+13,Bolívar,13760,Soplaviento,Maiz Tradicional,2017,40,20,20,1
+13,Bolívar,13760,Soplaviento,Yuca,2017,60,15,120,8
+13,Bolívar,13760,Soplaviento,Guayaba,2017,2,2,20,10
+13,Bolívar,13760,Soplaviento,Mango,2017,36,15,120,8
+13,Bolívar,13760,Soplaviento,Platano,2017,2,2,20,10
+13,Bolívar,13780,Talaigua Nuevo,Hortalizas Varias,2017,10,9,27,3
+13,Bolívar,13780,Talaigua Nuevo,Hortalizas Varias,2017,10,9,27,3
+13,Bolívar,13780,Talaigua Nuevo,Maiz Tradicional,2017,54,50,75,2
+13,Bolívar,13780,Talaigua Nuevo,Maiz Tradicional,2017,247,240,408,2
+13,Bolívar,13780,Talaigua Nuevo,Maiz Tradicional,2017,230,225,383,2
+13,Bolívar,13780,Talaigua Nuevo,Maiz Tradicional,2017,50,48,72,2
+13,Bolívar,13780,Talaigua Nuevo,Patilla,2017,35,32,288,9
+13,Bolívar,13780,Talaigua Nuevo,Patilla,2017,7,6,48,8
+13,Bolívar,13780,Talaigua Nuevo,Patilla,2017,37,35,315,9
+13,Bolívar,13780,Talaigua Nuevo,Patilla,2017,8,8,64,8
+13,Bolívar,13780,Talaigua Nuevo,Tabaco Negro,2017,30,28,322,12
+13,Bolívar,13780,Talaigua Nuevo,Yuca,2017,240,230,2,8
+13,Bolívar,13780,Talaigua Nuevo,Yuca,2017,130,125,813,7
+13,Bolívar,13780,Talaigua Nuevo,Coco,2017,35,35,105,3
+13,Bolívar,13780,Talaigua Nuevo,Mango,2017,25,25,375,15
+13,Bolívar,13780,Talaigua Nuevo,Naranja Valencia,2017,55,55,550,10
+13,Bolívar,13780,Talaigua Nuevo,Platano,2017,150,150,750,5
+13,Bolívar,13810,Tiquisio,Arroz Secano Manual,2017,350,300,600,2
+13,Bolívar,13810,Tiquisio,Arroz Secano Manual,2017,250,200,400,2
+13,Bolívar,13810,Tiquisio,Arroz Secano Mecanizado,2017,100,100,350,4
+13,Bolívar,13810,Tiquisio,Arroz Secano Mecanizado,2017,100,100,300,3
+13,Bolívar,13810,Tiquisio,Maiz Tradicional,2017,400,350,700,2
+13,Bolívar,13810,Tiquisio,Maiz Tradicional,2017,300,300,600,2
+13,Bolívar,13810,Tiquisio,Ñame,2017,100,100,1,10
+13,Bolívar,13810,Tiquisio,Yuca,2017,200,200,2,10
+13,Bolívar,13810,Tiquisio,Cacao,2017,110,25,25,1
+13,Bolívar,13810,Tiquisio,Caña Panelera,2017,45,45,203,5
+13,Bolívar,13810,Tiquisio,Platano,2017,167,167,752,5
+13,Bolívar,13836,Turbaco,Maiz Tradicional,2017,250,200,300,2
+13,Bolívar,13836,Turbaco,Maiz Tradicional,2017,500,500,750,2
+13,Bolívar,13836,Turbaco,Yuca,2017,450,450,4,8
+13,Bolívar,13836,Turbaco,Caña Panelera,2017,30,30,390,13
+13,Bolívar,13836,Turbaco,Guanabana,2017,9,9,117,13
+13,Bolívar,13836,Turbaco,Jatropha,2017,24,24,0,0
+13,Bolívar,13836,Turbaco,Mango,2017,10,10,100,10
+13,Bolívar,13836,Turbaco,Naranja,2017,15,15,195,13
+13,Bolívar,13836,Turbaco,Piña,2017,5,3,60,20
+13,Bolívar,13838,Turbana,Maiz Tradicional,2017,120,120,240,2
+13,Bolívar,13838,Turbana,Maiz Tradicional,2017,300,300,300,1
+13,Bolívar,13838,Turbana,Maiz Tradicional,2017,150,130,260,2
+13,Bolívar,13838,Turbana,Maiz Tradicional,2017,300,260,260,1
+13,Bolívar,13838,Turbana,Millo,2017,5,4,8,2
+13,Bolívar,13838,Turbana,Millo,2017,3,2,2,1
+13,Bolívar,13838,Turbana,Yuca,2017,200,195,2,9
+13,Bolívar,13838,Turbana,Yuca,2017,450,445,3,7
+13,Bolívar,13838,Turbana,Limon,2017,43,18,180,10
+13,Bolívar,13838,Turbana,Limon,2017,4,2,16,8
+13,Bolívar,13838,Turbana,Mango,2017,99,73,584,8
+13,Bolívar,13838,Turbana,Mango,2017,82,82,680,8
+13,Bolívar,13838,Turbana,Nispero,2017,13,13,65,5
+13,Bolívar,13873,Villanueva,Frijol,2017,100,80,96,1
+13,Bolívar,13873,Villanueva,Maiz Tradicional,2017,2,2,2,1
+13,Bolívar,13873,Villanueva,Maiz Tradicional,2017,800,750,900,1
+13,Bolívar,13873,Villanueva,Ñame Diamante,2017,700,600,8,14
+13,Bolívar,13873,Villanueva,Ñame Espino,2017,650,600,8,14
+13,Bolívar,13873,Villanueva,Yuca,2017,2,2,25,14
+13,Bolívar,13873,Villanueva,21,2017,342,,,
+13,Bolívar,13873,Villanueva,Guayaba,2017,4,3,36,12
+13,Bolívar,13873,Villanueva,Mango,2017,380,377,7,18
+13,Bolívar,13873,Villanueva,Piña,2017,2,2,60,30
+13,Bolívar,13873,Villanueva,Platano,2017,95,90,990,11
+13,Bolívar,13894,Zambrano,Frijol,2017,300,300,300,1
+13,Bolívar,13894,Zambrano,Maiz Tradicional,2017,300,300,300,1
+13,Bolívar,13894,Zambrano,Maiz Tradicional,2017,150,150,150,1
+13,Bolívar,13894,Zambrano,Yuca,2017,2,2,16,8
+13,Bolívar,13894,Zambrano,Palma De Aceite,2017,550,0,0,0
+13,Bolívar,13006,Achí,Aguacate,2018,80,80,1280,16
+13,Bolívar,13006,Achí,Cacao,2018,150,20,14,0.7
+13,Bolívar,13006,Achí,Caña Panelera,2018,30,30,270,9
+13,Bolívar,13006,Achí,Platano,2018,400,400,2400,6
+13,Bolívar,13006,Achí,Yuca,2018,300,280,3080,11
+13,Bolívar,13006,Achí,Zapote,2018,50,50,750,15
+13,Bolívar,13006,Achí,Ahuyama,2018,20,20,360,18
+13,Bolívar,13006,Achí,Arroz Riego,2018,900,900,5400,6
+13,Bolívar,13006,Achí,Arroz Secano Manual,2018,1300,1200,2880,2.4
+13,Bolívar,13006,Achí,Arroz Secano Mecanizado,2018,5500,5000,22500,4.5
+13,Bolívar,13006,Achí,Maiz Tradicional,2018,3200,300,600,2
+13,Bolívar,13006,Achí,Patilla,2018,60,60,1080,18
+13,Bolívar,13006,Achí,Ahuyama,2018,10,10,150,15
+13,Bolívar,13006,Achí,Arroz Riego,2018,900,900,5400,6
+13,Bolívar,13006,Achí,Arroz Secano Manual,2018,1350,1300,2600,2
+13,Bolívar,13006,Achí,Arroz Secano Mecanizado,2018,6500,4000,16000,4
+13,Bolívar,13006,Achí,Maiz Tradicional,2018,1000,950,1900,2
+13,Bolívar,13006,Achí,Patilla,2018,10,10,150,15
+13,Bolívar,13030,Altos Del Rosario,Cacao,2018,20,20,10,0.5
+13,Bolívar,13030,Altos Del Rosario,Platano,2018,40,40,220,5.5
+13,Bolívar,13030,Altos Del Rosario,Yuca,2018,90,80,800,10
+13,Bolívar,13030,Altos Del Rosario,Arroz Secano Manual,2018,170,150,225,1.5
+13,Bolívar,13030,Altos Del Rosario,Maiz Tradicional,2018,150,50,75,1.5
+13,Bolívar,13030,Altos Del Rosario,Arroz Secano Manual,2018,160,160,240,1.5
+13,Bolívar,13030,Altos Del Rosario,Maiz Tradicional,2018,120,50,75,1.5
+13,Bolívar,13042,Arenal,Cacao,2018,70,70,105,1.5
+13,Bolívar,13042,Arenal,Palma De Aceite,2018,70,70,60.51,0.86
+13,Bolívar,13042,Arenal,Platano,2018,25,25,100,4
+13,Bolívar,13042,Arenal,Yuca,2018,35,35,350,10
+13,Bolívar,13042,Arenal,Arroz Secano Manual,2018,20,20,30,1.5
+13,Bolívar,13042,Arenal,Maiz Tradicional,2018,400,250,375,1.5
+13,Bolívar,13042,Arenal,Arroz Secano Manual,2018,15,15,22.5,1.5
+13,Bolívar,13042,Arenal,Maiz Tradicional,2018,400,200,300,1.5
+13,Bolívar,13052,Arjona,Mango,2018,30,30,300,10
+13,Bolívar,13052,Arjona,Naranja Jaffa,2018,5,5,75,15
+13,Bolívar,13052,Arjona,Palma De Aceite,2018,420,399,1467.3,3.68
+13,Bolívar,13052,Arjona,Piña,2018,9,4,120,30
+13,Bolívar,13052,Arjona,Platano,2018,200,200,2400,12
+13,Bolívar,13052,Arjona,Yuca,2018,180,160,1600,10
+13,Bolívar,13052,Arjona,Arroz Riego,2018,150,135,540,4
+13,Bolívar,13052,Arjona,Arroz Secano Manual,2018,13,12,24,2
+13,Bolívar,13052,Arjona,Frijol,2018,15,13,13,1
+13,Bolívar,13052,Arjona,Maiz Tradicional,2018,795,556,642,1.15
+13,Bolívar,13052,Arjona,Melon,2018,64,58,1334,23
+13,Bolívar,13052,Arjona,Arroz Riego,2018,80,72,288,4
+13,Bolívar,13052,Arjona,Frijol,2018,16,14,14,1
+13,Bolívar,13052,Arjona,Maiz Tradicional,2018,2400,2160,2394,1.11
+13,Bolívar,13062,Arroyohondo,Ñame,2018,75,60,600,10
+13,Bolívar,13062,Arroyohondo,Yuca,2018,370,295,1770,6
+13,Bolívar,13062,Arroyohondo,Maiz Tradicional,2018,470,188,188,1
+13,Bolívar,13062,Arroyohondo,Maiz Tradicional,2018,395,200,200,1
+13,Bolívar,13074,Barranco De Loba,Aguacate,2018,15,15,150,10
+13,Bolívar,13074,Barranco De Loba,Cacao,2018,46,46,46,1
+13,Bolívar,13074,Barranco De Loba,Mango,2018,15,15,195,13
+13,Bolívar,13074,Barranco De Loba,Platano,2018,30,30,120,4
+13,Bolívar,13074,Barranco De Loba,Yuca,2018,300,260,2080,8
+13,Bolívar,13074,Barranco De Loba,Maiz Tradicional,2018,420,400,440,1.1
+13,Bolívar,13074,Barranco De Loba,Maiz Tradicional,2018,350,300,750,2.5
+13,Bolívar,13140,Calamar,Mango,2018,32,22,330,15
+13,Bolívar,13140,Calamar,Ñame,2018,20,17,119,7
+13,Bolívar,13140,Calamar,Yuca,2018,600,500,3500,7
+13,Bolívar,13140,Calamar,Aji,2018,10,8,48,6
+13,Bolívar,13140,Calamar,Maiz Tradicional,2018,600,350,350,1
+13,Bolívar,13140,Calamar,Maiz Tradicional,2018,1200,960,1440,1.5
+13,Bolívar,13160,Cantagallo,Cacao,2018,800,800,640,0.8
+13,Bolívar,13160,Cantagallo,Caucho,2018,5,5,10,2
+13,Bolívar,13160,Cantagallo,Palma De Aceite,2018,400,385,665.6,1.73
+13,Bolívar,13160,Cantagallo,Platano,2018,100,100,500,5
+13,Bolívar,13160,Cantagallo,Yuca,2018,650,650,7800,12
+13,Bolívar,13160,Cantagallo,Maiz Tradicional,2018,400,300,450,1.5
+13,Bolívar,13160,Cantagallo,Maiz Tradicional,2018,400,350,595,1.7
+13,Bolívar,13001,Cartagena De Indias,Ciruela,2018,35,35,70,2
+13,Bolívar,13001,Cartagena De Indias,Coco,2018,190,190,1520,8
+13,Bolívar,13001,Cartagena De Indias,Guanabana,2018,9,9,45,5
+13,Bolívar,13001,Cartagena De Indias,Mango,2018,17,17,119,7
+13,Bolívar,13001,Cartagena De Indias,Ñame,2018,30,30,420,14
+13,Bolívar,13001,Cartagena De Indias,Platano,2018,30,30,240,8
+13,Bolívar,13001,Cartagena De Indias,Yuca,2018,600,555,6105,11
+13,Bolívar,13001,Cartagena De Indias,Arroz Secano Manual,2018,6,5,11.5,2.3
+13,Bolívar,13001,Cartagena De Indias,Berenjena,2018,3,3,6,2
+13,Bolívar,13001,Cartagena De Indias,Maiz Tradicional,2018,25,22,26.4,1.2
+13,Bolívar,13001,Cartagena De Indias,Melon,2018,15,15,57,3.8
+13,Bolívar,13001,Cartagena De Indias,Millo,2018,9,8,12,1.5
+13,Bolívar,13001,Cartagena De Indias,Patilla,2018,6,5,20,4
+13,Bolívar,13001,Cartagena De Indias,Pepino Cohombro,2018,2,2,16,8
+13,Bolívar,13001,Cartagena De Indias,Pimenton,2018,3,3,15,5
+13,Bolívar,13001,Cartagena De Indias,Aji,2018,4,4,8,2
+13,Bolívar,13268,El Peñón,Aguacate,2018,9,9,108,12
+13,Bolívar,13001,Cartagena De Indias,Arroz Secano Manual,2018,75,75,382.5,5.1
+13,Bolívar,13001,Cartagena De Indias,Berenjena,2018,6,5.5,33,6
+13,Bolívar,13001,Cartagena De Indias,Cilantro,2018,5,5,10,2
+13,Bolívar,13001,Cartagena De Indias,Frijol,2018,14,13,13,1
+13,Bolívar,13001,Cartagena De Indias,Maiz Tradicional,2018,55,50,55,1.1
+13,Bolívar,13001,Cartagena De Indias,Melon,2018,60,60,720,12
+13,Bolívar,13001,Cartagena De Indias,Patilla,2018,9,7,21,3
+13,Bolívar,13001,Cartagena De Indias,Pepino Cohombro,2018,5,5,35,7
+13,Bolívar,13188,Cicuco,Mango,2018,9,9,135,15
+13,Bolívar,13188,Cicuco,Platano,2018,80,80,480,6
+13,Bolívar,13188,Cicuco,Yuca,2018,100,95,565,5.95
+13,Bolívar,13188,Cicuco,Maiz Tradicional,2018,300,260,390,1.5
+13,Bolívar,13188,Cicuco,Maiz Tradicional,2018,530,460,656,1.43
+13,Bolívar,13213,Clemencia,Citricos,2018,20,15,180,12
+13,Bolívar,13213,Clemencia,Mango,2018,297,217,1736,8
+13,Bolívar,13213,Clemencia,Ñame,2018,90,81,648,8
+13,Bolívar,13213,Clemencia,Platano,2018,120,120,840,7
+13,Bolívar,13213,Clemencia,Yuca,2018,900,800,6400,8
+13,Bolívar,13213,Clemencia,Maiz Tradicional,2018,400,380,380,1
+13,Bolívar,13213,Clemencia,Frijol,2018,20,15,15,1
+13,Bolívar,13213,Clemencia,Maiz Tradicional,2018,450,315,343,1.09
+13,Bolívar,13213,Clemencia,Millo,2018,250,175,1750,10
+13,Bolívar,13204,Córdoba,Ñame,2018,10,10,80,8
+13,Bolívar,13204,Córdoba,Platano,2018,100,100,1500,15
+13,Bolívar,13204,Córdoba,Tabaco Negro,2018,2,2,3.6,1.8
+13,Bolívar,13204,Córdoba,Yuca,2018,550,550,4675,8.5
+13,Bolívar,13204,Córdoba,Arroz Riego,2018,523,523,3661,7
+13,Bolívar,13204,Córdoba,Ajonjoli,2018,1500,1300,1040,0.8
+13,Bolívar,13204,Córdoba,Frijol,2018,50,20,12.6,0.63
+13,Bolívar,13204,Córdoba,Maiz Tradicional,2018,220,110,165,1.5
+13,Bolívar,13244,El Carmen De Bolívar,Aguacate,2018,0,1750,17500,10
+13,Bolívar,13244,El Carmen De Bolívar,Cacao,2018,294,259,51.8,0.2
+13,Bolívar,13244,El Carmen De Bolívar,Ñame Diamante,2018,2300,2200,39600,18
+13,Bolívar,13244,El Carmen De Bolívar,Ñame Espino,2018,1500,1400,14000,10
+13,Bolívar,13244,El Carmen De Bolívar,Palma De Aceite,2018,25,0,0,
+13,Bolívar,13244,El Carmen De Bolívar,Papaya,2018,11,7,224,32
+13,Bolívar,13244,El Carmen De Bolívar,Platano,2018,1300,1300,15600,12
+13,Bolívar,13244,El Carmen De Bolívar,Tabaco Negro,2018,350,320,736,2.3
+13,Bolívar,13244,El Carmen De Bolívar,Yuca,2018,4500,4400,52800,12
+13,Bolívar,13244,El Carmen De Bolívar,Arroz Secano Manual,2018,300,250,750,3
+13,Bolívar,13244,El Carmen De Bolívar,Frijol,2018,150,135,70875,0.53
+13,Bolívar,13244,El Carmen De Bolívar,Maiz Tradicional,2018,670,630,883,1.4
+13,Bolívar,13244,El Carmen De Bolívar,Aji,2018,35,30,90,3
+13,Bolívar,13244,El Carmen De Bolívar,Ajonjoli,2018,100,90,81,0.9
+13,Bolívar,13244,El Carmen De Bolívar,Arroz Secano Manual,2018,250,220,550,2.5
+13,Bolívar,13244,El Carmen De Bolívar,Maiz Tradicional,2018,540,490,675,1.38
+13,Bolívar,13248,El Guamo,Coco,2018,9,4,16,4
+13,Bolívar,13248,El Guamo,Limon,2018,5,4,24,6
+13,Bolívar,13248,El Guamo,Mango,2018,38,18,162,9
+13,Bolívar,13248,El Guamo,Naranja Jaffa,2018,3.5,1.5,10.5,7
+13,Bolívar,13248,El Guamo,Ñame,2018,55,54,520,9.63
+13,Bolívar,13248,El Guamo,Platano,2018,38,38,228,6
+13,Bolívar,13248,El Guamo,Pomelo,2018,1.5,1.5,12,8
+13,Bolívar,13248,El Guamo,Yuca,2018,110,106,1638,15.45
+13,Bolívar,13248,El Guamo,Ahuyama,2018,12,11,33,3
+13,Bolívar,13248,El Guamo,Frijol,2018,6,6,3.6,0.6
+13,Bolívar,13248,El Guamo,Maiz Tradicional,2018,1450,1390,2745.13,1.97
+13,Bolívar,13248,El Guamo,Melon,2018,22,21,126,6
+13,Bolívar,13248,El Guamo,Maiz Tradicional,2018,1325,1298.5,2993.6,2.31
+13,Bolívar,13268,El Peñón,Mango,2018,42,35,455,13
+13,Bolívar,13268,El Peñón,Palma De Aceite,2018,80,80,77.8,0.97
+13,Bolívar,13268,El Peñón,Piña,2018,278,278,3336,12
+13,Bolívar,13268,El Peñón,Platano,2018,158,158,632,4
+13,Bolívar,13268,El Peñón,Yuca,2018,230,150,1500,10
+13,Bolívar,13268,El Peñón,Ahuyama,2018,60,60,720,12
+13,Bolívar,13268,El Peñón,Frijol,2018,12,12,9.6,0.8
+13,Bolívar,13268,El Peñón,Maiz Tradicional,2018,140,140,210,1.5
+13,Bolívar,13268,El Peñón,Ahuyama,2018,30,30,360,12
+13,Bolívar,13268,El Peñón,Maiz Tradicional,2018,40,38,57,1.5
+13,Bolívar,13300,Hatillo De Loba,Platano,2018,93,93,372,4
+13,Bolívar,13300,Hatillo De Loba,Yuca,2018,300,250,2000,8
+13,Bolívar,13300,Hatillo De Loba,Ahuyama,2018,40,30,360,12
+13,Bolívar,13300,Hatillo De Loba,Maiz Tradicional,2018,150,100,150,1.5
+13,Bolívar,13300,Hatillo De Loba,Ahuyama,2018,50,40,480,12
+13,Bolívar,13300,Hatillo De Loba,Maiz Tradicional,2018,150,100,150,1.5
+13,Bolívar,13417,Magangué,Mango,2018,126,42,840,20
+13,Bolívar,13417,Magangué,Platano,2018,130,130,780,6
+13,Bolívar,13417,Magangué,Yuca,2018,800,800,9600,12
+13,Bolívar,13417,Magangué,Ahuyama,2018,450,40,640,16
+13,Bolívar,13417,Magangué,Arroz Secano Manual,2018,500,450,1125,2.5
+13,Bolívar,13417,Magangué,Arroz Secano Mecanizado,2018,500,500,2250,4.5
+13,Bolívar,13417,Magangué,Frijol,2018,50,50,45,0.9
+13,Bolívar,13417,Magangué,Maiz Tradicional,2018,1300,1200,1440,1.2
+13,Bolívar,13417,Magangué,Patilla,2018,100,90,1440,16
+13,Bolívar,13417,Magangué,Algodon,2018,10,10,25,2.5
+13,Bolívar,13417,Magangué,Arroz Secano Manual,2018,100,80,160,2
+13,Bolívar,13417,Magangué,Arroz Secano Mecanizado,2018,100,100,400,4
+13,Bolívar,13417,Magangué,Maiz Tradicional,2018,1300,1300,2600,2
+13,Bolívar,13433,Mahates,Caña Panelera,2018,300,300,2400,8
+13,Bolívar,13433,Mahates,Citricos,2018,200,170,2550,15
+13,Bolívar,13433,Mahates,Coco,2018,40,40,320,8
+13,Bolívar,13433,Mahates,Jatropha,2018,50,50,600,12
+13,Bolívar,13433,Mahates,Mango,2018,350,200,3000,15
+13,Bolívar,13433,Mahates,Ñame,2018,450,300,3400,11.33
+13,Bolívar,13433,Mahates,Palma De Aceite,2018,2000,1500,5516.3,3.68
+13,Bolívar,13433,Mahates,Platano,2018,400,400,4800,12
+13,Bolívar,13433,Mahates,Yuca,2018,2360,1290,15600,12.09
+13,Bolívar,13433,Mahates,Aji,2018,70,70,510,7.3
+13,Bolívar,13433,Mahates,Arroz Riego,2018,50,50,230,4.6
+13,Bolívar,13433,Mahates,Maiz Tradicional,2018,1500,1500,1950,1.3
+13,Bolívar,13433,Mahates,Melon,2018,100,100,650,6.5
+13,Bolívar,13433,Mahates,Aji,2018,50,50,370,7.4
+13,Bolívar,13433,Mahates,Arroz Riego,2018,50,50,250,5
+13,Bolívar,13433,Mahates,Maiz Tradicional,2018,1800,1800,2760,1.53
+13,Bolívar,13433,Mahates,Melon,2018,100,100,650,6.5
+13,Bolívar,13440,Margarita,Caña Panelera,2018,39,37,74,2
+13,Bolívar,13440,Margarita,Naranja Jaffa,2018,93,71,1278,18
+13,Bolívar,13440,Margarita,Platano,2018,115,109,872,8
+13,Bolívar,13440,Margarita,Yuca,2018,240,200,3000,15
+13,Bolívar,13440,Margarita,Maiz Tradicional,2018,255,250,375,1.5
+13,Bolívar,13440,Margarita,Maiz Tradicional,2018,260,260,390,1.5
+13,Bolívar,13442,María la Baja,Cacao,2018,73,73,36.5,0.5
+13,Bolívar,13442,María la Baja,Ñame,2018,600,600,7200,12
+13,Bolívar,13442,María la Baja,Palma De Aceite,2018,6040,6040,22212.1,3.68
+13,Bolívar,13442,María la Baja,Platano,2018,653,650,5200,8
+13,Bolívar,13442,María la Baja,Yuca,2018,502,502,4040,8.05
+13,Bolívar,13442,María la Baja,Aji,2018,80,80,960,12
+13,Bolívar,13442,María la Baja,Arroz Riego,2018,1900,1900,11400,6
+13,Bolívar,13442,María la Baja,Maiz Tecnificado,2018,2500,2500,10000,4
+13,Bolívar,13442,María la Baja,Maiz Tradicional,2018,500,500,1000,2
+13,Bolívar,13442,María la Baja,Arroz Riego,2018,400,400,1200,3
+13,Bolívar,13442,María la Baja,Maiz Tecnificado,2018,2500,2500,10000,4
+13,Bolívar,13442,María la Baja,Maiz Tradicional,2018,600,600,1200,2
+13,Bolívar,13468,Mompos,Coco,2018,10,10,40,4
+13,Bolívar,13468,Mompos,Mango,2018,30,30,300,10
+13,Bolívar,13468,Mompos,Platano,2018,120,120,480,4
+13,Bolívar,13468,Mompos,Yuca,2018,550,500,4000,8
+13,Bolívar,13468,Mompos,Ahuyama,2018,170,165,330,2
+13,Bolívar,13468,Mompos,Maiz Tradicional,2018,450,420,630,1.5
+13,Bolívar,13468,Mompos,Ahuyama,2018,220,200,400,2
+13,Bolívar,13468,Mompos,Maiz Tradicional,2018,440,400,600,1.5
+13,Bolívar,13458,Montecristo,Cacao,2018,12,0,0,0
+13,Bolívar,13458,Montecristo,Caucho,2018,10,8,14.4,1.8
+13,Bolívar,13458,Montecristo,Platano,2018,20,20,170,8.5
+13,Bolívar,13458,Montecristo,Yuca,2018,600,600,7200,12
+13,Bolívar,13458,Montecristo,Aji Dulce,2018,35,35,262.5,7.5
+13,Bolívar,13458,Montecristo,Arroz Secano Manual,2018,1500,1500,3000,2
+13,Bolívar,13458,Montecristo,Arroz Secano Mecanizado,2018,300,300,1200,4
+13,Bolívar,13458,Montecristo,Frijol Arbustivo,2018,30,30,8.4,0.28
+13,Bolívar,13458,Montecristo,Maiz Tradicional,2018,1600,1450,2900,2
+13,Bolívar,13458,Montecristo,Patilla,2018,50,45,720,16
+13,Bolívar,13458,Montecristo,Aji Dulce,2018,25,25,200,8
+13,Bolívar,13458,Montecristo,Arroz Secano Manual,2018,1200,1000,2500,2.5
+13,Bolívar,13458,Montecristo,Arroz Secano Mecanizado,2018,200,150,630,4.2
+13,Bolívar,13458,Montecristo,Frijol Arbustivo,2018,40,40,14,0.35
+13,Bolívar,13458,Montecristo,Maiz Tradicional,2018,1200,800,1600,2
+13,Bolívar,13458,Montecristo,Patilla,2018,60,40,640,16
+13,Bolívar,13473,Morales,Cacao,2018,137,77,61.6,0.8
+13,Bolívar,13473,Morales,Cafe,2018,20,20,16,0.8
+13,Bolívar,13473,Morales,Caña Panelera,2018,8,8,48,6
+13,Bolívar,13473,Morales,Palma De Aceite,2018,1300,1040,2809.3,2.7
+13,Bolívar,13473,Morales,Platano,2018,200,200,1200,6
+13,Bolívar,13473,Morales,Yuca,2018,900,850,8500,10
+13,Bolívar,13473,Morales,Arroz Riego,2018,300,250,1250,5
+13,Bolívar,13473,Morales,Frijol,2018,350,300,210,0.7
+13,Bolívar,13473,Morales,Maiz Tradicional,2018,1100,850,1700,2
+13,Bolívar,13473,Morales,Algodon,2018,50,50,125,2.5
+13,Bolívar,13473,Morales,Arroz Riego,2018,120,120,540,4.5
+13,Bolívar,13473,Morales,Frijol,2018,350,350,280,0.8
+13,Bolívar,13473,Morales,Maiz Tradicional,2018,1300,1200,3000,2.5
+13,Bolívar,13490,Norosi,Cacao,2018,52,52,78,1.5
+13,Bolívar,13490,Norosi,Palma De Aceite,2018,320,320,276.6,0.86
+13,Bolívar,13490,Norosi,Platano,2018,52,52,208,4
+13,Bolívar,13490,Norosi,Yuca,2018,250,250,2500,10
+13,Bolívar,13490,Norosi,Arroz Secano Manual,2018,100,100,150,1.5
+13,Bolívar,13490,Norosi,Maiz Tradicional,2018,60,60,90,1.5
+13,Bolívar,13490,Norosi,Arroz Secano Manual,2018,205,200,300,1.5
+13,Bolívar,13490,Norosi,Maiz Tradicional,2018,140,110,165,1.5
+13,Bolívar,13549,Pinillos,Cacao,2018,487,487,340.9,0.7
+13,Bolívar,13549,Pinillos,Coco,2018,3,3,13.5,4.5
+13,Bolívar,13549,Pinillos,Mango,2018,20,20,380,19
+13,Bolívar,13549,Pinillos,Platano,2018,600,600,3300,5.5
+13,Bolívar,13549,Pinillos,Yuca,2018,500,450,5400,12
+13,Bolívar,13549,Pinillos,Ahuyama,2018,650,600,9000,15
+13,Bolívar,13549,Pinillos,Arroz Secano Manual,2018,300,300,600,2
+13,Bolívar,13549,Pinillos,Arroz Secano Mecanizado,2018,350,300,1050,3.5
+13,Bolívar,13549,Pinillos,Maiz Tradicional,2018,1600,1500,3000,2
+13,Bolívar,13549,Pinillos,Ahuyama,2018,150,100,1500,15
+13,Bolívar,13549,Pinillos,Arroz Secano Manual,2018,100,100,200,2
+13,Bolívar,13549,Pinillos,Arroz Secano Mecanizado,2018,150,100,350,3.5
+13,Bolívar,13549,Pinillos,Maiz Tradicional,2018,500,450,900,2
+13,Bolívar,13580,Regidor,Caña Azucarera,2018,2,2,180,90
+13,Bolívar,13580,Regidor,Palma De Aceite,2018,6000,6000,5834.7,0.97
+13,Bolívar,13580,Regidor,Piña,2018,3,3,120,40
+13,Bolívar,13580,Regidor,Platano,2018,150,150,600,4
+13,Bolívar,13580,Regidor,Yuca,2018,400,350,3500,10
+13,Bolívar,13580,Regidor,Maiz Tradicional,2018,580,530,795,1.5
+13,Bolívar,13580,Regidor,Arroz Secano Mecanizado,2018,263,263,789,3
+13,Bolívar,13580,Regidor,Maiz Tradicional,2018,500,460,690,1.5
+13,Bolívar,13600,Rio Viejo,Palma De Aceite,2018,4500,4500,7779.6,1.73
+13,Bolívar,13600,Rio Viejo,Yuca,2018,300,300,2100,7
+13,Bolívar,13600,Rio Viejo,Maiz Tradicional,2018,450,250,375,1.5
+13,Bolívar,13600,Rio Viejo,Patilla,2018,20,20,160,8
+13,Bolívar,13600,Rio Viejo,Maiz Tradicional,2018,860,800,1200,1.5
+13,Bolívar,13620,San Cristobal,Limon,2018,2,0,0,0
+13,Bolívar,13620,San Cristobal,Mango,2018,61,16,96,6
+13,Bolívar,13620,San Cristobal,Platano,2018,8,0,0,
+13,Bolívar,13620,San Cristobal,Yuca,2018,90,85,595,7
+13,Bolívar,13620,San Cristobal,Maiz Tradicional,2018,90,80,80,1
+13,Bolívar,13620,San Cristobal,Maiz Tradicional,2018,50,35,52.5,1.5
+13,Bolívar,13647,San Estanislao,Ñame,2018,80,48,384,8
+13,Bolívar,13647,San Estanislao,Platano,2018,35,35,210,6
+13,Bolívar,13647,San Estanislao,Yuca,2018,1500,1350,9450,7
+13,Bolívar,13647,San Estanislao,Ahuyama,2018,58,46,460,10
+13,Bolívar,13647,San Estanislao,Frijol,2018,10,6,6,1
+13,Bolívar,13647,San Estanislao,Maiz Tradicional,2018,1650,1155,1155,1
+13,Bolívar,13647,San Estanislao,Melon,2018,8,8,184,23
+13,Bolívar,13647,San Estanislao,Frijol,2018,50,40,40,1
+13,Bolívar,13647,San Estanislao,Maiz Tradicional,2018,1600,960,960,1
+13,Bolívar,13647,San Estanislao,Melon,2018,6,4.5,103.5,23
+13,Bolívar,13650,San Fernando,Mango,2018,9,9,135,15
+13,Bolívar,13650,San Fernando,Naranja Jaffa,2018,45,40,600,15
+13,Bolívar,13650,San Fernando,Platano,2018,55,55,220,4
+13,Bolívar,13650,San Fernando,Yuca,2018,80,75,750,10
+13,Bolívar,13650,San Fernando,Maiz Tradicional,2018,160,130,234,1.8
+13,Bolívar,13650,San Fernando,Maiz Tradicional,2018,150,135,243,1.8
+13,Bolívar,13654,San Jacinto,Aguacate,2018,350,250,3000,12
+13,Bolívar,13654,San Jacinto,Cacao,2018,240.5,190.5,24.77,0.13
+13,Bolívar,13654,San Jacinto,Cafe,2018,30,10,10,1
+13,Bolívar,13654,San Jacinto,Eucalipto Baby Blue,2018,4500,0,0,0
+13,Bolívar,13654,San Jacinto,Ñame,2018,2700,1800,17000,9.44
+13,Bolívar,13654,San Jacinto,Tabaco Negro,2018,40,30,30,1
+13,Bolívar,13654,San Jacinto,Yuca,2018,1800,1100,10400,9.45
+13,Bolívar,13654,San Jacinto,Aji,2018,130,93,45.7,0.5
+13,Bolívar,13654,San Jacinto,Arroz Secano Manual,2018,200,150,150,1
+13,Bolívar,13654,San Jacinto,Frijol,2018,25,20,10,0.5
+13,Bolívar,13654,San Jacinto,Maiz Tradicional,2018,300,200,200,1
+13,Bolívar,13654,San Jacinto,Ajonjoli,2018,70,60,48,0.8
+13,Bolívar,13654,San Jacinto,Arroz Secano Manual,2018,120,100,80,0.8
+13,Bolívar,13654,San Jacinto,Frijol,2018,100,85,37.5,0.44
+13,Bolívar,13654,San Jacinto,Maiz Tradicional,2018,2300,1880,3210,1.71
+13,Bolívar,13655,San Jacinto Del Cauca,Cacao,2018,15,15,9,0.6
+13,Bolívar,13655,San Jacinto Del Cauca,Platano,2018,60,60,270,4.5
+13,Bolívar,13655,San Jacinto Del Cauca,Yuca,2018,350,350,3500,10
+13,Bolívar,13655,San Jacinto Del Cauca,Arroz Secano Manual,2018,500,500,1500,3
+13,Bolívar,13655,San Jacinto Del Cauca,Arroz Secano Mecanizado,2018,4000,4000,18000,4.5
+13,Bolívar,13655,San Jacinto Del Cauca,Maiz Tradicional,2018,600,600,1200,2
+13,Bolívar,13655,San Jacinto Del Cauca,Arroz Secano Manual,2018,400,400,800,2
+13,Bolívar,13655,San Jacinto Del Cauca,Arroz Secano Mecanizado,2018,3000,3000,13500,4.5
+13,Bolívar,13655,San Jacinto Del Cauca,Maiz Tradicional,2018,500,500,1000,2
+13,Bolívar,13657,San Juan Nepomuceno,Cacao,2018,99,0,0,0
+13,Bolívar,13657,San Juan Nepomuceno,Naranja Jaffa,2018,50,0,0,0
+13,Bolívar,13657,San Juan Nepomuceno,Ñame,2018,2600,2450,31600,12.9
+13,Bolívar,13657,San Juan Nepomuceno,Platano,2018,213,0,0,
+13,Bolívar,13657,San Juan Nepomuceno,Yuca,2018,1500,1350,16200,12
+13,Bolívar,13657,San Juan Nepomuceno,Frijol,2018,40,40,28,0.7
+13,Bolívar,13657,San Juan Nepomuceno,Maiz Tradicional,2018,4500,4050,6715,1.7
+13,Bolívar,13657,San Juan Nepomuceno,Frijol,2018,3,1.5,1.5,1
+13,Bolívar,13657,San Juan Nepomuceno,Maiz Tradicional,2018,2200,1450,2175,1.5
+13,Bolívar,13667,San Martin De Loba,Aguacate,2018,85,60,600,10
+13,Bolívar,13667,San Martin De Loba,Platano,2018,500,500,2000,4
+13,Bolívar,13667,San Martin De Loba,Yuca,2018,500,450,5400,12
+13,Bolívar,13667,San Martin De Loba,Arroz Secano Manual,2018,60,40,60,1.5
+13,Bolívar,13667,San Martin De Loba,Maiz Tradicional,2018,700,500,750,1.5
+13,Bolívar,13667,San Martin De Loba,Arroz Secano Manual,2018,70,65,97.5,1.5
+13,Bolívar,13667,San Martin De Loba,Maiz Tradicional,2018,800,700,1050,1.5
+13,Bolívar,13670,San Pablo,Cacao,2018,350,350,245,0.7
+13,Bolívar,13670,San Pablo,Caucho,2018,370,170,102,0.6
+13,Bolívar,13670,San Pablo,Palma De Aceite,2018,11950,11950,32279.9,2.7
+13,Bolívar,13670,San Pablo,Platano,2018,950,950,5700,6
+13,Bolívar,13670,San Pablo,Yuca,2018,900,850,10200,12
+13,Bolívar,13670,San Pablo,Arroz Secano Manual,2018,700,650,1300,2
+13,Bolívar,13670,San Pablo,Arroz Secano Mecanizado,2018,250,250,1125,4.5
+13,Bolívar,13670,San Pablo,Maiz Tradicional,2018,900,870,1740,2
+13,Bolívar,13670,San Pablo,Patilla,2018,25,20,280,14
+13,Bolívar,13670,San Pablo,Arroz Secano Manual,2018,650,650,1625,2.5
+13,Bolívar,13670,San Pablo,Arroz Secano Mecanizado,2018,180,180,846,4.7
+13,Bolívar,13670,San Pablo,Maiz Tradicional,2018,950,900,1350,1.5
+13,Bolívar,13670,San Pablo,Patilla,2018,30,25,450,18
+13,Bolívar,13673,Santa Catalina,Aguacate,2018,7,5,30,6
+13,Bolívar,13673,Santa Catalina,Coco,2018,7,7,21,3
+13,Bolívar,13673,Santa Catalina,Guanabana,2018,19,12,120,10
+13,Bolívar,13673,Santa Catalina,Limon,2018,5,5,70,14
+13,Bolívar,13673,Santa Catalina,Mango,2018,253,113,2034,18
+13,Bolívar,13673,Santa Catalina,Ñame,2018,50,45,405,9
+13,Bolívar,13673,Santa Catalina,Palma De Aceite,2018,185,120,363,3.03
+13,Bolívar,13673,Santa Catalina,Platano,2018,35,20,200,10
+13,Bolívar,13673,Santa Catalina,Yuca,2018,500,425,4037.5,9.5
+13,Bolívar,13673,Santa Catalina,Frijol,2018,10,8,8,1
+13,Bolívar,13673,Santa Catalina,Maiz Tradicional,2018,450,405,486,1.2
+13,Bolívar,13673,Santa Catalina,Melon,2018,16,12,300,25
+13,Bolívar,13673,Santa Catalina,Ahuyama,2018,10,8,80,10
+13,Bolívar,13673,Santa Catalina,Frijol,2018,10,8,8,1
+13,Bolívar,13673,Santa Catalina,Maiz Tradicional,2018,500,400,600,1.5
+13,Bolívar,13673,Santa Catalina,Melon,2018,21,17,425,25
+13,Bolívar,13673,Santa Catalina,Millo,2018,10,8,12,1.5
+13,Bolívar,13683,Santa Rosa,Guayaba,2018,10,8,24,3
+13,Bolívar,13683,Santa Rosa,Limon,2018,25,15,225,15
+13,Bolívar,13683,Santa Rosa,Mango,2018,100,90,1620,18
+13,Bolívar,13683,Santa Rosa,Ñame,2018,20,16,128,8
+13,Bolívar,13683,Santa Rosa,Platano,2018,50,35,245,7
+13,Bolívar,13683,Santa Rosa,Yuca,2018,270,190,1520,8
+13,Bolívar,13683,Santa Rosa,Berenjena,2018,25,15,150,10
+13,Bolívar,13683,Santa Rosa,Frijol,2018,15,15,82.11,5.47
+13,Bolívar,13683,Santa Rosa,Maiz Tradicional,2018,390,90,90,1
+13,Bolívar,13683,Santa Rosa,Melon,2018,3,3,54,18
+13,Bolívar,13683,Santa Rosa,Patilla,2018,6,2,12,6
+13,Bolívar,13683,Santa Rosa,Tomate,2018,0.5,0.5,24,48
+13,Bolívar,13683,Santa Rosa,Arroz Secano Manual,2018,6,3,12,4
+13,Bolívar,13683,Santa Rosa,Berenjena,2018,10,5,35,7
+13,Bolívar,13683,Santa Rosa,Frijol,2018,5,3,1575,0.53
+13,Bolívar,13683,Santa Rosa,Maiz Tradicional,2018,100,50,50,1
+13,Bolívar,13683,Santa Rosa,Melon,2018,20,10,80,8
+13,Bolívar,13683,Santa Rosa,Patilla,2018,12,4,32,8
+13,Bolívar,13683,Santa Rosa,Tomate,2018,1,0.5,24,48
+13,Bolívar,13688,Santa Rosa Del Sur,Aguacate,2018,123,123,1476,12
+13,Bolívar,13688,Santa Rosa Del Sur,Cacao,2018,3350,3040,2128,0.7
+13,Bolívar,13688,Santa Rosa Del Sur,Cafe,2018,1600,1530,1147.5,0.75
+13,Bolívar,13688,Santa Rosa Del Sur,Caña Panelera,2018,585,585,4972.5,8.5
+13,Bolívar,13688,Santa Rosa Del Sur,Pitahaya,2018,25,25,100,4
+13,Bolívar,13688,Santa Rosa Del Sur,Platano,2018,810,810,6075,7.5
+13,Bolívar,13688,Santa Rosa Del Sur,Yuca,2018,1200,1000,10000,10
+13,Bolívar,13688,Santa Rosa Del Sur,Frijol,2018,250,230,184,0.8
+13,Bolívar,13688,Santa Rosa Del Sur,Maiz Tradicional,2018,850,850,1700,2
+13,Bolívar,13688,Santa Rosa Del Sur,Frijol,2018,250,200,160,0.8
+13,Bolívar,13688,Santa Rosa Del Sur,Maiz Tradicional,2018,700,650,1300,2
+13,Bolívar,13744,Simití,Cacao,2018,1005,755,453,0.6
+13,Bolívar,13744,Simití,Caucho,2018,220,0,0,0
+13,Bolívar,13744,Simití,Palma De Aceite,2018,6175,5675,11037.3,1.94
+13,Bolívar,13744,Simití,Yuca,2018,650,600,5400,9
+13,Bolívar,13744,Simití,Arroz Secano Manual,2018,700,700,2100,3
+13,Bolívar,13744,Simití,Frijol,2018,200,20,16,0.8
+13,Bolívar,13744,Simití,Maiz Tradicional,2018,2100,1800,2700,1.5
+13,Bolívar,13744,Simití,Arroz Secano Manual,2018,400,400,1200,3
+13,Bolívar,13744,Simití,Flores Y Follajes,2018,180,140,84,0.6
+13,Bolívar,13744,Simití,Maiz Tradicional,2018,1500,1400,2800,2
+13,Bolívar,13760,Soplaviento,Guayaba,2018,2,2,20,10
+13,Bolívar,13760,Soplaviento,Mango,2018,36,19,152,8
+13,Bolívar,13760,Soplaviento,Platano,2018,2,2,20,10
+13,Bolívar,13760,Soplaviento,Yuca,2018,30,25,200,8
+13,Bolívar,13760,Soplaviento,Frijol,2018,2,2,2,1
+13,Bolívar,13760,Soplaviento,Maiz Tradicional,2018,30,21,21,1
+13,Bolívar,13760,Soplaviento,Frijol,2018,2,2,2,1
+13,Bolívar,13760,Soplaviento,Maiz Tradicional,2018,30,21,21,1
+13,Bolívar,13780,Talaigua Nuevo,Coco,2018,35,35,105,3
+13,Bolívar,13780,Talaigua Nuevo,Mango,2018,25,25,375,15
+13,Bolívar,13780,Talaigua Nuevo,Naranja Valencia,2018,55,55,550,10
+13,Bolívar,13780,Talaigua Nuevo,Platano,2018,150,150,750,5
+13,Bolívar,13780,Talaigua Nuevo,Tabaco Negro,2018,45,40,60,1.5
+13,Bolívar,13780,Talaigua Nuevo,Yuca,2018,280,200,1400,7
+13,Bolívar,13780,Talaigua Nuevo,Hortalizas Varias,2018,50,44,342,7.8
+13,Bolívar,13780,Talaigua Nuevo,Maiz Tradicional,2018,300,290,484,1.67
+13,Bolívar,13780,Talaigua Nuevo,Patilla,2018,7,6,48,8
+13,Bolívar,13780,Talaigua Nuevo,Hortalizas Varias,2018,10,10,40,4
+13,Bolívar,13780,Talaigua Nuevo,Maiz Tradicional,2018,360,300,525,1.75
+13,Bolívar,13780,Talaigua Nuevo,Patilla,2018,58,48,464,9.67
+13,Bolívar,13810,Tiquisio,Cacao,2018,110,25,25,1
+13,Bolívar,13810,Tiquisio,Caña Panelera,2018,45,45,225,5
+13,Bolívar,13810,Tiquisio,Ñame,2018,100,100,1200,12
+13,Bolívar,13810,Tiquisio,Platano,2018,167,167,835,5
+13,Bolívar,13810,Tiquisio,Yuca,2018,300,300,3000,10
+13,Bolívar,13810,Tiquisio,Arroz Secano Manual,2018,350,300,600,2
+13,Bolívar,13810,Tiquisio,Arroz Secano Mecanizado,2018,30,30,120,4
+13,Bolívar,13810,Tiquisio,Maiz Tradicional,2018,450,410,820,2
+13,Bolívar,13810,Tiquisio,Arroz Secano Manual,2018,300,300,750,2.5
+13,Bolívar,13810,Tiquisio,Arroz Secano Mecanizado,2018,30,30,150,5
+13,Bolívar,13810,Tiquisio,Maiz Tradicional,2018,300,300,600,2
+13,Bolívar,13836,Turbaco,Caña Panelera,2018,30,30,312,10.4
+13,Bolívar,13836,Turbaco,Guanabana,2018,8,8,104,13
+13,Bolívar,13836,Turbaco,Jatropha,2018,14,0,0,0
+13,Bolívar,13836,Turbaco,Limon,2018,4,4,52,13
+13,Bolívar,13836,Turbaco,Mango,2018,10,10,100,10
+13,Bolívar,13836,Turbaco,Naranja Jaffa,2018,10,10,130,13
+13,Bolívar,13836,Turbaco,Piña,2018,4,4,80,20
+13,Bolívar,13836,Turbaco,Pomelo,2018,1,1,13,13
+13,Bolívar,13836,Turbaco,Yuca,2018,520,415,2905,7
+13,Bolívar,13836,Turbaco,Maiz Tradicional,2018,330,235,352.5,1.5
+13,Bolívar,13836,Turbaco,Maiz Tradicional,2018,530,400,600,1.5
+13,Bolívar,13838,Turbana,Limon,2018,69,47,462,9.8
+13,Bolívar,13838,Turbana,Mango,2018,181,147,881,5.99
+13,Bolívar,13838,Turbana,Nispero,2018,13,13,65,5
+13,Bolívar,13838,Turbana,Yuca,2018,470,470,3590,7.64
+13,Bolívar,13838,Turbana,Maiz Tradicional,2018,435,435,560,1.29
+13,Bolívar,13838,Turbana,Maiz Tradicional,2018,370,370,620,1.68
+13,Bolívar,13873,Villanueva,Caña Panelera,2018,22,21,302.4,14.4
+13,Bolívar,13873,Villanueva,Guayaba,2018,4,3,36,12
+13,Bolívar,13873,Villanueva,Mango,2018,379,376,6768,18
+13,Bolívar,13873,Villanueva,Ñame Diamante,2018,750,700,9800,14
+13,Bolívar,13873,Villanueva,Ñame Espino,2018,700,680,9520,14
+13,Bolívar,13873,Villanueva,Piña,2018,2,2,60,30
+13,Bolívar,13873,Villanueva,Platano,2018,93,87,957,11
+13,Bolívar,13873,Villanueva,Yuca,2018,2100,2000,26000,13
+13,Bolívar,13873,Villanueva,Maiz Tradicional,2018,2480,2400,2880,1.2
+13,Bolívar,13873,Villanueva,Frijol,2018,120,100,120,1.2
+13,Bolívar,13873,Villanueva,Maiz Tradicional,2018,850,800,960,1.2
+13,Bolívar,13894,Zambrano,Palma De Aceite,2018,1430,0,0,
+13,Bolívar,13894,Zambrano,Yuca,2018,390,250,2500,10
+13,Bolívar,13894,Zambrano,Frijol,2018,150,150,150,1
+13,Bolívar,13894,Zambrano,Maiz Tradicional,2018,540,540,720,1.33
+13,Bolívar,13894,Zambrano,Frijol,2018,187,187,224.4,1.2
+13,Bolívar,13894,Zambrano,Maiz Tradicional,2018,520,490,490,1
+13,Bolívar,13006,Achí,Arroz,2019,800,790,3792,5
+13,Bolívar,13006,Achí,Arroz,2019,1100,1100,2310,2
+13,Bolívar,13006,Achí,Arroz,2019,6900,6900,27324,4
+13,Bolívar,13006,Achí,Maíz,2019,3300,3300,6600,2
+13,Bolívar,13006,Achí,Patilla,2019,45,45,675,15
+13,Bolívar,13006,Achí,Ahuyama,2019,24,24,480,20
+13,Bolívar,13006,Achí,Yuca,2019,250,250,3000,12
+13,Bolívar,13006,Achí,Arroz,2019,700,700,3360,5
+13,Bolívar,13006,Achí,Arroz,2019,1300,1300,3250,3
+13,Bolívar,13006,Achí,Arroz,2019,4700,4700,19646,4
+13,Bolívar,13006,Achí,Maíz,2019,80,80,200,3
+13,Bolívar,13006,Achí,Patilla,2019,45,40,600,15
+13,Bolívar,13006,Achí,Ahuyama,2019,60,40,800,20
+13,Bolívar,13006,Achí,Yuca,2019,100,100,1000,10
+13,Bolívar,13006,Achí,Aguacate,2019,80,80,400,5
+13,Bolívar,13006,Achí,Mango,2019,30,30,360,12
+13,Bolívar,13006,Achí,Zapote,2019,50,50,600,12
+13,Bolívar,13006,Achí,Cacao,2019,150,150,45,0
+13,Bolívar,13006,Achí,Caña panelera,2019,30,30,180,6
+13,Bolívar,13006,Achí,Plátano,2019,400,400,800,2
+13,Bolívar,13030,Altos del Rosario,Arroz,2019,190,185,407,2
+13,Bolívar,13030,Altos del Rosario,Maíz,2019,170,165,330,2
+13,Bolívar,13030,Altos del Rosario,Yuca,2019,70,68,748,11
+13,Bolívar,13030,Altos del Rosario,Arroz,2019,200,200,330,2
+13,Bolívar,13030,Altos del Rosario,Maíz,2019,140,135,203,2
+13,Bolívar,13030,Altos del Rosario,Yuca,2019,30,30,330,11
+13,Bolívar,13030,Altos del Rosario,Cacao,2019,20,20,12,1
+13,Bolívar,13030,Altos del Rosario,Plátano,2019,40,40,240,6
+13,Bolívar,13042,Arenal,Arroz,2019,22,20,29,1
+13,Bolívar,13042,Arenal,Maíz,2019,600,550,825,2
+13,Bolívar,13042,Arenal,Yuca,2019,175,150,1350,9
+13,Bolívar,13042,Arenal,Arroz,2019,20,18,30,2
+13,Bolívar,13042,Arenal,Maíz,2019,700,600,780,1
+13,Bolívar,13042,Arenal,Yuca,2019,0,0,0,0
+13,Bolívar,13042,Arenal,Palma de aceite,2019,70,70,78,1
+13,Bolívar,13042,Arenal,Cacao,2019,187,57,40,1
+13,Bolívar,13042,Arenal,Plátano,2019,251,200,1600,8
+13,Bolívar,13052,Arjona,Arroz,2019,150,145,606,4
+13,Bolívar,13052,Arjona,Arroz,2019,0,0,0,0
+13,Bolívar,13052,Arjona,Maíz,2019,890,800,960,1
+13,Bolívar,13052,Arjona,Melón,2019,0,0,0,0
+13,Bolívar,13052,Arjona,Fríjol,2019,0,0,0,0
+13,Bolívar,13052,Arjona,Yuca,2019,220,200,1960,10
+13,Bolívar,13052,Arjona,Arroz,2019,200,180,752,4
+13,Bolívar,13052,Arjona,Maíz,2019,2320,2300,2760,1
+13,Bolívar,13052,Arjona,Fríjol,2019,0,0,0,0
+13,Bolívar,13052,Arjona,Yuca,2019,300,280,2744,10
+13,Bolívar,13052,Arjona,Naranja,2019,5,5,75,15
+13,Bolívar,13052,Arjona,Mango,2019,30,30,300,10
+13,Bolívar,13052,Arjona,Piña,2019,2,0,0,0
+13,Bolívar,13052,Arjona,Palma de aceite,2019,500,400,1746,4
+13,Bolívar,13052,Arjona,Plátano,2019,240,190,2280,12
+13,Bolívar,13062,Arroyohondo,Maíz,2019,530,440,616,1
+13,Bolívar,13062,Arroyohondo,Ñame,2019,50,35,175,5
+13,Bolívar,13062,Arroyohondo,Yuca,2019,290,245,1470,6
+13,Bolívar,13062,Arroyohondo,Maíz,2019,300,275,385,1
+13,Bolívar,13074,Barranco de Loba,Maíz,2019,500,500,650,1
+13,Bolívar,13074,Barranco de Loba,Yuca,2019,350,350,1400,4
+13,Bolívar,13074,Barranco de Loba,Maíz,2019,350,350,455,1
+13,Bolívar,13074,Barranco de Loba,Arroz,2019,200,200,1140,6
+13,Bolívar,13074,Barranco de Loba,Ahuyama,2019,12,12,60,5
+13,Bolívar,13074,Barranco de Loba,Patilla,2019,10,10,250,25
+13,Bolívar,13074,Barranco de Loba,Fríjol,2019,10,10,15,2
+13,Bolívar,13074,Barranco de Loba,Arroz,2019,30,30,90,3
+13,Bolívar,13074,Barranco de Loba,Arroz,2019,200,200,1254,6
+13,Bolívar,13074,Barranco de Loba,Arroz,2019,30,30,90,3
+13,Bolívar,13074,Barranco de Loba,Aguacate,2019,15,15,150,10
+13,Bolívar,13074,Barranco de Loba,Mango,2019,15,15,180,12
+13,Bolívar,13074,Barranco de Loba,Cacao,2019,46,46,16,0
+13,Bolívar,13074,Barranco de Loba,Plátano,2019,30,30,135,5
+13,Bolívar,13140,Calamar,Maíz,2019,755,750,900,1
+13,Bolívar,13140,Calamar,Ñame,2019,10,10,80,8
+13,Bolívar,13140,Calamar,Yuca,2019,300,240,4800,20
+13,Bolívar,13140,Calamar,Ahuyama,2019,500,480,5760,12
+13,Bolívar,13140,Calamar,Ají,2019,15,15,60,4
+13,Bolívar,13140,Calamar,Maíz,2019,755,750,965,1
+13,Bolívar,13140,Calamar,Ají,2019,12,12,58,5
+13,Bolívar,13140,Calamar,Ñame,2019,10,10,80,8
+13,Bolívar,13140,Calamar,Yuca,2019,350,350,5950,17
+13,Bolívar,13140,Calamar,Mango,2019,31,31,465,15
+13,Bolívar,13160,Cantagallo,Maíz,2019,468,468,936,2
+13,Bolívar,13160,Cantagallo,Yuca,2019,583,583,8745,15
+13,Bolívar,13160,Cantagallo,Maíz,2019,553,553,1106,2
+13,Bolívar,13160,Cantagallo,Yuca,2019,597,597,5970,10
+13,Bolívar,13160,Cantagallo,Arroz,2019,45,45,62,1
+13,Bolívar,13160,Cantagallo,Arroz,2019,60,60,297,5
+13,Bolívar,13160,Cantagallo,Palma de aceite,2019,496,385,840,2
+13,Bolívar,13160,Cantagallo,Cacao,2019,95,80,36,0
+13,Bolívar,13160,Cantagallo,Plátano,2019,125,100,600,6
+13,Bolívar,13001,Cartagena de Indias,Arroz,2019,8,8,16,2
+13,Bolívar,13001,Cartagena de Indias,Maíz,2019,30,30,8,0
+13,Bolívar,13001,Cartagena de Indias,Sorgo,2019,9,9,9,1
+13,Bolívar,13001,Cartagena de Indias,Melón,2019,20,20,180,9
+13,Bolívar,13001,Cartagena de Indias,Patilla,2019,6,6,48,8
+13,Bolívar,13001,Cartagena de Indias,Berenjena,2019,3,3,12,4
+13,Bolívar,13001,Cartagena de Indias,Pepino cohombro,2019,2,2,2,1
+13,Bolívar,13001,Cartagena de Indias,Pimentón,2019,3,3,3,1
+13,Bolívar,13001,Cartagena de Indias,Yuca,2019,600,600,6000,10
+13,Bolívar,13001,Cartagena de Indias,Arroz,2019,90,90,180,2
+13,Bolívar,13001,Cartagena de Indias,Maíz,2019,70,70,20,0
+13,Bolívar,13001,Cartagena de Indias,Melón,2019,80,80,800,10
+13,Bolívar,13001,Cartagena de Indias,Patilla,2019,10,10,100,10
+13,Bolívar,13001,Cartagena de Indias,Ají,2019,4,4,20,5
+13,Bolívar,13001,Cartagena de Indias,Berenjena,2019,6,6,30,5
+13,Bolívar,13001,Cartagena de Indias,Cilantro,2019,3,3,3,1
+13,Bolívar,13001,Cartagena de Indias,Pepino cohombro,2019,3,3,3,1
+13,Bolívar,13001,Cartagena de Indias,Fríjol,2019,14,14,10,1
+13,Bolívar,13001,Cartagena de Indias,Ñame,2019,30,30,300,10
+13,Bolívar,13001,Cartagena de Indias,Ciruela,2019,30,30,300,10
+13,Bolívar,13001,Cartagena de Indias,Coco,2019,170,160,3600,23
+13,Bolívar,13001,Cartagena de Indias,Guanábana,2019,12,9,90,10
+13,Bolívar,13001,Cartagena de Indias,Mango,2019,20,17,340,20
+13,Bolívar,13001,Cartagena de Indias,Plátano,2019,40,30,450,15
+13,Bolívar,13188,Cicuco,Maíz,2019,35,34,44,1
+13,Bolívar,13188,Cicuco,Yuca,2019,98,88,528,6
+13,Bolívar,13188,Cicuco,Maíz,2019,41,40,50,1
+13,Bolívar,13188,Cicuco,Yuca,2019,0,0,0,0
+13,Bolívar,13188,Cicuco,Fríjol,2019,3,3,2,1
+13,Bolívar,13188,Cicuco,Ahuyama,2019,8,8,19,3
+13,Bolívar,13188,Cicuco,Mango,2019,9,9,135,15
+13,Bolívar,13188,Cicuco,Plátano,2019,80,80,520,7
+13,Bolívar,13213,Clemencia,Maíz,2019,500,500,650,1
+13,Bolívar,13213,Clemencia,Ñame,2019,90,90,720,8
+13,Bolívar,13213,Clemencia,Yuca,2019,900,900,7200,8
+13,Bolívar,13213,Clemencia,Maíz,2019,450,400,520,1
+13,Bolívar,13213,Clemencia,Sorgo,2019,250,250,375,2
+13,Bolívar,13213,Clemencia,Fríjol,2019,20,20,20,1
+13,Bolívar,13213,Clemencia,Yuca,2019,300,300,2400,8
+13,Bolívar,13213,Clemencia,Arroz,2019,20,20,60,3
+13,Bolívar,13213,Clemencia,Limón,2019,22,20,240,12
+13,Bolívar,13213,Clemencia,Mango,2019,435,282,3666,13
+13,Bolívar,13213,Clemencia,Plátano,2019,420,220,1760,8
+13,Bolívar,13204,Córdoba,Ajonjolí,2019,600,600,390,1
+13,Bolívar,13204,Córdoba,Arroz,2019,520,520,3718,7
+13,Bolívar,13204,Córdoba,Ñame,2019,0,0,0,0
+13,Bolívar,13204,Córdoba,Tabaco,2019,0,0,0,0
+13,Bolívar,13204,Córdoba,Yuca,2019,450,380,4560,12
+13,Bolívar,13204,Córdoba,Ahuyama,2019,12,12,96,8
+13,Bolívar,13204,Córdoba,Fríjol,2019,20,20,24,1
+13,Bolívar,13204,Córdoba,Maíz,2019,80,80,144,2
+13,Bolívar,13204,Córdoba,Melón,2019,4,4,120,30
+13,Bolívar,13204,Córdoba,Maíz,2019,60,60,96,2
+13,Bolívar,13204,Córdoba,Fríjol,2019,10,10,12,1
+13,Bolívar,13204,Córdoba,Ajonjolí,2019,900,850,680,1
+13,Bolívar,13204,Córdoba,Tabaco,2019,0,0,0,0
+13,Bolívar,13204,Córdoba,Arroz,2019,530,520,3718,7
+13,Bolívar,13204,Córdoba,Plátano,2019,100,100,1500,15
+13,Bolívar,13244,El Carmen de Bolívar,Maíz,2019,630,630,630,1
+13,Bolívar,13244,El Carmen de Bolívar,Fríjol,2019,120,100,80,1
+13,Bolívar,13244,El Carmen de Bolívar,Tabaco,2019,200,180,216,1
+13,Bolívar,13244,El Carmen de Bolívar,Ñame,2019,1800,1440,17280,12
+13,Bolívar,13244,El Carmen de Bolívar,Ñame,2019,800,700,6300,9
+13,Bolívar,13244,El Carmen de Bolívar,Yuca,2019,2400,2200,22000,10
+13,Bolívar,13244,El Carmen de Bolívar,Ají,2019,60,40,240,6
+13,Bolívar,13244,El Carmen de Bolívar,Arroz,2019,400,350,550,2
+13,Bolívar,13244,El Carmen de Bolívar,Maíz,2019,800,700,700,1
+13,Bolívar,13244,El Carmen de Bolívar,Ajonjolí,2019,80,50,35,1
+13,Bolívar,13244,El Carmen de Bolívar,Yuca,2019,2000,1800,18000,10
+13,Bolívar,13244,El Carmen de Bolívar,Aguacate,2019,1590,1350,18900,14
+13,Bolívar,13244,El Carmen de Bolívar,Papaya,2019,9,9,243,27
+13,Bolívar,13244,El Carmen de Bolívar,Palma de aceite,2019,0,0,0,0
+13,Bolívar,13244,El Carmen de Bolívar,Cacao,2019,344,244,102,0
+13,Bolívar,13244,El Carmen de Bolívar,Plátano,2019,1000,820,6560,8
+13,Bolívar,13248,El Guamo,Maíz,2019,1500,1500,2250,2
+13,Bolívar,13248,El Guamo,Melón,2019,0,0,0,0
+13,Bolívar,13248,El Guamo,Ahuyama,2019,10,10,120,12
+13,Bolívar,13248,El Guamo,Fríjol,2019,1,1,1,1
+13,Bolívar,13248,El Guamo,Ñame,2019,10,10,30,3
+13,Bolívar,13248,El Guamo,Yuca,2019,600,600,7200,12
+13,Bolívar,13248,El Guamo,Maíz,2019,1300,1300,1950,2
+13,Bolívar,13248,El Guamo,Ñame,2019,30,30,240,8
+13,Bolívar,13248,El Guamo,Yuca,2019,700,700,8400,12
+13,Bolívar,13248,El Guamo,Limón,2019,1,1,12,12
+13,Bolívar,13248,El Guamo,Naranja,2019,2,2,90,45
+13,Bolívar,13248,El Guamo,Pomelo,2019,0,0,0,0
+13,Bolívar,13248,El Guamo,Coco,2019,5,5,43,9
+13,Bolívar,13248,El Guamo,Mango,2019,17,17,170,10
+13,Bolívar,13248,El Guamo,Plátano,2019,28,28,171,6
+13,Bolívar,13268,El Peñón,Maíz,2019,30,30,45,2
+13,Bolívar,13268,El Peñón,Ahuyama,2019,15,14,180,13
+13,Bolívar,13268,El Peñón,Fríjol,2019,11,11,9,1
+13,Bolívar,13268,El Peñón,Yuca,2019,220,220,2200,10
+13,Bolívar,13268,El Peñón,Maíz,2019,30,25,35,1
+13,Bolívar,13268,El Peñón,Ahuyama,2019,15,15,150,10
+13,Bolívar,13268,El Peñón,Yuca,2019,110,110,1100,10
+13,Bolívar,13268,El Peñón,Arroz,2019,20,20,70,4
+13,Bolívar,13268,El Peñón,Arroz,2019,20,20,70,4
+13,Bolívar,13268,El Peñón,Fríjol,2019,8,8,7,1
+13,Bolívar,13268,El Peñón,Aguacate,2019,9,9,108,12
+13,Bolívar,13268,El Peñón,Mango,2019,42,35,455,13
+13,Bolívar,13268,El Peñón,Piña,2019,278,278,3336,12
+13,Bolívar,13268,El Peñón,Palma de aceite,2019,2100,2100,7119,3
+13,Bolívar,13268,El Peñón,Plátano,2019,158,158,632,4
+13,Bolívar,13300,Hatillo de Loba,Maíz,2019,460,460,598,1
+13,Bolívar,13300,Hatillo de Loba,Ahuyama,2019,90,90,765,9
+13,Bolívar,13300,Hatillo de Loba,Yuca,2019,380,380,9500,25
+13,Bolívar,13300,Hatillo de Loba,Maíz,2019,460,460,690,2
+13,Bolívar,13300,Hatillo de Loba,Ahuyama,2019,90,90,765,9
+13,Bolívar,13300,Hatillo de Loba,Plátano,2019,95,83,415,5
+13,Bolívar,13417,Magangué,Arroz,2019,600,550,1375,3
+13,Bolívar,13417,Magangué,Arroz,2019,650,600,2700,5
+13,Bolívar,13417,Magangué,Maíz,2019,1500,1400,2100,2
+13,Bolívar,13417,Magangué,Patilla,2019,100,80,1440,18
+13,Bolívar,13417,Magangué,Ahuyama,2019,500,480,8640,18
+13,Bolívar,13417,Magangué,Fríjol,2019,110,110,110,1
+13,Bolívar,13417,Magangué,Yuca,2019,500,450,4950,11
+13,Bolívar,13417,Magangué,Arroz,2019,200,200,400,2
+13,Bolívar,13417,Magangué,Arroz,2019,250,230,966,4
+13,Bolívar,13417,Magangué,Maíz,2019,1500,1400,2800,2
+13,Bolívar,13417,Magangué,Algodón,2019,0,0,0,0
+13,Bolívar,13417,Magangué,Yuca,2019,500,500,6000,12
+13,Bolívar,13417,Magangué,Fríjol,2019,100,90,90,1
+13,Bolívar,13417,Magangué,Mango,2019,126,126,3150,25
+13,Bolívar,13417,Magangué,Plátano,2019,130,130,910,7
+13,Bolívar,13433,Mahates,Arroz,2019,40,40,308,8
+13,Bolívar,13433,Mahates,Maíz,2019,1540,1540,2310,2
+13,Bolívar,13433,Mahates,Melón,2019,100,100,650,7
+13,Bolívar,13433,Mahates,Ají,2019,70,70,371,5
+13,Bolívar,13433,Mahates,Ñame,2019,300,200,2400,12
+13,Bolívar,13433,Mahates,Yuca,2019,2200,2200,22000,10
+13,Bolívar,13433,Mahates,Maíz,2019,1500,1500,2250,2
+13,Bolívar,13433,Mahates,Ñame,2019,0,0,0,0
+13,Bolívar,13433,Mahates,Yuca,2019,1000,1000,10000,10
+13,Bolívar,13433,Mahates,Cítricos,2019,200,200,3000,15
+13,Bolívar,13433,Mahates,Coco,2019,40,40,320,8
+13,Bolívar,13433,Mahates,Mango,2019,350,250,3500,14
+13,Bolívar,13433,Mahates,Palma de aceite,2019,2000,1500,5237,3
+13,Bolívar,13433,Mahates,Caña panelera,2019,300,300,240,1
+13,Bolívar,13433,Mahates,Plátano,2019,500,400,4800,12
+13,Bolívar,13440,Margarita,Maíz,2019,260,259,907,4
+13,Bolívar,13440,Margarita,Yuca,2019,245,244,6100,25
+13,Bolívar,13440,Margarita,Maíz,2019,253,253,607,2
+13,Bolívar,13440,Margarita,Naranja,2019,96,91,1638,18
+13,Bolívar,13440,Margarita,Caña panelera,2019,38,37,72,2
+13,Bolívar,13440,Margarita,Plátano,2019,120,110,880,8
+13,Bolívar,13442,María la Baja,Arroz,2019,0,0,0,0
+13,Bolívar,13442,María la Baja,Maíz,2019,3500,3500,14000,4
+13,Bolívar,13442,María la Baja,Maíz,2019,600,600,1200,2
+13,Bolívar,13442,María la Baja,Ají,2019,120,120,1440,12
+13,Bolívar,13442,María la Baja,Ñame,2019,600,600,5400,9
+13,Bolívar,13442,María la Baja,Yuca,2019,400,400,3200,8
+13,Bolívar,13442,María la Baja,Arroz,2019,400,400,1540,4
+13,Bolívar,13442,María la Baja,Maíz,2019,3200,3200,12800,4
+13,Bolívar,13442,María la Baja,Maíz,2019,900,900,1800,2
+13,Bolívar,13442,María la Baja,Ñame,2019,200,200,1800,9
+13,Bolívar,13442,María la Baja,Yuca,2019,300,300,2400,8
+13,Bolívar,13442,María la Baja,Arroz,2019,500,500,1100,2
+13,Bolívar,13442,María la Baja,Fríjol,2019,20,20,40,2
+13,Bolívar,13442,María la Baja,Palma de aceite,2019,6040,6040,26359,4
+13,Bolívar,13442,María la Baja,Cacao,2019,73,73,29,0
+13,Bolívar,13442,María la Baja,Plátano,2019,653,653,5224,8
+13,Bolívar,13468,Mompós,Maíz,2019,500,470,1029,2
+13,Bolívar,13468,Mompós,Yuca,2019,400,370,1624,4
+13,Bolívar,13468,Mompós,Ahuyama,2019,185,180,3060,17
+13,Bolívar,13468,Mompós,Maíz,2019,800,700,1750,3
+13,Bolívar,13468,Mompós,Ahuyama,2019,600,550,3300,6
+13,Bolívar,13468,Mompós,Yuca,2019,300,270,1350,5
+13,Bolívar,13468,Mompós,Patilla,2019,50,45,270,6
+13,Bolívar,13468,Mompós,Patilla,2019,50,45,225,5
+13,Bolívar,13468,Mompós,Coco,2019,10,10,20,2
+13,Bolívar,13468,Mompós,Mango,2019,30,30,100,4
+13,Bolívar,13468,Mompós,Plátano,2019,300,290,1200,4
+13,Bolívar,13468,Mompós,Naranja,2019,20,20,160,8
+13,Bolívar,13468,Mompós,Limón,2019,10,10,70,7
+13,Bolívar,13458,Montecristo,Arroz,2019,1200,1000,3500,4
+13,Bolívar,13458,Montecristo,Arroz,2019,750,650,3978,6
+13,Bolívar,13458,Montecristo,Maíz,2019,1650,1550,3875,3
+13,Bolívar,13458,Montecristo,Patilla,2019,55,51,3060,60
+13,Bolívar,13458,Montecristo,Ají,2019,40,38,266,7
+13,Bolívar,13458,Montecristo,Fríjol,2019,25,25,33,1
+13,Bolívar,13458,Montecristo,Yuca,2019,400,400,8280,21
+13,Bolívar,13458,Montecristo,Arroz,2019,1220,1120,3920,4
+13,Bolívar,13458,Montecristo,Arroz,2019,900,670,4522,7
+13,Bolívar,13458,Montecristo,Maíz,2019,610,600,360,1
+13,Bolívar,13458,Montecristo,Patilla,2019,15,12,672,56
+13,Bolívar,13458,Montecristo,Ají,2019,20,20,330,17
+13,Bolívar,13458,Montecristo,Fríjol,2019,30,30,36,1
+13,Bolívar,13458,Montecristo,Yuca,2019,100,100,1500,15
+13,Bolívar,13458,Montecristo,Cacao,2019,18,12,5,0
+13,Bolívar,13458,Montecristo,Plátano,2019,120,120,900,8
+13,Bolívar,13458,Montecristo,Sacha inchi,2019,8,0,0,0
+13,Bolívar,13473,Morales,Arroz,2019,120,120,540,5
+13,Bolívar,13473,Morales,Maíz,2019,1300,1200,3000,3
+13,Bolívar,13473,Morales,Fríjol,2019,350,350,280,1
+13,Bolívar,13473,Morales,Yuca,2019,80,60,870,15
+13,Bolívar,13473,Morales,Ahuyama,2019,200,150,1200,8
+13,Bolívar,13473,Morales,Arroz,2019,300,300,1350,5
+13,Bolívar,13473,Morales,Maíz,2019,1500,1400,3500,3
+13,Bolívar,13473,Morales,Algodón,2019,24,24,19,1
+13,Bolívar,13473,Morales,Fríjol,2019,400,400,320,1
+13,Bolívar,13473,Morales,Yuca,2019,900,850,8500,10
+13,Bolívar,13473,Morales,Palma de aceite,2019,1300,1040,3637,3
+13,Bolívar,13473,Morales,Cacao,2019,137,77,62,1
+13,Bolívar,13473,Morales,Café,2019,101,81,32,0
+13,Bolívar,13473,Morales,Caña panelera,2019,8,8,48,6
+13,Bolívar,13473,Morales,Plátano,2019,200,200,1200,6
+13,Bolívar,13490,Norosi,Arroz,2019,150,90,270,3
+13,Bolívar,13490,Norosi,Maíz,2019,350,300,450,2
+13,Bolívar,13490,Norosi,Yuca,2019,100,90,720,8
+13,Bolívar,13490,Norosi,Arroz,2019,150,120,360,3
+13,Bolívar,13490,Norosi,Maíz,2019,350,300,480,2
+13,Bolívar,13490,Norosi,Yuca,2019,100,100,900,9
+13,Bolívar,13490,Norosi,Palma de aceite,2019,320,320,2238,7
+13,Bolívar,13490,Norosi,Cacao,2019,52,52,22,0
+13,Bolívar,13490,Norosi,Plátano,2019,82,52,208,4
+13,Bolívar,13549,Pinillos,Arroz,2019,400,360,720,2
+13,Bolívar,13549,Pinillos,Arroz,2019,200,190,732,4
+13,Bolívar,13549,Pinillos,Maíz,2019,1650,1630,3260,2
+13,Bolívar,13549,Pinillos,Ahuyama,2019,160,160,2560,16
+13,Bolívar,13549,Pinillos,Yuca,2019,300,300,3600,12
+13,Bolívar,13549,Pinillos,Arroz,2019,150,140,280,2
+13,Bolívar,13549,Pinillos,Arroz,2019,200,190,732,4
+13,Bolívar,13549,Pinillos,Maíz,2019,500,490,931,2
+13,Bolívar,13549,Pinillos,Ahuyama,2019,170,160,2304,14
+13,Bolívar,13549,Pinillos,Yuca,2019,350,320,3840,12
+13,Bolívar,13549,Pinillos,Coco,2019,4,3,12,4
+13,Bolívar,13549,Pinillos,Mango,2019,20,20,400,20
+13,Bolívar,13549,Pinillos,Cacao,2019,487,487,292,1
+13,Bolívar,13549,Pinillos,Plátano,2019,600,600,3600,6
+13,Bolívar,13580,Regidor,Maíz,2019,990,950,1900,2
+13,Bolívar,13580,Regidor,Yuca,2019,350,270,1890,7
+13,Bolívar,13580,Regidor,Patilla,2019,120,80,1440,18
+13,Bolívar,13580,Regidor,Ahuyama,2019,70,38,456,12
+13,Bolívar,13580,Regidor,Arroz,2019,270,270,1515,6
+13,Bolívar,13580,Regidor,Maíz,2019,990,940,1598,2
+13,Bolívar,13580,Regidor,Ahuyama,2019,100,70,770,11
+13,Bolívar,13580,Regidor,Patilla,2019,79,65,1105,17
+13,Bolívar,13580,Regidor,Fríjol,2019,30,20,14,1
+13,Bolívar,13580,Regidor,Melón,2019,20,15,120,8
+13,Bolívar,13580,Regidor,Fríjol,2019,8,8,16,2
+13,Bolívar,13580,Regidor,Piña,2019,2,2,20,14
+13,Bolívar,13580,Regidor,Palma de aceite,2019,5584,5584,30461,5
+13,Bolívar,13580,Regidor,Caña panelera,2019,2,2,10,5
+13,Bolívar,13580,Regidor,Plátano,2019,180,180,2160,12
+13,Bolívar,13600,Rioviejo,Maíz,2019,520,460,598,1
+13,Bolívar,13600,Rioviejo,Patilla,2019,50,40,1200,30
+13,Bolívar,13600,Rioviejo,Yuca,2019,200,170,2040,12
+13,Bolívar,13600,Rioviejo,Maíz,2019,300,260,338,1
+13,Bolívar,13600,Rioviejo,Palma de aceite,2019,6882,4300,3535,1
+13,Bolívar,13620,San Cristobal,Maíz,2019,110,90,76,1
+13,Bolívar,13620,San Cristobal,Yuca,2019,100,90,900,10
+13,Bolívar,13620,San Cristobal,Maíz,2019,100,90,76,1
+13,Bolívar,13620,San Cristobal,Fríjol,2019,40,37,52,1
+13,Bolívar,13620,San Cristobal,Melón,2019,30,30,900,30
+13,Bolívar,13620,San Cristobal,Limón,2019,5,2,60,30
+13,Bolívar,13620,San Cristobal,Mango,2019,77,57,456,8
+13,Bolívar,13620,San Cristobal,Plátano,2019,23,8,72,9
+13,Bolívar,13647,San Estanislao,Maíz,2019,800,700,1400,2
+13,Bolívar,13647,San Estanislao,Melón,2019,6,6,210,35
+13,Bolívar,13647,San Estanislao,Ahuyama,2019,10,2,12,6
+13,Bolívar,13647,San Estanislao,Fríjol,2019,15,2,2,1
+13,Bolívar,13647,San Estanislao,Ñame,2019,300,300,3000,10
+13,Bolívar,13647,San Estanislao,Yuca,2019,800,740,7400,10
+13,Bolívar,13647,San Estanislao,Maíz,2019,800,700,1190,2
+13,Bolívar,13647,San Estanislao,Melón,2019,6,6,240,40
+13,Bolívar,13647,San Estanislao,Fríjol,2019,30,28,36,1
+13,Bolívar,13647,San Estanislao,Plátano,2019,26,26,208,8
+13,Bolívar,13650,San Fernando,Maíz,2019,171,139,278,2
+13,Bolívar,13650,San Fernando,Yuca,2019,85,68,170,3
+13,Bolívar,13650,San Fernando,Maíz,2019,171,131,262,2
+13,Bolívar,13650,San Fernando,Naranja,2019,50,50,125,3
+13,Bolívar,13650,San Fernando,Mango,2019,12,12,22,2
+13,Bolívar,13650,San Fernando,Plátano,2019,57,57,114,2
+13,Bolívar,13654,San Jacinto,Arroz,2019,220,220,242,1
+13,Bolívar,13654,San Jacinto,Maíz,2019,250,250,300,1
+13,Bolívar,13654,San Jacinto,Ají,2019,140,140,560,4
+13,Bolívar,13654,San Jacinto,Fríjol,2019,40,35,42,1
+13,Bolívar,13654,San Jacinto,Tabaco,2019,60,50,100,2
+13,Bolívar,13654,San Jacinto,Ñame,2019,2700,2700,37800,14
+13,Bolívar,13654,San Jacinto,Yuca,2019,1800,1800,18000,10
+13,Bolívar,13654,San Jacinto,Ají,2019,140,130,650,5
+13,Bolívar,13654,San Jacinto,Maíz,2019,50,50,190,4
+13,Bolívar,13654,San Jacinto,Ajonjolí,2019,80,80,80,1
+13,Bolívar,13654,San Jacinto,Arroz,2019,170,170,187,1
+13,Bolívar,13654,San Jacinto,Maíz,2019,2500,2500,2500,1
+13,Bolívar,13654,San Jacinto,Fríjol,2019,150,150,150,1
+13,Bolívar,13654,San Jacinto,Ajonjolí,2019,150,150,150,1
+13,Bolívar,13654,San Jacinto,Tabaco,2019,0,0,0,0
+13,Bolívar,13654,San Jacinto,Ñame,2019,150,150,2100,14
+13,Bolívar,13654,San Jacinto,Yuca,2019,400,350,3500,10
+13,Bolívar,13654,San Jacinto,Maíz,2019,120,120,240,2
+13,Bolívar,13654,San Jacinto,Ají,2019,200,200,800,4
+13,Bolívar,13654,San Jacinto,Patilla,2019,5,5,75,15
+13,Bolívar,13654,San Jacinto,Berenjena,2019,2,2,24,12
+13,Bolívar,13654,San Jacinto,Tomate,2019,5,5,50,10
+13,Bolívar,13654,San Jacinto,Batata,2019,5,5,40,8
+13,Bolívar,13654,San Jacinto,Ahuyama,2019,10,10,70,7
+13,Bolívar,13654,San Jacinto,Achiote,2019,10,10,20,2
+13,Bolívar,13654,San Jacinto,Aguacate,2019,300,280,3920,14
+13,Bolívar,13654,San Jacinto,Cacao,2019,241,241,84,0
+13,Bolívar,13654,San Jacinto,Plátano,2019,500,400,2400,4
+13,Bolívar,13654,San Jacinto,Café,2019,49,30,30,1
+13,Bolívar,13654,San Jacinto,Caña panelera,2019,50,50,300,6
+13,Bolívar,13654,San Jacinto,Palma de aceite,2019,150,150,491,3
+13,Bolívar,13654,San Jacinto,Cítricos,2019,15,15,165,11
+13,Bolívar,13654,San Jacinto,Papaya,2019,7,7,350,50
+13,Bolívar,13654,San Jacinto,Mango,2019,25,25,100,4
+13,Bolívar,13654,San Jacinto,Mango,2019,2,2,12,6
+13,Bolívar,13655,San Jacinto del Cauca,Arroz,2019,500,500,1750,4
+13,Bolívar,13655,San Jacinto del Cauca,Arroz,2019,4500,4500,22050,5
+13,Bolívar,13655,San Jacinto del Cauca,Maíz,2019,600,600,1200,2
+13,Bolívar,13655,San Jacinto del Cauca,Yuca,2019,200,200,2000,10
+13,Bolívar,13655,San Jacinto del Cauca,Arroz,2019,400,360,1260,4
+13,Bolívar,13655,San Jacinto del Cauca,Arroz,2019,3000,2850,13965,5
+13,Bolívar,13655,San Jacinto del Cauca,Maíz,2019,0,0,0,0
+13,Bolívar,13655,San Jacinto del Cauca,Yuca,2019,100,90,900,10
+13,Bolívar,13655,San Jacinto del Cauca,Cacao,2019,10,10,8,1
+13,Bolívar,13655,San Jacinto del Cauca,Plátano,2019,60,60,360,6
+13,Bolívar,13657,San Juan Nepomuceno,Maíz,2019,900,800,1800,2
+13,Bolívar,13657,San Juan Nepomuceno,Fríjol,2019,40,40,80,2
+13,Bolívar,13657,San Juan Nepomuceno,Ñame,2019,3000,2800,42000,15
+13,Bolívar,13657,San Juan Nepomuceno,Yuca,2019,1500,1350,20250,15
+13,Bolívar,13657,San Juan Nepomuceno,Maíz,2019,200,180,630,4
+13,Bolívar,13657,San Juan Nepomuceno,Maíz,2019,1500,1450,2900,2
+13,Bolívar,13657,San Juan Nepomuceno,Fríjol,2019,60,55,110,2
+13,Bolívar,13657,San Juan Nepomuceno,Ají,2019,600,400,1400,4
+13,Bolívar,13657,San Juan Nepomuceno,Ají,2019,300,250,875,4
+13,Bolívar,13657,San Juan Nepomuceno,Naranja,2019,45,45,720,16
+13,Bolívar,13657,San Juan Nepomuceno,Plátano,2019,303,213,1704,8
+13,Bolívar,13657,San Juan Nepomuceno,Cacao,2019,99,70,20,0
+13,Bolívar,13657,San Juan Nepomuceno,Guayaba,2019,15,15,90,6
+13,Bolívar,13657,San Juan Nepomuceno,Mango,2019,30,30,420,14
+13,Bolívar,13667,San Martin de Loba,Arroz,2019,20,19,31,2
+13,Bolívar,13667,San Martin de Loba,Maíz,2019,450,440,528,1
+13,Bolívar,13667,San Martin de Loba,Yuca,2019,200,190,2090,11
+13,Bolívar,13667,San Martin de Loba,Arroz,2019,60,50,83,2
+13,Bolívar,13667,San Martin de Loba,Maíz,2019,550,530,795,2
+13,Bolívar,13667,San Martin de Loba,Yuca,2019,250,240,2640,11
+13,Bolívar,13667,San Martin de Loba,Plátano,2019,100,100,800,8
+13,Bolívar,13667,San Martin de Loba,Aguacate,2019,85,85,1020,12
+13,Bolívar,13670,San Pablo,Arroz,2019,800,800,1600,2
+13,Bolívar,13670,San Pablo,Arroz,2019,300,300,1200,4
+13,Bolívar,13670,San Pablo,Maíz,2019,850,850,1105,1
+13,Bolívar,13670,San Pablo,Patilla,2019,15,15,225,15
+13,Bolívar,13670,San Pablo,Yuca,2019,750,750,11250,15
+13,Bolívar,13670,San Pablo,Arroz,2019,650,650,1300,2
+13,Bolívar,13670,San Pablo,Arroz,2019,147,147,588,4
+13,Bolívar,13670,San Pablo,Maíz,2019,950,950,1235,1
+13,Bolívar,13670,San Pablo,Patilla,2019,10,10,150,15
+13,Bolívar,13670,San Pablo,Fríjol,2019,2,2,1,1
+13,Bolívar,13670,San Pablo,Palma de aceite,2019,8496,7926,13836,2
+13,Bolívar,13670,San Pablo,Cacao,2019,1200,800,640,1
+13,Bolívar,13670,San Pablo,Plátano,2019,950,950,19000,20
+13,Bolívar,13673,Santa Catalina,Maíz,2019,495,495,743,2
+13,Bolívar,13673,Santa Catalina,Melón,2019,18,18,468,26
+13,Bolívar,13673,Santa Catalina,Fríjol,2019,10,10,9,1
+13,Bolívar,13673,Santa Catalina,Ñame,2019,100,95,950,10
+13,Bolívar,13673,Santa Catalina,Yuca,2019,250,200,2000,10
+13,Bolívar,13673,Santa Catalina,Maíz,2019,600,550,825,2
+13,Bolívar,13673,Santa Catalina,Sorgo,2019,0,0,0,0
+13,Bolívar,13673,Santa Catalina,Melón,2019,0,0,0,0
+13,Bolívar,13673,Santa Catalina,Ahuyama,2019,20,18,216,12
+13,Bolívar,13673,Santa Catalina,Fríjol,2019,20,19,19,1
+13,Bolívar,13673,Santa Catalina,Yuca,2019,350,350,3500,10
+13,Bolívar,13673,Santa Catalina,Sorgo,2019,20,18,27,2
+13,Bolívar,13673,Santa Catalina,Aguacate,2019,7,7,46,7
+13,Bolívar,13673,Santa Catalina,Limón,2019,5,5,73,15
+13,Bolívar,13673,Santa Catalina,Coco,2019,7,7,25,4
+13,Bolívar,13673,Santa Catalina,Guanábana,2019,19,19,209,11
+13,Bolívar,13673,Santa Catalina,Mango,2019,253,253,4681,19
+13,Bolívar,13673,Santa Catalina,Palma de aceite,2019,185,185,565,3
+13,Bolívar,13673,Santa Catalina,Plátano,2019,35,35,245,7
+13,Bolívar,13683,Santa Rosa,Arroz,2019,6,4,7,2
+13,Bolívar,13683,Santa Rosa,Maíz,2019,120,95,95,1
+13,Bolívar,13683,Santa Rosa,Melón,2019,15,13,104,8
+13,Bolívar,13683,Santa Rosa,Patilla,2019,14,8,64,8
+13,Bolívar,13683,Santa Rosa,Berenjena,2019,12,7,49,7
+13,Bolívar,13683,Santa Rosa,Tomate,2019,1,1,7,7
+13,Bolívar,13683,Santa Rosa,Fríjol,2019,7,4,20,5
+13,Bolívar,13683,Santa Rosa,Yuca,2019,30,30,300,10
+13,Bolívar,13683,Santa Rosa,Maíz,2019,320,280,280,1
+13,Bolívar,13683,Santa Rosa,Melón,2019,6,3,24,8
+13,Bolívar,13683,Santa Rosa,Patilla,2019,10,4,24,6
+13,Bolívar,13683,Santa Rosa,Berenjena,2019,40,35,350,10
+13,Bolívar,13683,Santa Rosa,Tomate,2019,0,0,0,0
+13,Bolívar,13683,Santa Rosa,Fríjol,2019,18,10,56,6
+13,Bolívar,13683,Santa Rosa,Ñame,2019,30,22,176,8
+13,Bolívar,13683,Santa Rosa,Yuca,2019,298,200,1400,7
+13,Bolívar,13683,Santa Rosa,Limón,2019,32,15,270,18
+13,Bolívar,13683,Santa Rosa,Guayaba,2019,16,8,24,3
+13,Bolívar,13683,Santa Rosa,Mango,2019,100,95,1710,18
+13,Bolívar,13683,Santa Rosa,Plátano,2019,58,35,210,6
+13,Bolívar,13688,Santa Rosa del Sur,Maíz,2019,1000,990,1485,2
+13,Bolívar,13688,Santa Rosa del Sur,Fríjol,2019,435,435,348,1
+13,Bolívar,13688,Santa Rosa del Sur,Yuca,2019,1000,1000,15000,15
+13,Bolívar,13688,Santa Rosa del Sur,Maíz,2019,800,800,1200,2
+13,Bolívar,13688,Santa Rosa del Sur,Fríjol,2019,450,450,405,1
+13,Bolívar,13688,Santa Rosa del Sur,Yuca,2019,110,110,1650,15
+13,Bolívar,13688,Santa Rosa del Sur,Aguacate,2019,123,123,554,5
+13,Bolívar,13688,Santa Rosa del Sur,Pitahaya,2019,15,15,75,5
+13,Bolívar,13688,Santa Rosa del Sur,Cacao,2019,3000,1300,650,1
+13,Bolívar,13688,Santa Rosa del Sur,Café,2019,1305,1230,984,1
+13,Bolívar,13688,Santa Rosa del Sur,Caña panelera,2019,630,585,5265,9
+13,Bolívar,13688,Santa Rosa del Sur,Plátano,2019,1000,810,12150,15
+13,Bolívar,13744,Simití,Arroz,2019,250,235,588,3
+13,Bolívar,13744,Simití,Maíz,2019,200,150,450,3
+13,Bolívar,13744,Simití,Fríjol,2019,30,30,45,2
+13,Bolívar,13744,Simití,Yuca,2019,60,55,479,9
+13,Bolívar,13744,Simití,Arroz,2019,180,170,459,3
+13,Bolívar,13744,Simití,Maíz,2019,150,130,390,3
+13,Bolívar,13744,Simití,Yuca,2019,40,38,331,9
+13,Bolívar,13744,Simití,Fríjol,2019,24,20,30,2
+13,Bolívar,13744,Simití,Palma de aceite,2019,6280,5680,21069,4
+13,Bolívar,13744,Simití,Cacao,2019,1039,752,451,1
+13,Bolívar,13744,Simití,Plátano,2019,150,90,450,5
+13,Bolívar,13744,Simití,Aguacate,2019,20,13,52,4
+13,Bolívar,13760,Soplaviento,Maíz,2019,52,50,150,3
+13,Bolívar,13760,Soplaviento,Fríjol,2019,3,3,8,3
+13,Bolívar,13760,Soplaviento,Yuca,2019,52,44,220,5
+13,Bolívar,13760,Soplaviento,Fríjol,2019,3,3,8,3
+13,Bolívar,13760,Soplaviento,Maíz,2019,50,35,105,3
+13,Bolívar,13760,Soplaviento,Yuca,2019,50,35,175,5
+13,Bolívar,13760,Soplaviento,Melón,2019,3,3,51,17
+13,Bolívar,13760,Soplaviento,Guayaba,2019,1,1,3,6
+13,Bolívar,13760,Soplaviento,Mango,2019,31,21,105,5
+13,Bolívar,13760,Soplaviento,Plátano,2019,1,1,3,5
+13,Bolívar,13780,Talaigua Nuevo,Maíz,2019,600,500,850,2
+13,Bolívar,13780,Talaigua Nuevo,Patilla,2019,15,15,135,9
+13,Bolívar,13780,Talaigua Nuevo,Hortalizas varias,2019,50,50,150,3
+13,Bolívar,13780,Talaigua Nuevo,Tabaco,2019,50,45,54,1
+13,Bolívar,13780,Talaigua Nuevo,Yuca,2019,350,320,2400,8
+13,Bolívar,13780,Talaigua Nuevo,Maíz,2019,400,400,680,2
+13,Bolívar,13780,Talaigua Nuevo,Patilla,2019,25,25,225,9
+13,Bolívar,13780,Talaigua Nuevo,Hortalizas varias,2019,12,12,12,1
+13,Bolívar,13780,Talaigua Nuevo,Tabaco,2019,0,0,0,0
+13,Bolívar,13780,Talaigua Nuevo,Naranja,2019,33,33,297,9
+13,Bolívar,13780,Talaigua Nuevo,Mango,2019,28,25,375,15
+13,Bolívar,13780,Talaigua Nuevo,Coco,2019,26,26,78,3
+13,Bolívar,13780,Talaigua Nuevo,Plátano,2019,155,120,720,6
+13,Bolívar,13810,Tiquisio (Puerto Rico,Arroz,2019,355,350,700,2
+13,Bolívar,13810,Tiquisio (Puerto Rico,Arroz,2019,40,40,200,5
+13,Bolívar,13810,Tiquisio (Puerto Rico,Maíz,2019,455,455,1820,4
+13,Bolívar,13810,Tiquisio (Puerto Rico,Ñame,2019,120,120,1320,11
+13,Bolívar,13810,Tiquisio (Puerto Rico,Yuca,2019,350,350,4200,12
+13,Bolívar,13810,Tiquisio (Puerto Rico,Arroz,2019,350,350,700,2
+13,Bolívar,13810,Tiquisio (Puerto Rico,Arroz,2019,25,25,125,5
+13,Bolívar,13810,Tiquisio (Puerto Rico,Maíz,2019,300,300,1200,4
+13,Bolívar,13810,Tiquisio (Puerto Rico,Cacao,2019,39,39,20,1
+13,Bolívar,13810,Tiquisio (Puerto Rico,Caña panelera,2019,50,40,24,1
+13,Bolívar,13810,Tiquisio (Puerto Rico,Plátano,2019,157,147,1176,8
+13,Bolívar,13836,Turbaco,Maíz,2019,450,385,323,1
+13,Bolívar,13836,Turbaco,Yuca,2019,240,200,1400,7
+13,Bolívar,13836,Turbaco,Maíz,2019,600,560,470,1
+13,Bolívar,13836,Turbaco,Yuca,2019,350,350,2450,7
+13,Bolívar,13836,Turbaco,Limón,2019,4,4,8,2
+13,Bolívar,13836,Turbaco,Naranja,2019,10,8,24,3
+13,Bolívar,13836,Turbaco,Pomelo,2019,1,1,10,10
+13,Bolívar,13836,Turbaco,Guanábana,2019,8,8,12,2
+13,Bolívar,13836,Turbaco,Mango,2019,10,10,40,4
+13,Bolívar,13836,Turbaco,Piña,2019,5,4,28,7
+13,Bolívar,13836,Turbaco,Caña panelera,2019,30,30,300,10
+13,Bolívar,13836,Turbaco,Plátano,2019,5,5,5,1
+13,Bolívar,13838,Turbana,Maíz,2019,221,188,79,0
+13,Bolívar,13838,Turbana,Yuca,2019,330,314,2512,8
+13,Bolívar,13838,Turbana,Maíz,2019,300,290,146,1
+13,Bolívar,13838,Turbana,Yuca,2019,150,135,1080,8
+13,Bolívar,13838,Turbana,Níspero,2019,13,13,65,5
+13,Bolívar,13838,Turbana,Limón,2019,69,69,621,9
+13,Bolívar,13838,Turbana,Mango,2019,181,181,1086,6
+13,Bolívar,13873,Villanueva,Maíz,2019,2250,1675,1686,1
+13,Bolívar,13873,Villanueva,Ñame,2019,500,375,5625,15
+13,Bolívar,13873,Villanueva,Ñame,2019,300,250,3750,15
+13,Bolívar,13873,Villanueva,Yuca,2019,2240,1992,51968,26
+13,Bolívar,13873,Villanueva,Maíz,2019,3116,2828,2863,1
+13,Bolívar,13873,Villanueva,Fríjol,2019,0,0,0,0
+13,Bolívar,13873,Villanueva,Ñame,2019,500,425,7225,17
+13,Bolívar,13873,Villanueva,Ñame,2019,350,295,6490,22
+13,Bolívar,13873,Villanueva,Yuca,2019,750,600,17400,29
+13,Bolívar,13873,Villanueva,Guayaba,2019,5,4,200,50
+13,Bolívar,13873,Villanueva,Mango,2019,383,379,7580,20
+13,Bolívar,13873,Villanueva,Piña,2019,6,4,240,60
+13,Bolívar,13873,Villanueva,Caña panelera,2019,25,25,11,0
+13,Bolívar,13873,Villanueva,Plátano,2019,95,93,1860,20
+13,Bolívar,13894,Zambrano,Maíz,2019,555,520,624,1
+13,Bolívar,13894,Zambrano,Fríjol,2019,155,150,135,1
+13,Bolívar,13894,Zambrano,Yuca,2019,200,200,2000,10
+13,Bolívar,13894,Zambrano,Maíz,2019,540,485,582,1
+13,Bolívar,13894,Zambrano,Fríjol,2019,200,195,195,1
+13,Bolívar,13894,Zambrano,Yuca,2019,810,800,8000,10
+13,Bolívar,13894,Zambrano,Palma de aceite,2019,1430,0,0,0
+13,Bolívar,13006,Achí,Arroz,2020,620,620,3069,5
+13,Bolívar,13006,Achí,Arroz,2020,680,680,2040,3
+13,Bolívar,13006,Achí,Arroz,2020,7620,7620,28956,4
+13,Bolívar,13006,Achí,Maíz,2020,4020,4020,10050,3
+13,Bolívar,13006,Achí,Patilla,2020,60,60,1200,20
+13,Bolívar,13006,Achí,Ahuyama,2020,80,80,400,5
+13,Bolívar,13006,Achí,Yuca,2020,330,330,3960,12
+13,Bolívar,13006,Achí,Arroz,2020,620,620,3410,6
+13,Bolívar,13006,Achí,Arroz,2020,630,630,2268,4
+13,Bolívar,13006,Achí,Arroz,2020,6970,6970,30668,4
+13,Bolívar,13006,Achí,Maíz,2020,60,60,180,3
+13,Bolívar,13006,Achí,Patilla,2020,0,0,0,0
+13,Bolívar,13006,Achí,Yuca,2020,100,100,1000,10
+13,Bolívar,13006,Achí,Ahuyama,2020,0,0,0,0
+13,Bolívar,13006,Achí,Aguacate,2020,80,80,400,5
+13,Bolívar,13006,Achí,Cacao,2020,150,150,90,1
+13,Bolívar,13006,Achí,Caña panelera,2020,40,30,120,4
+13,Bolívar,13006,Achí,Mango,2020,30,30,360,12
+13,Bolívar,13006,Achí,Plátano,2020,386,386,1928,5
+13,Bolívar,13006,Achí,Zapote,2020,50,50,600,12
+13,Bolívar,13030,Altos del Rosario,Arroz,2020,570,570,1254,2
+13,Bolívar,13030,Altos del Rosario,Maíz,2020,680,680,1360,2
+13,Bolívar,13030,Altos del Rosario,Yuca,2020,70,70,770,11
+13,Bolívar,13030,Altos del Rosario,Maíz,2020,560,560,1120,2
+13,Bolívar,13030,Altos del Rosario,Arroz,2020,600,600,1320,2
+13,Bolívar,13030,Altos del Rosario,Yuca,2020,30,30,330,11
+13,Bolívar,13030,Altos del Rosario,Cacao,2020,20,20,12,1
+13,Bolívar,13030,Altos del Rosario,Plátano,2020,40,40,240,6
+13,Bolívar,13042,Arenal,Arroz,2020,40,30,50,2
+13,Bolívar,13042,Arenal,Maíz,2020,750,700,1400,2
+13,Bolívar,13042,Arenal,Yuca,2020,200,180,1980,11
+13,Bolívar,13042,Arenal,Arroz,2020,50,40,57,1
+13,Bolívar,13042,Arenal,Maíz,2020,720,700,1400,2
+13,Bolívar,13042,Arenal,Cacao,2020,227,187,65,0
+13,Bolívar,13042,Arenal,Palma de aceite,2020,70,70,157,2
+13,Bolívar,13042,Arenal,Plátano,2020,251,251,2008,8
+13,Bolívar,13052,Arjona,Arroz,2020,300,280,1170,4
+13,Bolívar,13052,Arjona,Maíz,2020,920,910,1092,1
+13,Bolívar,13052,Arjona,Yuca,2020,180,170,1666,10
+13,Bolívar,13052,Arjona,Arroz,2020,245,240,1003,4
+13,Bolívar,13052,Arjona,Maíz,2020,2330,1398,1678,1
+13,Bolívar,13052,Arjona,Yuca,2020,300,150,1470,10
+13,Bolívar,13052,Arjona,Mango,2020,30,30,300,10
+13,Bolívar,13052,Arjona,Naranja,2020,5,5,75,15
+13,Bolívar,13052,Arjona,Palma de aceite,2020,500,420,1344,3
+13,Bolívar,13052,Arjona,Piña,2020,2,0,0,0
+13,Bolívar,13052,Arjona,Plátano,2020,144,144,1728,12
+13,Bolívar,13062,Arroyohondo,Maíz,2020,619,608,2432,4
+13,Bolívar,13062,Arroyohondo,Ñame,2020,75,70,350,5
+13,Bolívar,13062,Arroyohondo,Yuca,2020,420,410,2460,6
+13,Bolívar,13062,Arroyohondo,Maíz,2020,625,620,2480,4
+13,Bolívar,13074,Barranco de Loba,Maíz,2020,450,450,900,2
+13,Bolívar,13074,Barranco de Loba,Yuca,2020,350,350,3150,9
+13,Bolívar,13074,Barranco de Loba,Arroz,2020,50,50,165,3
+13,Bolívar,13074,Barranco de Loba,Ahuyama,2020,13,13,65,5
+13,Bolívar,13074,Barranco de Loba,Fríjol,2020,10,10,20,2
+13,Bolívar,13074,Barranco de Loba,Patilla,2020,10,10,250,25
+13,Bolívar,13074,Barranco de Loba,Melón,2020,10,10,250,25
+13,Bolívar,13074,Barranco de Loba,Arroz,2020,300,300,1881,6
+13,Bolívar,13074,Barranco de Loba,Maíz,2020,450,250,500,2
+13,Bolívar,13074,Barranco de Loba,Arroz,2020,60,30,88,3
+13,Bolívar,13074,Barranco de Loba,Patilla,2020,10,5,120,24
+13,Bolívar,13074,Barranco de Loba,Melón,2020,10,5,120,24
+13,Bolívar,13074,Barranco de Loba,Arroz,2020,500,300,1100,4
+13,Bolívar,13074,Barranco de Loba,Aguacate,2020,30,30,180,6
+13,Bolívar,13074,Barranco de Loba,Cacao,2020,46,46,23,1
+13,Bolívar,13074,Barranco de Loba,Mango,2020,30,30,168,6
+13,Bolívar,13074,Barranco de Loba,Plátano,2020,30,30,150,5
+13,Bolívar,13140,Calamar,Maíz,2020,850,845,1025,1
+13,Bolívar,13140,Calamar,Ají,2020,15,15,62,4
+13,Bolívar,13140,Calamar,Ñame,2020,20,19,152,8
+13,Bolívar,13140,Calamar,Yuca,2020,300,300,6000,20
+13,Bolívar,13140,Calamar,Ahuyama,2020,500,480,4800,10
+13,Bolívar,13140,Calamar,Maíz,2020,850,847,288,0
+13,Bolívar,13140,Calamar,Ahuyama,2020,500,491,5800,12
+13,Bolívar,13140,Calamar,Ñame,2020,19,18,144,8
+13,Bolívar,13140,Calamar,Yuca,2020,300,280,5600,20
+13,Bolívar,13140,Calamar,Ají,2020,15,14,62,4
+13,Bolívar,13140,Calamar,Mango,2020,31,31,463,15
+13,Bolívar,13160,Cantagallo,Maíz,2020,561,561,1122,2
+13,Bolívar,13160,Cantagallo,Yuca,2020,605,605,4840,8
+13,Bolívar,13160,Cantagallo,Maíz,2020,585,585,1170,2
+13,Bolívar,13160,Cantagallo,Yuca,2020,642,642,5136,8
+13,Bolívar,13160,Cantagallo,Arroz,2020,52,52,72,1
+13,Bolívar,13160,Cantagallo,Arroz,2020,70,70,327,5
+13,Bolívar,13160,Cantagallo,Cacao,2020,95,80,40,1
+13,Bolívar,13160,Cantagallo,Palma de aceite,2020,496,289,808,3
+13,Bolívar,13160,Cantagallo,Plátano,2020,125,125,750,6
+13,Bolívar,13001,Cartagena de Indias,Arroz,2020,95,90,297,3
+13,Bolívar,13001,Cartagena de Indias,Maíz,2020,80,75,75,1
+13,Bolívar,13001,Cartagena de Indias,Melón,2020,90,85,850,10
+13,Bolívar,13001,Cartagena de Indias,Patilla,2020,15,12,120,10
+13,Bolívar,13001,Cartagena de Indias,Ají,2020,5,4,80,20
+13,Bolívar,13001,Cartagena de Indias,Berenjena,2020,5,4,40,10
+13,Bolívar,13001,Cartagena de Indias,Cilantro,2020,2,2,20,10
+13,Bolívar,13001,Cartagena de Indias,Pepino cohombro,2020,2,2,50,25
+13,Bolívar,13001,Cartagena de Indias,Fríjol,2020,15,14,14,1
+13,Bolívar,13001,Cartagena de Indias,Ñame,2020,35,30,600,20
+13,Bolívar,13001,Cartagena de Indias,Arroz,2020,15,10,33,3
+13,Bolívar,13001,Cartagena de Indias,Maíz,2020,40,35,35,1
+13,Bolívar,13001,Cartagena de Indias,Sorgo,2020,15,14,14,1
+13,Bolívar,13001,Cartagena de Indias,Melón,2020,40,30,600,20
+13,Bolívar,13001,Cartagena de Indias,Patilla,2020,20,15,300,20
+13,Bolívar,13001,Cartagena de Indias,Berenjena,2020,2,2,40,20
+13,Bolívar,13001,Cartagena de Indias,Pepino cohombro,2020,1,1,20,20
+13,Bolívar,13001,Cartagena de Indias,Pimentón,2020,2,2,40,20
+13,Bolívar,13001,Cartagena de Indias,Ñame,2020,30,25,350,14
+13,Bolívar,13001,Cartagena de Indias,Yuca,2020,600,500,5000,10
+13,Bolívar,13001,Cartagena de Indias,Ciruela,2020,30,30,2250,75
+13,Bolívar,13001,Cartagena de Indias,Coco,2020,175,170,1700,10
+13,Bolívar,13001,Cartagena de Indias,Guanábana,2020,12,10,120,12
+13,Bolívar,13001,Cartagena de Indias,Mango,2020,23,20,230,12
+13,Bolívar,13001,Cartagena de Indias,Plátano,2020,45,40,400,10
+13,Bolívar,13188,Cicuco,Maíz,2020,35,34,44,1
+13,Bolívar,13188,Cicuco,Yuca,2020,77,75,450,6
+13,Bolívar,13188,Cicuco,Maíz,2020,41,40,50,1
+13,Bolívar,13188,Cicuco,Patilla,2020,20,19,114,6
+13,Bolívar,13188,Cicuco,Ahuyama,2020,8,7,18,3
+13,Bolívar,13188,Cicuco,Fríjol,2020,3,3,2,1
+13,Bolívar,13188,Cicuco,Ají,2020,2,2,2,1
+13,Bolívar,13188,Cicuco,Hortalizas varias,2020,1,1,2,2
+13,Bolívar,13188,Cicuco,Batata,2020,1,1,2,2
+13,Bolívar,13188,Cicuco,Ajonjolí,2020,2,2,1,1
+13,Bolívar,13188,Cicuco,Mango,2020,9,9,135,15
+13,Bolívar,13188,Cicuco,Plátano,2020,38,38,247,7
+13,Bolívar,13213,Clemencia,Maíz,2020,800,700,910,1
+13,Bolívar,13213,Clemencia,Ñame,2020,90,90,720,8
+13,Bolívar,13213,Clemencia,Yuca,2020,1200,300,2400,8
+13,Bolívar,13213,Clemencia,Sorgo,2020,400,400,600,2
+13,Bolívar,13213,Clemencia,Maíz,2020,450,350,455,1
+13,Bolívar,13213,Clemencia,Fríjol,2020,20,20,20,1
+13,Bolívar,13213,Clemencia,Ñame,2020,0,0,0,0
+13,Bolívar,13213,Clemencia,Yuca,2020,100,100,800,8
+13,Bolívar,13213,Clemencia,Arroz,2020,30,30,66,2
+13,Bolívar,13213,Clemencia,Limón,2020,22,20,240,12
+13,Bolívar,13213,Clemencia,Mango,2020,435,282,3666,13
+13,Bolívar,13213,Clemencia,Plátano,2020,460,410,3280,8
+13,Bolívar,13204,Córdoba,Arroz,2020,500,500,3850,8
+13,Bolívar,13204,Córdoba,Ajonjolí,2020,800,750,450,1
+13,Bolívar,13204,Córdoba,Yuca,2020,500,450,4500,10
+13,Bolívar,13204,Córdoba,Fríjol,2020,25,25,30,1
+13,Bolívar,13204,Córdoba,Ahuyama,2020,20,20,130,7
+13,Bolívar,13204,Córdoba,Maíz,2020,70,70,70,1
+13,Bolívar,13204,Córdoba,Maíz,2020,90,75,98,1
+13,Bolívar,13204,Córdoba,Fríjol,2020,10,10,12,1
+13,Bolívar,13204,Córdoba,Ajonjolí,2020,1900,700,420,1
+13,Bolívar,13204,Córdoba,Melón,2020,4,4,120,30
+13,Bolívar,13204,Córdoba,Arroz,2020,230,220,1573,7
+13,Bolívar,13204,Córdoba,Melón,2020,4,4,120,30
+13,Bolívar,13204,Córdoba,Plátano,2020,90,90,900,10
+13,Bolívar,13244,El Carmen de Bolívar,Ñame,2020,2000,2000,24000,12
+13,Bolívar,13244,El Carmen de Bolívar,Ñame,2020,900,900,9000,10
+13,Bolívar,13244,El Carmen de Bolívar,Yuca,2020,2500,2500,25000,10
+13,Bolívar,13244,El Carmen de Bolívar,Ají,2020,60,50,250,5
+13,Bolívar,13244,El Carmen de Bolívar,Fríjol,2020,130,130,130,1
+13,Bolívar,13244,El Carmen de Bolívar,Tabaco,2020,200,200,240,1
+13,Bolívar,13244,El Carmen de Bolívar,Arroz,2020,450,450,693,2
+13,Bolívar,13244,El Carmen de Bolívar,Maíz,2020,840,840,924,1
+13,Bolívar,13244,El Carmen de Bolívar,Ajonjolí,2020,100,100,80,1
+13,Bolívar,13244,El Carmen de Bolívar,Yuca,2020,2000,2000,20000,10
+13,Bolívar,13244,El Carmen de Bolívar,Maíz,2020,650,650,650,1
+13,Bolívar,13244,El Carmen de Bolívar,Aguacate,2020,1590,1490,20860,14
+13,Bolívar,13244,El Carmen de Bolívar,Cacao,2020,344,244,122,1
+13,Bolívar,13244,El Carmen de Bolívar,Palma de aceite,2020,25,0,0,0
+13,Bolívar,13244,El Carmen de Bolívar,Papaya,2020,150,150,4050,27
+13,Bolívar,13244,El Carmen de Bolívar,Plátano,2020,1000,1000,8000,8
+13,Bolívar,13248,El Guamo,Maíz,2020,1500,1500,2250,2
+13,Bolívar,13248,El Guamo,Melón,2020,3,3,24,8
+13,Bolívar,13248,El Guamo,Ahuyama,2020,10,10,120,12
+13,Bolívar,13248,El Guamo,Fríjol,2020,4,4,4,1
+13,Bolívar,13248,El Guamo,Ñame,2020,15,15,45,3
+13,Bolívar,13248,El Guamo,Yuca,2020,700,700,5600,8
+13,Bolívar,13248,El Guamo,Maíz,2020,1400,1400,2100,2
+13,Bolívar,13248,El Guamo,Ñame,2020,5,5,15,3
+13,Bolívar,13248,El Guamo,Yuca,2020,800,800,6400,8
+13,Bolívar,13248,El Guamo,Coco,2020,5,5,40,8
+13,Bolívar,13248,El Guamo,Limón,2020,1,1,12,12
+13,Bolívar,13248,El Guamo,Mango,2020,16,16,160,10
+13,Bolívar,13248,El Guamo,Naranja,2020,2,2,30,15
+13,Bolívar,13248,El Guamo,Plátano,2020,18,18,108,6
+13,Bolívar,13268,El Peñón,Maíz,2020,30,30,45,2
+13,Bolívar,13268,El Peñón,Ahuyama,2020,15,15,180,12
+13,Bolívar,13268,El Peñón,Fríjol,2020,11,11,9,1
+13,Bolívar,13268,El Peñón,Yuca,2020,220,220,2200,10
+13,Bolívar,13268,El Peñón,Maíz,2020,15,15,23,2
+13,Bolívar,13268,El Peñón,Ahuyama,2020,10,10,120,12
+13,Bolívar,13268,El Peñón,Fríjol,2020,8,8,7,1
+13,Bolívar,13268,El Peñón,Patilla,2020,5,5,150,30
+13,Bolívar,13268,El Peñón,Arroz,2020,20,20,77,4
+13,Bolívar,13268,El Peñón,Arroz,2020,20,20,77,4
+13,Bolívar,13268,El Peñón,Yuca,2020,110,110,1100,10
+13,Bolívar,13268,El Peñón,Aguacate,2020,9,9,107,12
+13,Bolívar,13268,El Peñón,Mango,2020,42,42,546,13
+13,Bolívar,13268,El Peñón,Palma de aceite,2020,2100,2100,4977,2
+13,Bolívar,13268,El Peñón,Piña,2020,278,278,3336,12
+13,Bolívar,13268,El Peñón,Plátano,2020,158,158,632,4
+13,Bolívar,13300,Hatillo de Loba,Maíz,2020,420,270,405,2
+13,Bolívar,13300,Hatillo de Loba,Ahuyama,2020,75,60,492,8
+13,Bolívar,13300,Hatillo de Loba,Yuca,2020,430,416,7405,18
+13,Bolívar,13300,Hatillo de Loba,Maíz,2020,460,460,552,1
+13,Bolívar,13300,Hatillo de Loba,Ahuyama,2020,75,75,600,8
+13,Bolívar,13300,Hatillo de Loba,Yuca,2020,0,0,0,0
+13,Bolívar,13300,Hatillo de Loba,Plátano,2020,92,92,460,5
+13,Bolívar,13417,Magangué,Arroz,2020,700,650,1625,3
+13,Bolívar,13417,Magangué,Maíz,2020,1800,1750,2625,2
+13,Bolívar,13417,Magangué,Arroz,2020,700,700,3150,5
+13,Bolívar,13417,Magangué,Patilla,2020,200,200,3600,18
+13,Bolívar,13417,Magangué,Ahuyama,2020,700,680,12240,18
+13,Bolívar,13417,Magangué,Fríjol,2020,150,150,150,1
+13,Bolívar,13417,Magangué,Yuca,2020,600,580,5800,10
+13,Bolívar,13417,Magangué,Arroz,2020,300,50,125,3
+13,Bolívar,13417,Magangué,Arroz,2020,350,350,1575,5
+13,Bolívar,13417,Magangué,Maíz,2020,1500,1150,1725,2
+13,Bolívar,13417,Magangué,Yuca,2020,600,280,2800,10
+13,Bolívar,13417,Magangué,Fríjol,2020,150,94,94,1
+13,Bolívar,13417,Magangué,Mango,2020,126,126,1890,15
+13,Bolívar,13417,Magangué,Plátano,2020,30,30,210,7
+13,Bolívar,13433,Mahates,Arroz,2020,15,15,116,8
+13,Bolívar,13433,Mahates,Maíz,2020,1540,1540,2310,2
+13,Bolívar,13433,Mahates,Melón,2020,100,100,650,7
+13,Bolívar,13433,Mahates,Ají,2020,70,70,364,5
+13,Bolívar,13433,Mahates,Ñame,2020,350,250,3000,12
+13,Bolívar,13433,Mahates,Yuca,2020,2240,1940,19400,10
+13,Bolívar,13433,Mahates,Arroz,2020,0,0,0,0
+13,Bolívar,13433,Mahates,Maíz,2020,1800,1800,2790,2
+13,Bolívar,13433,Mahates,Melón,2020,100,100,650,7
+13,Bolívar,13433,Mahates,Ají,2020,50,50,265,5
+13,Bolívar,13433,Mahates,Yuca,2020,885,885,8850,10
+13,Bolívar,13433,Mahates,Caña panelera,2020,300,300,300,1
+13,Bolívar,13433,Mahates,Cítricos,2020,200,200,3000,15
+13,Bolívar,13433,Mahates,Coco,2020,40,40,320,8
+13,Bolívar,13433,Mahates,Mango,2020,350,250,3500,14
+13,Bolívar,13433,Mahates,Palma de aceite,2020,2000,1500,5237,3
+13,Bolívar,13433,Mahates,Plátano,2020,500,500,6000,12
+13,Bolívar,13440,Margarita,Maíz,2020,270,270,954,4
+13,Bolívar,13440,Margarita,Yuca,2020,255,155,3750,24
+13,Bolívar,13440,Margarita,Maíz,2020,270,270,918,3
+13,Bolívar,13440,Margarita,Caña panelera,2020,38,38,72,2
+13,Bolívar,13440,Margarita,Naranja,2020,96,96,1728,18
+13,Bolívar,13440,Margarita,Plátano,2020,120,120,960,8
+13,Bolívar,13442,María la Baja,Arroz,2020,310,310,2046,7
+13,Bolívar,13442,María la Baja,Maíz,2020,3500,3500,14000,4
+13,Bolívar,13442,María la Baja,Maíz,2020,900,900,1800,2
+13,Bolívar,13442,María la Baja,Ají,2020,15,15,180,12
+13,Bolívar,13442,María la Baja,Ñame,2020,600,600,5400,9
+13,Bolívar,13442,María la Baja,Yuca,2020,800,800,6400,8
+13,Bolívar,13442,María la Baja,Arroz,2020,800,800,3520,4
+13,Bolívar,13442,María la Baja,Maíz,2020,3500,3500,14000,4
+13,Bolívar,13442,María la Baja,Maíz,2020,1200,1200,2400,2
+13,Bolívar,13442,María la Baja,Ñame,2020,400,400,3600,9
+13,Bolívar,13442,María la Baja,Yuca,2020,400,400,3200,8
+13,Bolívar,13442,María la Baja,Fríjol,2020,20,20,40,2
+13,Bolívar,13442,María la Baja,Arroz,2020,500,500,1100,2
+13,Bolívar,13442,María la Baja,Cacao,2020,73,73,37,1
+13,Bolívar,13442,María la Baja,Palma de aceite,2020,6040,6040,26359,4
+13,Bolívar,13442,María la Baja,Plátano,2020,600,600,4800,8
+13,Bolívar,13468,Mompós,Maíz,2020,1000,900,2500,3
+13,Bolívar,13468,Mompós,Ahuyama,2020,700,650,3000,5
+13,Bolívar,13468,Mompós,Yuca,2020,500,450,3000,7
+13,Bolívar,13468,Mompós,Patilla,2020,60,55,240,4
+13,Bolívar,13468,Mompós,Maíz,2020,440,150,140,1
+13,Bolívar,13468,Mompós,Ahuyama,2020,220,50,200,4
+13,Bolívar,13468,Mompós,Yuca,2020,300,300,3000,10
+13,Bolívar,13468,Mompós,Coco,2020,10,10,20,2
+13,Bolívar,13468,Mompós,Mango,2020,55,30,120,4
+13,Bolívar,13468,Mompós,Plátano,2020,380,15,84,6
+13,Bolívar,13468,Mompós,Naranja,2020,20,20,160,8
+13,Bolívar,13468,Mompós,Limón,2020,10,10,70,7
+13,Bolívar,13458,Montecristo,Arroz,2020,1200,1100,5362,5
+13,Bolívar,13458,Montecristo,Arroz,2020,950,800,5400,7
+13,Bolívar,13458,Montecristo,Maíz,2020,1550,1420,3550,3
+13,Bolívar,13458,Montecristo,Patilla,2020,150,135,8100,60
+13,Bolívar,13458,Montecristo,Ají,2020,50,45,450,10
+13,Bolívar,13458,Montecristo,Fríjol,2020,45,40,280,7
+13,Bolívar,13458,Montecristo,Yuca,2020,410,405,6075,15
+13,Bolívar,13458,Montecristo,Arroz,2020,1300,1150,5606,5
+13,Bolívar,13458,Montecristo,Arroz,2020,950,650,4387,7
+13,Bolívar,13458,Montecristo,Maíz,2020,400,320,800,3
+13,Bolívar,13458,Montecristo,Patilla,2020,20,15,900,60
+13,Bolívar,13458,Montecristo,Ají,2020,45,40,400,10
+13,Bolívar,13458,Montecristo,Fríjol,2020,41,41,287,7
+13,Bolívar,13458,Montecristo,Yuca,2020,170,140,2100,15
+13,Bolívar,13458,Montecristo,Cacao,2020,33,15,11,1
+13,Bolívar,13458,Montecristo,Plátano,2020,175,120,900,8
+13,Bolívar,13458,Montecristo,Sacha inchi,2020,9,8,16,2
+13,Bolívar,13473,Morales,Arroz,2020,90,79,332,4
+13,Bolívar,13473,Morales,Maíz,2020,980,550,675,1
+13,Bolívar,13473,Morales,Fríjol,2020,320,112,101,1
+13,Bolívar,13473,Morales,Yuca,2020,240,88,1223,14
+13,Bolívar,13473,Morales,Algodón,2020,30,11,32,3
+13,Bolívar,13473,Morales,Ahuyama,2020,220,130,988,8
+13,Bolívar,13473,Morales,Arroz,2020,85,55,215,4
+13,Bolívar,13473,Morales,Maíz,2020,740,260,380,1
+13,Bolívar,13473,Morales,Algodón,2020,25,25,68,3
+13,Bolívar,13473,Morales,Fríjol,2020,420,126,122,1
+13,Bolívar,13473,Morales,Ahuyama,2020,190,140,1134,8
+13,Bolívar,13473,Morales,Yuca,2020,890,205,2395,12
+13,Bolívar,13473,Morales,Cacao,2020,137,77,62,1
+13,Bolívar,13473,Morales,Café,2020,101,81,65,1
+13,Bolívar,13473,Morales,Caña panelera,2020,8,8,48,6
+13,Bolívar,13473,Morales,Palma de aceite,2020,1300,1300,4364,3
+13,Bolívar,13473,Morales,Plátano,2020,200,200,1200,6
+13,Bolívar,13490,Norosi,Arroz,2020,150,130,390,3
+13,Bolívar,13490,Norosi,Maíz,2020,400,350,560,2
+13,Bolívar,13490,Norosi,Yuca,2020,100,95,760,8
+13,Bolívar,13490,Norosi,Arroz,2020,0,0,0,0
+13,Bolívar,13490,Norosi,Maíz,2020,350,340,544,2
+13,Bolívar,13490,Norosi,Yuca,2020,120,100,800,8
+13,Bolívar,13490,Norosi,Cacao,2020,52,52,26,1
+13,Bolívar,13490,Norosi,Palma de aceite,2020,320,320,800,3
+13,Bolívar,13490,Norosi,Plátano,2020,50,50,200,4
+13,Bolívar,13549,Pinillos,Arroz,2020,450,390,780,2
+13,Bolívar,13549,Pinillos,Arroz,2020,260,255,982,4
+13,Bolívar,13549,Pinillos,Maíz,2020,1650,1650,3300,2
+13,Bolívar,13549,Pinillos,Ahuyama,2020,180,180,2880,16
+13,Bolívar,13549,Pinillos,Yuca,2020,307,287,3444,12
+13,Bolívar,13549,Pinillos,Arroz,2020,250,170,340,2
+13,Bolívar,13549,Pinillos,Arroz,2020,260,174,670,4
+13,Bolívar,13549,Pinillos,Maíz,2020,700,298,566,2
+13,Bolívar,13549,Pinillos,Ahuyama,2020,205,203,2944,15
+13,Bolívar,13549,Pinillos,Yuca,2020,358,350,4200,12
+13,Bolívar,13549,Pinillos,Ajonjolí,2020,4,0,0,0
+13,Bolívar,13549,Pinillos,Cacao,2020,500,487,292,1
+13,Bolívar,13549,Pinillos,Coco,2020,4,4,0,0
+13,Bolívar,13549,Pinillos,Mango,2020,23,20,400,20
+13,Bolívar,13549,Pinillos,Plátano,2020,585,570,3420,6
+13,Bolívar,13580,Regidor,Maíz,2020,990,990,1980,2
+13,Bolívar,13580,Regidor,Yuca,2020,400,395,2765,7
+13,Bolívar,13580,Regidor,Fríjol,2020,8,8,16,2
+13,Bolívar,13580,Regidor,Patilla,2020,120,100,1800,18
+13,Bolívar,13580,Regidor,Arroz,2020,270,270,1515,6
+13,Bolívar,13580,Regidor,Maíz,2020,990,660,1320,2
+13,Bolívar,13580,Regidor,Yuca,2020,200,200,1400,7
+13,Bolívar,13580,Regidor,Ahuyama,2020,70,40,480,12
+13,Bolívar,13580,Regidor,Patilla,2020,80,50,900,18
+13,Bolívar,13580,Regidor,Fríjol,2020,30,29,29,1
+13,Bolívar,13580,Regidor,Melón,2020,20,10,80,8
+13,Bolívar,13580,Regidor,Ahuyama,2020,70,70,840,12
+13,Bolívar,13580,Regidor,Caña panelera,2020,2,2,10,5
+13,Bolívar,13580,Regidor,Palma de aceite,2020,5584,5584,24369,4
+13,Bolívar,13580,Regidor,Piña,2020,2,2,20,14
+13,Bolívar,13580,Regidor,Plátano,2020,150,150,1800,12
+13,Bolívar,13600,Rioviejo,Maíz,2020,520,350,875,3
+13,Bolívar,13600,Rioviejo,Patilla,2020,20,18,540,30
+13,Bolívar,13600,Rioviejo,Yuca,2020,300,280,5600,20
+13,Bolívar,13600,Rioviejo,Maíz,2020,600,250,625,3
+13,Bolívar,13600,Rioviejo,Palma de aceite,2020,6882,4320,16416,4
+13,Bolívar,13620,San Cristobal,Maíz,2020,100,90,76,1
+13,Bolívar,13620,San Cristobal,Yuca,2020,100,90,1440,16
+13,Bolívar,13620,San Cristobal,Maíz,2020,100,18,15,1
+13,Bolívar,13620,San Cristobal,Fríjol,2020,40,40,80,2
+13,Bolívar,13620,San Cristobal,Melón,2020,30,30,900,30
+13,Bolívar,13620,San Cristobal,Limón,2020,0,0,0,0
+13,Bolívar,13620,San Cristobal,Mango,2020,57,37,570,10
+13,Bolívar,13620,San Cristobal,Plátano,2020,22,22,176,8
+13,Bolívar,13647,San Estanislao,Melón,2020,3,3,105,35
+13,Bolívar,13647,San Estanislao,Ñame,2020,300,240,2400,10
+13,Bolívar,13647,San Estanislao,Yuca,2020,800,240,2400,10
+13,Bolívar,13647,San Estanislao,Maíz,2020,1000,800,671,1
+13,Bolívar,13647,San Estanislao,Melón,2020,3,2,70,35
+13,Bolívar,13647,San Estanislao,Fríjol,2020,40,36,36,1
+13,Bolívar,13647,San Estanislao,Maíz,2020,1000,800,671,1
+13,Bolívar,13647,San Estanislao,Ahuyama,2020,25,22,88,4
+13,Bolívar,13647,San Estanislao,Fríjol,2020,40,36,36,1
+13,Bolívar,13647,San Estanislao,Arroz,2020,3,3,17,6
+13,Bolívar,13647,San Estanislao,Arroz,2020,17,4,25,6
+13,Bolívar,13647,San Estanislao,Yuca,2020,0,0,0,0
+13,Bolívar,13647,San Estanislao,Plátano,2020,38,20,160,8
+13,Bolívar,13650,San Fernando,Maíz,2020,200,115,230,2
+13,Bolívar,13650,San Fernando,Yuca,2020,97,70,175,3
+13,Bolívar,13650,San Fernando,Maíz,2020,250,156,312,2
+13,Bolívar,13650,San Fernando,Mango,2020,16,12,27,3
+13,Bolívar,13650,San Fernando,Naranja,2020,56,50,159,3
+13,Bolívar,13650,San Fernando,Plátano,2020,60,60,120,2
+13,Bolívar,13654,San Jacinto,Arroz,2020,250,250,275,1
+13,Bolívar,13654,San Jacinto,Maíz,2020,350,350,700,2
+13,Bolívar,13654,San Jacinto,Ají,2020,150,150,600,4
+13,Bolívar,13654,San Jacinto,Fríjol,2020,50,50,140,3
+13,Bolívar,13654,San Jacinto,Ñame,2020,3500,3500,52500,15
+13,Bolívar,13654,San Jacinto,Tabaco,2020,50,50,100,2
+13,Bolívar,13654,San Jacinto,Yuca,2020,2500,2500,30000,12
+13,Bolívar,13654,San Jacinto,Ají,2020,160,160,800,5
+13,Bolívar,13654,San Jacinto,Maíz,2020,70,70,210,3
+13,Bolívar,13654,San Jacinto,Ajonjolí,2020,90,90,90,1
+13,Bolívar,13654,San Jacinto,Patilla,2020,6,6,90,15
+13,Bolívar,13654,San Jacinto,Berenjena,2020,3,3,36,12
+13,Bolívar,13654,San Jacinto,Tomate,2020,6,6,60,10
+13,Bolívar,13654,San Jacinto,Batata,2020,6,6,48,8
+13,Bolívar,13654,San Jacinto,Ahuyama,2020,15,15,105,7
+13,Bolívar,13654,San Jacinto,Achiote,2020,12,12,24,2
+13,Bolívar,13654,San Jacinto,Maíz,2020,2800,2800,5600,2
+13,Bolívar,13654,San Jacinto,Arroz,2020,180,180,198,1
+13,Bolívar,13654,San Jacinto,Fríjol,2020,70,70,196,3
+13,Bolívar,13654,San Jacinto,Ajonjolí,2020,120,120,120,1
+13,Bolívar,13654,San Jacinto,Ñame,2020,170,170,2550,15
+13,Bolívar,13654,San Jacinto,Yuca,2020,450,450,5400,12
+13,Bolívar,13654,San Jacinto,Maíz,2020,150,150,450,3
+13,Bolívar,13654,San Jacinto,Ají,2020,120,120,600,5
+13,Bolívar,13654,San Jacinto,Aguacate,2020,300,280,4200,15
+13,Bolívar,13654,San Jacinto,Cacao,2020,241,241,96,0
+13,Bolívar,13654,San Jacinto,Café,2020,49,30,30,1
+13,Bolívar,13654,San Jacinto,Caña panelera,2020,50,50,100,2
+13,Bolívar,13654,San Jacinto,Plátano,2020,600,500,2000,4
+13,Bolívar,13654,San Jacinto,Palma de aceite,2020,150,150,491,3
+13,Bolívar,13654,San Jacinto,Cítricos,2020,15,15,165,11
+13,Bolívar,13654,San Jacinto,Papaya,2020,7,7,350,50
+13,Bolívar,13654,San Jacinto,Mango,2020,25,25,100,4
+13,Bolívar,13654,San Jacinto,Mango,2020,2,2,12,6
+13,Bolívar,13655,San Jacinto del Cauca,Arroz,2020,500,500,2000,4
+13,Bolívar,13655,San Jacinto del Cauca,Arroz,2020,5500,5500,27500,5
+13,Bolívar,13655,San Jacinto del Cauca,Maíz,2020,600,600,1800,3
+13,Bolívar,13655,San Jacinto del Cauca,Yuca,2020,150,150,1500,10
+13,Bolívar,13655,San Jacinto del Cauca,Arroz,2020,300,270,1080,4
+13,Bolívar,13655,San Jacinto del Cauca,Arroz,2020,4600,4300,21500,5
+13,Bolívar,13655,San Jacinto del Cauca,Yuca,2020,100,100,1000,10
+13,Bolívar,13655,San Jacinto del Cauca,Cacao,2020,10,10,8,1
+13,Bolívar,13655,San Jacinto del Cauca,Plátano,2020,60,60,360,6
+13,Bolívar,13657,San Juan Nepomuceno,Maíz,2020,1200,1200,3000,3
+13,Bolívar,13657,San Juan Nepomuceno,Fríjol,2020,75,70,140,2
+13,Bolívar,13657,San Juan Nepomuceno,Ñame,2020,3600,3600,43200,12
+13,Bolívar,13657,San Juan Nepomuceno,Maíz,2020,2000,2000,5000,3
+13,Bolívar,13657,San Juan Nepomuceno,Fríjol,2020,80,75,150,2
+13,Bolívar,13657,San Juan Nepomuceno,Yuca,2020,1500,1500,18000,12
+13,Bolívar,13657,San Juan Nepomuceno,Yuca,2020,900,900,10800,12
+13,Bolívar,13657,San Juan Nepomuceno,Ají,2020,300,250,875,4
+13,Bolívar,13657,San Juan Nepomuceno,Ají,2020,300,300,1050,4
+13,Bolívar,13657,San Juan Nepomuceno,Maíz,2020,320,320,1120,4
+13,Bolívar,13657,San Juan Nepomuceno,Cacao,2020,99,70,35,1
+13,Bolívar,13657,San Juan Nepomuceno,Naranja,2020,45,45,720,16
+13,Bolívar,13657,San Juan Nepomuceno,Plátano,2020,303,303,2424,8
+13,Bolívar,13657,San Juan Nepomuceno,Mango,2020,30,30,420,14
+13,Bolívar,13657,San Juan Nepomuceno,Guayaba,2020,15,15,90,6
+13,Bolívar,13667,San Martin de Loba,Arroz,2020,70,60,99,2
+13,Bolívar,13667,San Martin de Loba,Maíz,2020,400,350,525,2
+13,Bolívar,13667,San Martin de Loba,Yuca,2020,300,250,3000,12
+13,Bolívar,13667,San Martin de Loba,Ahuyama,2020,25,20,200,10
+13,Bolívar,13667,San Martin de Loba,Arroz,2020,100,90,149,2
+13,Bolívar,13667,San Martin de Loba,Maíz,2020,600,550,825,2
+13,Bolívar,13667,San Martin de Loba,Yuca,2020,300,280,3080,11
+13,Bolívar,13667,San Martin de Loba,Ahuyama,2020,15,10,100,10
+13,Bolívar,13667,San Martin de Loba,Aguacate,2020,72,72,864,12
+13,Bolívar,13667,San Martin de Loba,Plátano,2020,102,100,800,8
+13,Bolívar,13670,San Pablo,Arroz,2020,970,920,4600,5
+13,Bolívar,13670,San Pablo,Arroz,2020,0,0,0,0
+13,Bolívar,13670,San Pablo,Maíz,2020,1120,1008,1310,1
+13,Bolívar,13670,San Pablo,Patilla,2020,20,20,300,15
+13,Bolívar,13670,San Pablo,Yuca,2020,780,780,11700,15
+13,Bolívar,13670,San Pablo,Arroz,2020,500,475,2375,5
+13,Bolívar,13670,San Pablo,Arroz,2020,0,0,0,0
+13,Bolívar,13670,San Pablo,Maíz,2020,800,800,1040,1
+13,Bolívar,13670,San Pablo,Patilla,2020,20,20,300,15
+13,Bolívar,13670,San Pablo,Ñame,2020,10,10,60,6
+13,Bolívar,13670,San Pablo,Fríjol,2020,2,2,1,1
+13,Bolívar,13670,San Pablo,Cacao,2020,1200,800,640,1
+13,Bolívar,13670,San Pablo,Palma de aceite,2020,8796,8076,18074,2
+13,Bolívar,13670,San Pablo,Plátano,2020,855,855,17100,20
+13,Bolívar,13670,San Pablo,Guanábana,2020,2,0,0,0
+13,Bolívar,13670,San Pablo,Naranja,2020,6,0,0,0
+13,Bolívar,13670,San Pablo,Caña panelera,2020,30,0,0,0
+13,Bolívar,13673,Santa Catalina,Maíz,2020,500,500,500,1
+13,Bolívar,13673,Santa Catalina,Melón,2020,12,12,312,26
+13,Bolívar,13673,Santa Catalina,Fríjol,2020,6,5,5,1
+13,Bolívar,13673,Santa Catalina,Ñame,2020,120,110,1100,10
+13,Bolívar,13673,Santa Catalina,Yuca,2020,300,300,1500,5
+13,Bolívar,13673,Santa Catalina,Maíz,2020,650,390,390,1
+13,Bolívar,13673,Santa Catalina,Melón,2020,15,2,52,26
+13,Bolívar,13673,Santa Catalina,Fríjol,2020,20,10,10,1
+13,Bolívar,13673,Santa Catalina,Ahuyama,2020,20,2,24,12
+13,Bolívar,13673,Santa Catalina,Ñame,2020,4,4,40,10
+13,Bolívar,13673,Santa Catalina,Yuca,2020,350,300,3000,10
+13,Bolívar,13673,Santa Catalina,Aguacate,2020,4,3,6,2
+13,Bolívar,13673,Santa Catalina,Coco,2020,7,7,25,4
+13,Bolívar,13673,Santa Catalina,Guanábana,2020,19,19,209,11
+13,Bolívar,13673,Santa Catalina,Limón,2020,8,4,56,14
+13,Bolívar,13673,Santa Catalina,Mango,2020,263,253,4554,18
+13,Bolívar,13673,Santa Catalina,Palma de aceite,2020,185,185,565,3
+13,Bolívar,13673,Santa Catalina,Plátano,2020,42,42,294,7
+13,Bolívar,13683,Santa Rosa,Maíz,2020,337,240,288,1
+13,Bolívar,13683,Santa Rosa,Melón,2020,8,5,30,6
+13,Bolívar,13683,Santa Rosa,Patilla,2020,6,2,18,9
+13,Bolívar,13683,Santa Rosa,Berenjena,2020,73,28,252,9
+13,Bolívar,13683,Santa Rosa,Fríjol,2020,24,16,22,1
+13,Bolívar,13683,Santa Rosa,Ñame,2020,30,22,198,9
+13,Bolívar,13683,Santa Rosa,Yuca,2020,325,200,3600,18
+13,Bolívar,13683,Santa Rosa,Arroz,2020,10,6,10,2
+13,Bolívar,13683,Santa Rosa,Maíz,2020,150,60,60,1
+13,Bolívar,13683,Santa Rosa,Melón,2020,16,14,112,8
+13,Bolívar,13683,Santa Rosa,Patilla,2020,14,7,42,6
+13,Bolívar,13683,Santa Rosa,Berenjena,2020,18,10,80,8
+13,Bolívar,13683,Santa Rosa,Tomate,2020,2,1,2,2
+13,Bolívar,13683,Santa Rosa,Fríjol,2020,6,4,14,3
+13,Bolívar,13683,Santa Rosa,Ñame,2020,0,0,0,0
+13,Bolívar,13683,Santa Rosa,Yuca,2020,36,1,10,10
+13,Bolívar,13683,Santa Rosa,Guayaba,2020,24,16,48,3
+13,Bolívar,13683,Santa Rosa,Limón,2020,43,19,342,18
+13,Bolívar,13683,Santa Rosa,Mango,2020,100,94,1692,18
+13,Bolívar,13683,Santa Rosa,Plátano,2020,95,83,498,6
+13,Bolívar,13688,Santa Rosa del Sur,Maíz,2020,1100,1090,1635,2
+13,Bolívar,13688,Santa Rosa del Sur,Fríjol,2020,500,500,300,1
+13,Bolívar,13688,Santa Rosa del Sur,Yuca,2020,1030,1020,15300,15
+13,Bolívar,13688,Santa Rosa del Sur,Maíz,2020,900,895,1343,2
+13,Bolívar,13688,Santa Rosa del Sur,Fríjol,2020,500,500,300,1
+13,Bolívar,13688,Santa Rosa del Sur,Yuca,2020,120,115,1725,15
+13,Bolívar,13688,Santa Rosa del Sur,Aguacate,2020,123,123,554,5
+13,Bolívar,13688,Santa Rosa del Sur,Cacao,2020,3000,1300,650,1
+13,Bolívar,13688,Santa Rosa del Sur,Café,2020,1305,1230,984,1
+13,Bolívar,13688,Santa Rosa del Sur,Caña panelera,2020,630,585,5265,9
+13,Bolívar,13688,Santa Rosa del Sur,Pitahaya,2020,15,15,75,5
+13,Bolívar,13688,Santa Rosa del Sur,Plátano,2020,1000,1000,15000,15
+13,Bolívar,13744,Simití,Arroz,2020,300,290,798,3
+13,Bolívar,13744,Simití,Maíz,2020,250,220,660,3
+13,Bolívar,13744,Simití,Fríjol,2020,25,25,38,2
+13,Bolívar,13744,Simití,Yuca,2020,40,37,322,9
+13,Bolívar,13744,Simití,Arroz,2020,320,310,853,3
+13,Bolívar,13744,Simití,Maíz,2020,220,208,624,3
+13,Bolívar,13744,Simití,Fríjol,2020,20,16,24,2
+13,Bolívar,13744,Simití,Yuca,2020,30,26,226,9
+13,Bolívar,13744,Simití,Aguacate,2020,23,13,52,4
+13,Bolívar,13744,Simití,Cacao,2020,1039,755,453,1
+13,Bolívar,13744,Simití,Palma de aceite,2020,6280,5680,21069,4
+13,Bolívar,13744,Simití,Plátano,2020,167,150,900,6
+13,Bolívar,13760,Soplaviento,Maíz,2020,75,65,55,1
+13,Bolívar,13760,Soplaviento,Fríjol,2020,6,5,15,3
+13,Bolívar,13760,Soplaviento,Yuca,2020,75,60,300,5
+13,Bolívar,13760,Soplaviento,Melón,2020,5,5,18,4
+13,Bolívar,13760,Soplaviento,Maíz,2020,80,50,42,1
+13,Bolívar,13760,Soplaviento,Fríjol,2020,7,4,10,3
+13,Bolívar,13760,Soplaviento,Yuca,2020,80,45,180,4
+13,Bolívar,13760,Soplaviento,Melón,2020,6,5,18,4
+13,Bolívar,13760,Soplaviento,Guayaba,2020,1,1,2,4
+13,Bolívar,13760,Soplaviento,Mango,2020,14,13,39,3
+13,Bolívar,13760,Soplaviento,Plátano,2020,0,0,0,0
+13,Bolívar,13780,Talaigua Nuevo,Maíz,2020,350,300,380,1
+13,Bolívar,13780,Talaigua Nuevo,Patilla,2020,8,7,50,7
+13,Bolívar,13780,Talaigua Nuevo,Hortalizas varias,2020,50,50,58,1
+13,Bolívar,13780,Talaigua Nuevo,Tabaco,2020,28,27,24,1
+13,Bolívar,13780,Talaigua Nuevo,Yuca,2020,350,300,2100,7
+13,Bolívar,13780,Talaigua Nuevo,Maíz,2020,400,50,60,1
+13,Bolívar,13780,Talaigua Nuevo,Patilla,2020,0,0,0,0
+13,Bolívar,13780,Talaigua Nuevo,Hortalizas varias,2020,0,0,0,0
+13,Bolívar,13780,Talaigua Nuevo,Coco,2020,26,26,135,5
+13,Bolívar,13780,Talaigua Nuevo,Mango,2020,28,28,120,4
+13,Bolívar,13780,Talaigua Nuevo,Naranja,2020,33,33,297,9
+13,Bolívar,13780,Talaigua Nuevo,Plátano,2020,75,55,240,4
+13,Bolívar,13810,Tiquisio (Puerto Rico),Arroz,2020,987,950,4180,4
+13,Bolívar,13810,Tiquisio (Puerto Rico),Arroz,2020,320,270,1485,6
+13,Bolívar,13810,Tiquisio (Puerto Rico),Maíz,2020,400,370,1480,4
+13,Bolívar,13810,Tiquisio (Puerto Rico),Ñame,2020,100,100,1100,11
+13,Bolívar,13810,Tiquisio (Puerto Rico),Yuca,2020,100,100,1200,12
+13,Bolívar,13810,Tiquisio (Puerto Rico),Arroz,2020,900,450,1980,4
+13,Bolívar,13810,Tiquisio (Puerto Rico),Arroz,2020,250,250,1375,6
+13,Bolívar,13810,Tiquisio (Puerto Rico),Maíz,2020,100,80,320,4
+13,Bolívar,13810,Tiquisio (Puerto Rico),Cacao,2020,70,31,16,1
+13,Bolívar,13810,Tiquisio (Puerto Rico),Caña panelera,2020,68,48,29,1
+13,Bolívar,13810,Tiquisio (Puerto Rico),Plátano,2020,217,147,823,6
+13,Bolívar,13836,Turbaco,Maíz,2020,330,330,369,1
+13,Bolívar,13836,Turbaco,Yuca,2020,270,270,1890,7
+13,Bolívar,13836,Turbaco,Maíz,2020,435,430,481,1
+13,Bolívar,13836,Turbaco,Yuca,2020,200,200,1400,7
+13,Bolívar,13836,Turbaco,Caña panelera,2020,38,28,112,4
+13,Bolívar,13836,Turbaco,Guanábana,2020,9,8,27,3
+13,Bolívar,13836,Turbaco,Limón,2020,6,6,6,1
+13,Bolívar,13836,Turbaco,Mango,2020,11,10,30,3
+13,Bolívar,13836,Turbaco,Naranja,2020,11,10,40,4
+13,Bolívar,13836,Turbaco,Piña,2020,3,3,9,3
+13,Bolívar,13836,Turbaco,Pomelo,2020,3,1,4,4
+13,Bolívar,13836,Turbaco,Plátano,2020,5,5,20,4
+13,Bolívar,13838,Turbana,Maíz,2020,555,510,214,0
+13,Bolívar,13838,Turbana,Yuca,2020,490,490,3920,8
+13,Bolívar,13838,Turbana,Maíz,2020,830,760,383,1
+13,Bolívar,13838,Turbana,Yuca,2020,200,200,1600,8
+13,Bolívar,13838,Turbana,Níspero,2020,13,13,65,5
+13,Bolívar,13838,Turbana,Limón,2020,69,69,621,9
+13,Bolívar,13838,Turbana,Mango,2020,360,180,900,5
+13,Bolívar,13873,Villanueva,Maíz,2020,2240,675,680,1
+13,Bolívar,13873,Villanueva,Ñame,2020,500,275,4703,17
+13,Bolívar,13873,Villanueva,Yuca,2020,2230,1792,52057,29
+13,Bolívar,13873,Villanueva,Maíz,2020,3116,2528,2545,1
+13,Bolívar,13873,Villanueva,Ñame,2020,500,275,4703,17
+13,Bolívar,13873,Villanueva,Yuca,2020,750,600,17424,29
+13,Bolívar,13873,Villanueva,Caña panelera,2020,23,23,18,1
+13,Bolívar,13873,Villanueva,Guayaba,2020,4,4,190,48
+13,Bolívar,13873,Villanueva,Mango,2020,352,352,7270,21
+13,Bolívar,13873,Villanueva,Piña,2020,3,3,230,77
+13,Bolívar,13873,Villanueva,Plátano,2020,93,93,1830,20
+13,Bolívar,13894,Zambrano,Maíz,2020,720,720,302,0
+13,Bolívar,13894,Zambrano,Fríjol,2020,250,250,215,1
+13,Bolívar,13894,Zambrano,Yuca,2020,400,400,4800,12
+13,Bolívar,13894,Zambrano,Maíz,2020,720,360,151,0
+13,Bolívar,13894,Zambrano,Fríjol,2020,250,130,112,1
+13,Bolívar,13894,Zambrano,Ajonjolí,2020,50,50,60,1
+13,Bolívar,13894,Zambrano,Ahuyama,2020,25,25,300,12
+13,Bolívar,13894,Zambrano,Tabaco,2020,20,20,40,2
+13,Bolívar,13894,Zambrano,Patilla,2020,20,20,240,12
+13,Bolívar,13894,Zambrano,Melón,2020,20,20,240,12
+13,Bolívar,13894,Zambrano,Yuca,2020,1000,1000,12000,12
+13,Bolívar,13894,Zambrano,Palma de aceite,2020,1430,1430,3575,3
