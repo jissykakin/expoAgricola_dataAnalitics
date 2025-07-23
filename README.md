@@ -30,10 +30,10 @@ AgriDash es una aplicación interactiva desarrollada con Python y Dash para el a
 
 ## Cómo ejecutar la app 🚀
 1. Clona este repositorio.
-```
-  git clone https://github.com/tu-usuario/agridash.git
-  cd app
-```
+   ```
+     git clone [https://github.com/tu-usuario/agridash.git](https://github.com/jissykakin/expoAgricola_dataAnalitics.git)
+     cd app
+   ```
 2. Instala los requerimientos:
    ```
    pip install -r requirements.txt
@@ -43,8 +43,27 @@ AgriDash es una aplicación interactiva desarrollada con Python y Dash para el a
    python app.py
    ```
 
+## Capturas de Pantalla 📸 
+A continuación se presentan algunas vistas de la aplicación Agridash:
+
+1. 🏠 Pantalla Principal
+   <img width="1420" height="697" alt="image" src="https://github.com/user-attachments/assets/26306699-d775-4ff0-9ee1-19a19e6c54a5" />
+   
+2. 📊 Análisis Descriptivo - Exportaciones Agrícolas
+   <img width="1423" height="716" alt="image" src="https://github.com/user-attachments/assets/77f92110-c7ff-4887-bbb4-cb0445a102eb" />
+
+4. 📈 Análisis Predictivos - Exportaciones Agrícolas
+   <img width="1418" height="712" alt="image" src="https://github.com/user-attachments/assets/9e2aeb55-a1d1-4191-a01f-ed51f2acae86" />
+
+6. 📊 Análisis Descriptivo - Producción Agrícola
+   <img width="1422" height="704" alt="image" src="https://github.com/user-attachments/assets/0d3fecb5-b6fa-4774-a396-94e4138e0a23" />
+
+8. 📈 Modelos Predictivos - Producción Agrícola (en desarrollo)
+   <img width="1438" height="706" alt="image" src="https://github.com/user-attachments/assets/29a79e7e-b951-4481-bd0e-f3fa010b6f91" />
+
 ## Créditos 👥
 Desarrollado como parte de un proyecto de análisis de datos apoyado por el programa Talento Tech, el Ministerio TIC y la Universidad Tecnológica de Bolívar.
 Asistencia técnica y soporte mediante herramientas de IA: ChatGPT (OpenAI) y DeepSeek.
 
-<img width="1440" height="852" alt="image" src="https://github.com/user-attachments/assets/dda4a218-995b-43eb-a94d-4a0208a7e903" />
+
+
